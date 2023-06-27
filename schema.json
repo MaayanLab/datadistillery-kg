@@ -100071,9 +100071,7 @@
                     "initial_query": {
                         "start": "Gene or Genome",
                         "start_term": "CES1 gene",
-                        "start_field": "label", 
-                        "relation": "positively regulated by"
-					}
+                        "start_field": "label"					}
                 }
             }
         ]
