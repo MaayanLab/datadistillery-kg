@@ -1,0 +1,6 @@
+data/
+out/
+neo4j/
+.env
+.DS_Store
+venv
