@@ -66,43 +66,54 @@ class GraphEx:
 graph = GraphEx(os.environ['NEO4J_DEV_URL'], auth=(os.environ['NEO4J_USER'], os.environ['NEO4J_PASSWORD']))
 
 node_pattern = "(?P<directory>.+)/(?P<label>.+)\.(?P<entity>.+)\.csv"
-edge_pattern = "(?P<directory>.+)/(?P<source_type>.+)\.(?P<relation>.+)\.(?P<target_type>.+)\.(?P<entity>.+)\.tsv"
+edge_pattern = "(?P<directory>.+)/(?P<source_type>.+)\.(?P<relation>.+)\.(?P<target_type>.+)\.(?P<entity>.+)\.csv"
 for directory in directories:
     directory = directory.strip()
-    for filename in glob(directory + "/*.nodes.csv"):
+    for filename in sorted(glob(directory + "/*.nodes.csv")):
         match = re.match(node_pattern, filename).groupdict()
-        entity = match["entity"]
+        # entity = match["entity"]
+        entity = "nodes"
         label = match["label"].replace("_", " ")
-        print("Ingesting %s nodes..."%label)
+        print("creating %s nodes..."%label)
         # add constraint
-        graph.run("CREATE CONSTRAINT IF NOT EXISTS FOR (n: `%s`) REQUIRE n.id IS UNIQUE"%label)
-        graph.run("CREATE INDEX IF NOT EXISTS FOR (n: `%s`) ON (n.label)"%label)
-        df = pd.read_csv(filename)
+        df = pd.read_csv(filename, low_memory=False)
         stream = iter(df_parser_node(df))
         while True:
             batch = list(islice(stream, chunk_size))
             if batch:
                 create_nodes(graph.transaction(), batch, labels={label})
+                # merge_nodes(graph.transaction(), batch, merge_key=(label, "id"))
                 graph.commit()
             else:
                 print("Ingested")
                 break
-    for filename in glob(directory + "/*.edges.tsv"):
+        try:
+          graph.run("CREATE CONSTRAINT IF NOT EXISTS FOR (n: `%s`) REQUIRE n.id IS UNIQUE"%label)
+          graph.run("CREATE INDEX IF NOT EXISTS FOR (n: `%s`) ON (n.label)"%label)
+        except Exception as e:
+           print(e)
+    cont = False
+    for filename in sorted(glob(directory + "/*.edges.csv")):
         match = re.match(edge_pattern, filename).groupdict()
         entity = match["entity"]
         source_type = match["source_type"].replace("_", " ")
         relation = match["relation"].replace("_", " ")
-        print("Ingesting %s edges..."%relation)
+        print("Ingesting %s edges of %s..."%(relation, filename))
         target_type = match["target_type"].replace("_", " ")
         # add constraint
         df = pd.read_csv(filename)
         stream = iter(df_parser_edge(df))
+        if filename == "../out/filtered/edges/4DNF.4DN file has loop.4DNL.edges.csv":
+           cont = True
         while True:
+            counter = 0
             batch = list(islice(stream, chunk_size))
+            # print(counter,len(batch))
+            counter += 1
             if batch:
                 create_relationships(graph.transaction(), batch, relation, start_node_key=(source_type, "id"), end_node_key=(target_type, "id"))
                 graph.commit()
             else:
                 break
 
-        
+          
