@@ -15144,7 +15144,6 @@
                 "gene associated with disease or phenotype",
                 "contains chromosome",
                 "correlated with condition",
-                "negatively correlated with chemical or drug",
                 "coexpression Brain   Putamen (basal ganglia)",
                 "coexpression Brain   Hypothalamus",
                 "correlated with condition",
@@ -15215,7 +15214,6 @@
                 "correlated with condition",
                 "gene associated with disease or phenotype",
                 "gene associated with disease or phenotype",
-                "negatively correlated with chemical or drug",
                 "correlated with condition",
                 "positively correlated with chemical or drug",
                 "correlated with condition",
@@ -15223,7 +15221,6 @@
                 "gene associated with disease or phenotype",
                 "coexpression Minor Salivary Gland",
                 "in similarity relationship with",
-                "negatively correlated with chemical or drug",
                 "correlated with condition",
                 "coexpression Adipose   Visceral (Omentum)",
                 "correlated with condition",
@@ -15290,14 +15287,12 @@
                 "coexpression Brain   Cerebellar Hemisphere",
                 "coexpression Brain   Hypothalamus",
                 "coexpression Brain   Substantia nigra",
-                "negatively regulates",
                 "correlated with condition",
                 "gene associated with disease or phenotype",
                 "correlated with condition",
                 "coexpression Muscle   Skeletal",
                 "isa",
                 "coexpression Bladder",
-                "negatively correlated with chemical or drug",
                 "isa",
                 "location of",
                 "correlated with condition",
@@ -15308,7 +15303,6 @@
                 "gene associated with disease or phenotype",
                 "coexpression Cells   EBV transformed lymphocytes",
                 "correlated with condition",
-                "negatively correlated with chemical or drug",
                 "positively correlated with chemical or drug",
                 "gene associated with disease or phenotype",
                 "expressed in",
@@ -15348,9 +15342,6 @@
                 "correlated with condition",
                 "coexpression Cells   EBV transformed lymphocytes",
                 "indication",
-                "negatively regulated by",
-                "negatively correlated with chemical or drug",
-                "negatively correlated with chemical or drug",
                 "correlated with condition",
                 "coexpression Cervix   Ectocervix",
                 "coexpression Spleen",
@@ -15387,7 +15378,6 @@
                 "indication",
                 "correlated with condition",
                 "indication",
-                "negatively correlated with chemical or drug",
                 "coexpression Pancreas",
                 "bioactivity",
                 "coexpression Brain   Spinal cord (cervical c 1)",
@@ -15396,8 +15386,6 @@
                 "correlated with condition",
                 "correlated with condition",
                 "4DN dataset involves cell type",
-                "negatively correlated with chemical or drug",
-                "negatively correlated with chemical or drug",
                 "positively correlated with chemical or drug",
                 "gene associated with disease or phenotype",
                 "coexpression Muscle   Skeletal",
@@ -15415,12 +15403,10 @@
                 "coexpression Vagina",
                 "coexpression Stomach",
                 "correlated with condition",
-                "negatively correlated with chemical or drug",
                 "gene associated with disease or phenotype",
                 "correlated with condition",
                 "has parent",
                 "coexpression Colon   Transverse",
-                "negatively correlated with chemical or drug",
                 "coexpression Thyroid",
                 "gene associated with disease or phenotype",
                 "4DN loop ds start",
@@ -15435,9 +15421,7 @@
                 "coexpression Brain   Nucleus accumbens (basal ganglia)",
                 "4DN loop us start",
                 "above 10kbp band",
-                "negatively correlated with chemical or drug",
                 "correlated with condition",
-                "negatively correlated with chemical or drug",
                 "has enzyme protein",
                 "positively correlated with chemical or drug",
                 "gene associated with disease or phenotype",
@@ -15449,7 +15433,6 @@
                 "isa",
                 "indication",
                 "correlated with condition",
-                "negatively correlated with chemical or drug",
                 "positively correlated with chemical or drug",
                 "coexpression Esophagus   Gastroesophageal Junction",
                 "coexpression Cervix   Ectocervix",
@@ -15459,6 +15442,75 @@
             ],
             "edge": {
                 "selected": true,
+                "order": [
+                    "evidence",
+                    "DESC"
+                ],
+                "display": [
+                    {
+                        "label": "source",
+                        "text": "${source}",
+                        "type": "text"
+                    },
+                    {
+                        "label": "relation",
+                        "text": "${relation}",
+                        "type": "text"
+                    },
+                    {
+                        "label": "target",
+                        "text": "${target}",
+                        "type": "text"
+                    },
+                    {
+                        "label": "source label",
+                        "text": "${source_label}",
+                        "type": "text"
+                    },
+                    {
+                        "label": "target label",
+                        "text": "${target_label}",
+                        "type": "text"
+                    },
+                    {
+                        "label": "SAB",
+                        "text": "${SAB}",
+                        "type": "text"
+                    },
+                    {
+                        "label": "evidence",
+                        "text": "${evidence}",
+                        "type": "text"
+                    }
+                ]
+            }
+        },
+        {
+            "match": [
+                "negatively correlated with chemical or drug",
+                "negatively correlated with chemical or drug",
+                "negatively correlated with chemical or drug",
+                "negatively regulates",
+                "negatively correlated with chemical or drug",
+                "negatively correlated with chemical or drug",
+                "negatively regulated by",
+                "negatively correlated with chemical or drug",
+                "negatively correlated with chemical or drug",
+                "negatively correlated with chemical or drug",
+                "negatively correlated with chemical or drug",
+                "negatively correlated with chemical or drug",
+                "negatively correlated with chemical or drug",
+                "negatively correlated with chemical or drug",
+                "negatively correlated with chemical or drug",
+                "negatively correlated with chemical or drug",
+                "negatively correlated with chemical or drug"
+            ],
+            "edge": {
+                "selected": true,
+                "order": [
+                    "evidence",
+                    "ASC"
+                ],
                 "display": [
                     {
                         "label": "source",
