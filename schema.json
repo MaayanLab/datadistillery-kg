@@ -15161,7 +15161,6 @@
                 "gene associated with disease or phenotype",
                 "coexpression Brain   Nucleus accumbens (basal ganglia)",
                 "gene associated with disease or phenotype",
-                "positively correlated with chemical or drug",
                 "correlated with condition",
                 "coexpression Adrenal Gland",
                 "coexpression Brain   Anterior cingulate cortex (BA24)",
@@ -15195,7 +15194,6 @@
                 "expresses",
                 "coexpression Brain   Caudate (basal ganglia)",
                 "gene associated with disease or phenotype",
-                "positively correlated with chemical or drug",
                 "correlated with condition",
                 "above 100kbp band",
                 "indication",
@@ -15208,16 +15206,13 @@
                 "coexpression Skin   Sun Exposed (Lower leg)",
                 "correlated with condition",
                 "precedes 100kbp band",
-                "positively correlated with chemical or drug",
                 "indication",
                 "4DN loop has qvalue bin",
                 "correlated with condition",
                 "gene associated with disease or phenotype",
                 "gene associated with disease or phenotype",
                 "correlated with condition",
-                "positively correlated with chemical or drug",
                 "correlated with condition",
-                "positively regulates",
                 "gene associated with disease or phenotype",
                 "coexpression Minor Salivary Gland",
                 "in similarity relationship with",
@@ -15239,7 +15234,6 @@
                 "coexpression Lung",
                 "indication",
                 "correlated with condition",
-                "positively correlated with chemical or drug",
                 "coexpression Uterus",
                 "coexpression Cells   Cultured fibroblasts",
                 "isa",
@@ -15251,7 +15245,6 @@
                 "attached by",
                 "correlated with condition",
                 "isa",
-                "positively regulated by",
                 "coexpression Small Intestine   Terminal Ileum",
                 "correlated with condition",
                 "precedes 1kbp band",
@@ -15265,12 +15258,10 @@
                 "coexpression Brain   Nucleus accumbens (basal ganglia)",
                 "correlated with condition",
                 "has expression",
-                "positively correlated with chemical or drug",
                 "precedes 10kbp band",
                 "correlated with condition",
                 "coexpression Fallopian Tube",
                 "coexpression Bladder",
-                "positively correlated with chemical or drug",
                 "coexpression Brain   Hypothalamus",
                 "isa",
                 "indication",
@@ -15303,7 +15294,6 @@
                 "gene associated with disease or phenotype",
                 "coexpression Cells   EBV transformed lymphocytes",
                 "correlated with condition",
-                "positively correlated with chemical or drug",
                 "gene associated with disease or phenotype",
                 "expressed in",
                 "p value",
@@ -15323,10 +15313,8 @@
                 "gene associated with disease or phenotype",
                 "correlated with condition",
                 "correlated with condition",
-                "positively regulates",
                 "correlated with condition",
                 "4DN dataset has file",
-                "positively regulated by",
                 "coexpression Adipose   Subcutaneous",
                 "coexpression Brain   Anterior cingulate cortex (BA24)",
                 "indication",
@@ -15386,7 +15374,6 @@
                 "correlated with condition",
                 "correlated with condition",
                 "4DN dataset involves cell type",
-                "positively correlated with chemical or drug",
                 "gene associated with disease or phenotype",
                 "coexpression Muscle   Skeletal",
                 "gene associated with disease or phenotype",
@@ -15396,7 +15383,6 @@
                 "gene associated with disease or phenotype",
                 "coexpression Pancreas",
                 "correlated with condition",
-                "positively correlated with chemical or drug",
                 "located in",
                 "coexpression Nerve   Tibial",
                 "coexpression Prostate",
@@ -15415,15 +15401,12 @@
                 "gene associated with disease or phenotype",
                 "located in",
                 "located in",
-                "positively correlated with chemical or drug",
-                "positively correlated with chemical or drug",
                 "correlated with condition",
                 "coexpression Brain   Nucleus accumbens (basal ganglia)",
                 "4DN loop us start",
                 "above 10kbp band",
                 "correlated with condition",
                 "has enzyme protein",
-                "positively correlated with chemical or drug",
                 "gene associated with disease or phenotype",
                 "expresses",
                 "coexpression Pituitary",
@@ -15433,7 +15416,6 @@
                 "isa",
                 "indication",
                 "correlated with condition",
-                "positively correlated with chemical or drug",
                 "coexpression Esophagus   Gastroesophageal Junction",
                 "coexpression Cervix   Ectocervix",
                 "expressed in",
@@ -15446,6 +15428,7 @@
                     "evidence",
                     "DESC"
                 ],
+                "color": "#bdbdbd",
                 "display": [
                     {
                         "label": "source",
@@ -15460,16 +15443,6 @@
                     {
                         "label": "target",
                         "text": "${target}",
-                        "type": "text"
-                    },
-                    {
-                        "label": "source label",
-                        "text": "${source_label}",
-                        "type": "text"
-                    },
-                    {
-                        "label": "target label",
-                        "text": "${target_label}",
                         "type": "text"
                     },
                     {
@@ -15511,6 +15484,7 @@
                     "evidence",
                     "ASC"
                 ],
+                "color": "#ef9a9a",
                 "display": [
                     {
                         "label": "source",
@@ -15528,13 +15502,60 @@
                         "type": "text"
                     },
                     {
-                        "label": "source label",
-                        "text": "${source_label}",
+                        "label": "SAB",
+                        "text": "${SAB}",
                         "type": "text"
                     },
                     {
-                        "label": "target label",
-                        "text": "${target_label}",
+                        "label": "evidence",
+                        "text": "${evidence}",
+                        "type": "text"
+                    }
+                ]
+            }
+        },
+        {
+            "match": [
+                "positively correlated with chemical or drug",
+                "positively correlated with chemical or drug",
+                "positively correlated with chemical or drug",
+                "positively correlated with chemical or drug",
+                "positively regulates",
+                "positively correlated with chemical or drug",
+                "positively regulated by",
+                "positively correlated with chemical or drug",
+                "positively correlated with chemical or drug",
+                "positively correlated with chemical or drug",
+                "positively regulates",
+                "positively regulated by",
+                "positively correlated with chemical or drug",
+                "positively correlated with chemical or drug",
+                "positively correlated with chemical or drug",
+                "positively correlated with chemical or drug",
+                "positively correlated with chemical or drug",
+                "positively correlated with chemical or drug"
+            ],
+            "edge": {
+                "selected": true,
+                "order": [
+                    "evidence",
+                    "DESC"
+                ],
+                "color": "#90caf9",
+                "display": [
+                    {
+                        "label": "source",
+                        "text": "${source}",
+                        "type": "text"
+                    },
+                    {
+                        "label": "relation",
+                        "text": "${relation}",
+                        "type": "text"
+                    },
+                    {
+                        "label": "target",
+                        "text": "${target}",
                         "type": "text"
                     },
                     {
