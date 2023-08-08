@@ -15422,41 +15422,39 @@
                 "correlated with condition",
                 "indication"
             ],
-            "edge": {
-                "selected": true,
-                "order": [
-                    "evidence",
-                    "DESC"
-                ],
-                "color": "#bdbdbd",
-                "display": [
-                    {
-                        "label": "source",
-                        "text": "${source}",
-                        "type": "text"
-                    },
-                    {
-                        "label": "relation",
-                        "text": "${relation}",
-                        "type": "text"
-                    },
-                    {
-                        "label": "target",
-                        "text": "${target}",
-                        "type": "text"
-                    },
-                    {
-                        "label": "SAB",
-                        "text": "${SAB}",
-                        "type": "text"
-                    },
-                    {
-                        "label": "evidence",
-                        "text": "${evidence}",
-                        "type": "text"
-                    }
-                ]
-            }
+            "selected": true,
+            "order": [
+                "evidence",
+                "DESC"
+            ],
+            "color": "#bdbdbd",
+            "display": [
+                {
+                    "label": "source",
+                    "text": "${source}",
+                    "type": "text"
+                },
+                {
+                    "label": "relation",
+                    "text": "${relation}",
+                    "type": "text"
+                },
+                {
+                    "label": "target",
+                    "text": "${target}",
+                    "type": "text"
+                },
+                {
+                    "label": "SAB",
+                    "text": "${SAB}",
+                    "type": "text"
+                },
+                {
+                    "label": "evidence",
+                    "text": "${evidence}",
+                    "type": "text"
+                }
+            ]
         },
         {
             "match": [
@@ -15478,41 +15476,39 @@
                 "negatively correlated with chemical or drug",
                 "negatively correlated with chemical or drug"
             ],
-            "edge": {
-                "selected": true,
-                "order": [
-                    "evidence",
-                    "ASC"
-                ],
-                "color": "#ef9a9a",
-                "display": [
-                    {
-                        "label": "source",
-                        "text": "${source}",
-                        "type": "text"
-                    },
-                    {
-                        "label": "relation",
-                        "text": "${relation}",
-                        "type": "text"
-                    },
-                    {
-                        "label": "target",
-                        "text": "${target}",
-                        "type": "text"
-                    },
-                    {
-                        "label": "SAB",
-                        "text": "${SAB}",
-                        "type": "text"
-                    },
-                    {
-                        "label": "evidence",
-                        "text": "${evidence}",
-                        "type": "text"
-                    }
-                ]
-            }
+            "selected": true,
+            "order": [
+                "evidence",
+                "ASC"
+            ],
+            "color": "#ef9a9a",
+            "display": [
+                {
+                    "label": "source",
+                    "text": "${source}",
+                    "type": "text"
+                },
+                {
+                    "label": "relation",
+                    "text": "${relation}",
+                    "type": "text"
+                },
+                {
+                    "label": "target",
+                    "text": "${target}",
+                    "type": "text"
+                },
+                {
+                    "label": "SAB",
+                    "text": "${SAB}",
+                    "type": "text"
+                },
+                {
+                    "label": "evidence",
+                    "text": "${evidence}",
+                    "type": "text"
+                }
+            ]
         },
         {
             "match": [
@@ -15535,41 +15531,39 @@
                 "positively correlated with chemical or drug",
                 "positively correlated with chemical or drug"
             ],
-            "edge": {
-                "selected": true,
-                "order": [
-                    "evidence",
-                    "DESC"
-                ],
-                "color": "#90caf9",
-                "display": [
-                    {
-                        "label": "source",
-                        "text": "${source}",
-                        "type": "text"
-                    },
-                    {
-                        "label": "relation",
-                        "text": "${relation}",
-                        "type": "text"
-                    },
-                    {
-                        "label": "target",
-                        "text": "${target}",
-                        "type": "text"
-                    },
-                    {
-                        "label": "SAB",
-                        "text": "${SAB}",
-                        "type": "text"
-                    },
-                    {
-                        "label": "evidence",
-                        "text": "${evidence}",
-                        "type": "text"
-                    }
-                ]
-            }
+            "selected": true,
+            "order": [
+                "evidence",
+                "DESC"
+            ],
+            "color": "#90caf9",
+            "display": [
+                {
+                    "label": "source",
+                    "text": "${source}",
+                    "type": "text"
+                },
+                {
+                    "label": "relation",
+                    "text": "${relation}",
+                    "type": "text"
+                },
+                {
+                    "label": "target",
+                    "text": "${target}",
+                    "type": "text"
+                },
+                {
+                    "label": "SAB",
+                    "text": "${SAB}",
+                    "type": "text"
+                },
+                {
+                    "label": "evidence",
+                    "text": "${evidence}",
+                    "type": "text"
+                }
+            ]
         }
     ],
     "header": {
