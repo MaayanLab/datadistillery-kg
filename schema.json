@@ -41,7 +41,7 @@
                 "type_combined",
                 "HMDB"
             ],
-            "color": "#c5e1a5"
+            "color": "#35d71c"
         },
         {
             "node": "GLYGEN SRC",
@@ -84,7 +84,7 @@
                 "type_combined",
                 "GLYGEN.SRC"
             ],
-            "color": "#c5e1a5"
+            "color": "#ff9600"
         },
         {
             "node": "Diagnostic Procedure",
@@ -409,7 +409,7 @@
                 "EFO",
                 "PATO"
             ],
-            "color": "#c5e1a5"
+            "color": "#ff79ff"
         },
         {
             "node": "HPO",
@@ -470,7 +470,7 @@
                 "HPO",
                 "MONDO"
             ],
-            "color": "#c5e1a5"
+            "color": "#00caff"
         },
         {
             "node": "Mental Process",
@@ -741,7 +741,7 @@
                 "EFO",
                 "PATO"
             ],
-            "color": "#c5e1a5"
+            "color": "#00f7ca"
         },
         {
             "node": "Health Care Activity",
@@ -1072,7 +1072,7 @@
                 "ICF-CY",
                 "EFO"
             ],
-            "color": "#c5e1a5"
+            "color": "#aeba8e"
         },
         {
             "node": "Substance",
@@ -1307,7 +1307,7 @@
                 "UBERON",
                 "EFO"
             ],
-            "color": "#c5e1a5"
+            "color": "#ffaeb6"
         },
         {
             "node": "Biomedical or Dental Material",
@@ -1554,7 +1554,7 @@
                 "EFO",
                 "PUBCHEM"
             ],
-            "color": "#c5e1a5"
+            "color": "#cac2ff"
         },
         {
             "node": "Body Location or Region",
@@ -1765,7 +1765,7 @@
                 "EFO",
                 "CHEBI"
             ],
-            "color": "#c5e1a5"
+            "color": "#e3d700"
         },
         {
             "node": "Gene or Genome",
@@ -1984,7 +1984,7 @@
                 "ENTREZ",
                 "PUBCHEM"
             ],
-            "color": "#c5e1a5"
+            "color": "#aed2d7"
         },
         {
             "node": "GLYGEN RESIDUE",
@@ -2027,7 +2027,7 @@
                 "type_combined",
                 "GLYGEN.RESIDUE"
             ],
-            "color": "#c5e1a5"
+            "color": "#9eeb92"
         },
         {
             "node": "Hazardous or Poisonous Substance",
@@ -2220,7 +2220,7 @@
                 "CHEBI",
                 "PUBCHEM"
             ],
-            "color": "#c5e1a5"
+            "color": "#fbca82"
         },
         {
             "node": "Functional Concept",
@@ -2545,7 +2545,7 @@
                 "EFO",
                 "OBI"
             ],
-            "color": "#c5e1a5"
+            "color": "#ffbafb"
         },
         {
             "node": "NCBI",
@@ -2588,7 +2588,7 @@
                 "type_combined",
                 "NCBI"
             ],
-            "color": "#c5e1a5"
+            "color": "#c2aebe"
         },
         {
             "node": "EXPBINS",
@@ -2631,7 +2631,7 @@
                 "type_combined",
                 "EXPBINS"
             ],
-            "color": "#c5e1a5"
+            "color": "#18ceca"
         },
         {
             "node": "Anatomical Abnormality",
@@ -2914,7 +2914,7 @@
                 "MONDO",
                 "EFO"
             ],
-            "color": "#c5e1a5"
+            "color": "#a2c249"
         },
         {
             "node": "Organ or Tissue Function",
@@ -3167,7 +3167,7 @@
                 "MONDO",
                 "EFO"
             ],
-            "color": "#c5e1a5"
+            "color": "#79caa2"
         },
         {
             "node": "Plant",
@@ -3360,7 +3360,7 @@
                 "EFO",
                 "CHEBI"
             ],
-            "color": "#c5e1a5"
+            "color": "#ff9269"
         },
         {
             "node": "Sign or Symptom",
@@ -3703,7 +3703,7 @@
                 "MONDO",
                 "EFO"
             ],
-            "color": "#c5e1a5"
+            "color": "#ff86c2"
         },
         {
             "node": "Mental or Behavioral Dysfunction",
@@ -4022,7 +4022,7 @@
                 "MFOMD",
                 "EFO"
             ],
-            "color": "#c5e1a5"
+            "color": "#8ebaff"
         },
         {
             "node": "Laboratory or Test Result",
@@ -4275,7 +4275,7 @@
                 "EFO",
                 "NCBI"
             ],
-            "color": "#c5e1a5"
+            "color": "#a2ef00"
         },
         {
             "node": "Biologically Active Substance",
@@ -4516,7 +4516,7 @@
                 "CHEBI",
                 "PUBCHEM"
             ],
-            "color": "#c5e1a5"
+            "color": "#d2aa92"
         },
         {
             "node": "Protein",
@@ -4559,7 +4559,7 @@
                 "type_combined",
                 "UNIPROT"
             ],
-            "color": "#c5e1a5"
+            "color": "#d7ae24"
         },
         {
             "node": "Tissue",
@@ -4842,7 +4842,7 @@
                 "BTO",
                 "EFO"
             ],
-            "color": "#c5e1a5"
+            "color": "#71ebff"
         },
         {
             "node": "HGNC",
@@ -4885,7 +4885,7 @@
                 "type_combined",
                 "HGNC"
             ],
-            "color": "#c5e1a5"
+            "color": "#d79efb"
         },
         {
             "node": "FALDO",
@@ -4928,7 +4928,7 @@
                 "type_combined",
                 "FALDO"
             ],
-            "color": "#c5e1a5"
+            "color": "#dbd2ba"
         },
         {
             "node": "Congenital Abnormality",
@@ -5217,7 +5217,7 @@
                 "EFO",
                 "PATO"
             ],
-            "color": "#c5e1a5"
+            "color": "#00df7d"
         },
         {
             "node": "Molecular Function",
@@ -5392,7 +5392,7 @@
                 "MONDO",
                 "PUBCHEM"
             ],
-            "color": "#c5e1a5"
+            "color": "#d2db7d"
         },
         {
             "node": "GCO",
@@ -5435,7 +5435,7 @@
                 "type_combined",
                 "GCO"
             ],
-            "color": "#c5e1a5"
+            "color": "#d7d2e3"
         },
         {
             "node": "GLYCAN",
@@ -5478,7 +5478,7 @@
                 "type_combined",
                 "GLYCAN"
             ],
-            "color": "#c5e1a5"
+            "color": "#aab6ce"
         },
         {
             "node": "Pathologic Function",
@@ -5845,7 +5845,7 @@
                 "MP",
                 "PATO"
             ],
-            "color": "#c5e1a5"
+            "color": "#b6dfbe"
         },
         {
             "node": "Acquired Abnormality",
@@ -6092,7 +6092,7 @@
                 "PO",
                 "NCBI"
             ],
-            "color": "#c5e1a5"
+            "color": "#41fb61"
         },
         {
             "node": "CHLO",
@@ -6135,7 +6135,7 @@
                 "type_combined",
                 "CHLO"
             ],
-            "color": "#c5e1a5"
+            "color": "#b6d7ff"
         },
         {
             "node": "Clinical Drug",
@@ -6334,7 +6334,7 @@
                 "NDC",
                 "CHEBI"
             ],
-            "color": "#c5e1a5"
+            "color": "#e3a65d"
         },
         {
             "node": "Disease",
@@ -6413,7 +6413,7 @@
                 "MFOMD",
                 "EFO"
             ],
-            "color": "#c5e1a5"
+            "color": "#df9ece"
         },
         {
             "node": "Body System",
@@ -6588,7 +6588,7 @@
                 "UBERON",
                 "MONDO"
             ],
-            "color": "#c5e1a5"
+            "color": "#aabab2"
         },
         {
             "node": "Disease or Syndrome",
@@ -6925,7 +6925,7 @@
                 "PATO",
                 "PUBCHEM"
             ],
-            "color": "#c5e1a5"
+            "color": "#86c2db"
         },
         {
             "node": "GLYCAN MOTIF",
@@ -6968,7 +6968,7 @@
                 "type_combined",
                 "GLYCAN.MOTIF"
             ],
-            "color": "#c5e1a5"
+            "color": "#efc6db"
         },
         {
             "node": "4DNQ",
@@ -7011,7 +7011,7 @@
                 "type_combined",
                 "4DNQ"
             ],
-            "color": "#c5e1a5"
+            "color": "#ffca41"
         },
         {
             "node": "SNOMEDCT US",
@@ -7054,7 +7054,7 @@
                 "type_combined",
                 "SNOMEDCT_US"
             ],
-            "color": "#c5e1a5"
+            "color": "#fbc6b2"
         },
         {
             "node": "GLYGEN GLYCOSYLATION",
@@ -7097,7 +7097,7 @@
                 "type_combined",
                 "GLYGEN.GLYCOSYLATION"
             ],
-            "color": "#c5e1a5"
+            "color": "#82e3d7"
         },
         {
             "node": "PGO",
@@ -7140,7 +7140,7 @@
                 "type_combined",
                 "PGO"
             ],
-            "color": "#c5e1a5"
+            "color": "#82ca79"
         },
         {
             "node": "Patient or Disabled Group",
@@ -7351,7 +7351,7 @@
                 "HPO",
                 "EFO"
             ],
-            "color": "#c5e1a5"
+            "color": "#ff8e92"
         },
         {
             "node": "4DND",
@@ -7394,7 +7394,7 @@
                 "type_combined",
                 "4DND"
             ],
-            "color": "#c5e1a5"
+            "color": "#86c2ba"
         },
         {
             "node": "Organic Chemical",
@@ -7701,7 +7701,7 @@
                 "PUBCHEM",
                 "HMDB"
             ],
-            "color": "#c5e1a5"
+            "color": "#c2ba65"
         },
         {
             "node": "Inorganic Chemical",
@@ -7948,7 +7948,7 @@
                 "EFO",
                 "PUBCHEM"
             ],
-            "color": "#c5e1a5"
+            "color": "#d7b6e3"
         },
         {
             "node": "Cell or Molecular Dysfunction",
@@ -8159,7 +8159,7 @@
                 "MONDO",
                 "EFO"
             ],
-            "color": "#c5e1a5"
+            "color": "#86df55"
         },
         {
             "node": "Hormone",
@@ -8394,7 +8394,7 @@
                 "EFO",
                 "PUBCHEM"
             ],
-            "color": "#c5e1a5"
+            "color": "#bee355"
         },
         {
             "node": "Neoplastic Process",
@@ -8653,7 +8653,7 @@
                 "MONDO",
                 "EFO"
             ],
-            "color": "#c5e1a5"
+            "color": "#8aebb6"
         },
         {
             "node": "CODAO",
@@ -8695,7 +8695,7 @@
                 "type_combined",
                 "CODAO"
             ],
-            "color": "#c5e1a5"
+            "color": "#08d7b2"
         },
         {
             "node": "OMIM",
@@ -8737,7 +8737,7 @@
                 "type_combined",
                 "OMIM"
             ],
-            "color": "#c5e1a5"
+            "color": "#aaaeff"
         },
         {
             "node": "4DNL",
@@ -8780,7 +8780,7 @@
                 "type_combined",
                 "4DNL"
             ],
-            "color": "#c5e1a5"
+            "color": "#ffb282"
         },
         {
             "node": "Organism Attribute",
@@ -9075,7 +9075,7 @@
                 "PATO",
                 "CHEBI"
             ],
-            "color": "#c5e1a5"
+            "color": "#aed292"
         },
         {
             "node": "Nucleic Acid, Nucleoside, or Nucleotide",
@@ -9334,7 +9334,7 @@
                 "SO",
                 "PUBCHEM"
             ],
-            "color": "#c5e1a5"
+            "color": "#d2be8e"
         },
         {
             "node": "MEDGEN",
@@ -9377,7 +9377,7 @@
                 "type_combined",
                 "MEDGEN"
             ],
-            "color": "#c5e1a5"
+            "color": "#dba2b2"
         },
         {
             "node": "Bacterium",
@@ -9588,7 +9588,7 @@
                 "MTHICD9",
                 "EFO"
             ],
-            "color": "#c5e1a5"
+            "color": "#ffaed7"
         },
         {
             "node": "GLYTOUCAN",
@@ -9631,7 +9631,7 @@
                 "type_combined",
                 "GLYTOUCAN"
             ],
-            "color": "#c5e1a5"
+            "color": "#0cfb9a"
         },
         {
             "node": "UNIPROTKB",
@@ -9674,7 +9674,7 @@
                 "type_combined",
                 "UNIPROTKB"
             ],
-            "color": "#c5e1a5"
+            "color": "#ff9aef"
         },
         {
             "node": "GTEXEXP",
@@ -9717,7 +9717,7 @@
                 "type_combined",
                 "GTEXEXP"
             ],
-            "color": "#c5e1a5"
+            "color": "#dbbaba"
         },
         {
             "node": "Laboratory Procedure",
@@ -10000,7 +10000,7 @@
                 "OBI",
                 "PUBCHEM"
             ],
-            "color": "#c5e1a5"
+            "color": "#c6be00"
         },
         {
             "node": "Experimental Model of Disease",
@@ -10115,7 +10115,7 @@
                 "HPO",
                 "EFO"
             ],
-            "color": "#c5e1a5"
+            "color": "#00f3ef"
         },
         {
             "node": "Therapeutic or Preventive Procedure",
@@ -10488,7 +10488,7 @@
                 "BTO",
                 "CHEBI"
             ],
-            "color": "#c5e1a5"
+            "color": "#ffb245"
         },
         {
             "node": "Cell Component",
@@ -10687,7 +10687,7 @@
                 "GENCODE",
                 "CHLO"
             ],
-            "color": "#c5e1a5"
+            "color": "#8aca00"
         },
         {
             "node": "Intellectual Product",
@@ -11084,7 +11084,7 @@
                 "GENCODE",
                 "PUBCHEM"
             ],
-            "color": "#c5e1a5"
+            "color": "#eb9e8e"
         },
         {
             "node": "Amino Acid, Peptide, or Protein",
@@ -11409,7 +11409,7 @@
                 "PR",
                 "PUBCHEM"
             ],
-            "color": "#c5e1a5"
+            "color": "#c2d2ca"
         },
         {
             "node": "Element, Ion, or Isotope",
@@ -11608,7 +11608,7 @@
                 "MONDO",
                 "PUBCHEM"
             ],
-            "color": "#c5e1a5"
+            "color": "#51d2e7"
         },
         {
             "node": "GLYCOSYLTRANSFERASE REACTION",
@@ -11651,7 +11651,7 @@
                 "type_combined",
                 "GLYCOSYLTRANSFERASE.REACTION"
             ],
-            "color": "#c5e1a5"
+            "color": "#beaae7"
         },
         {
             "node": "PVALUEBINS",
@@ -11694,7 +11694,7 @@
                 "type_combined",
                 "PVALUEBINS"
             ],
-            "color": "#c5e1a5"
+            "color": "#8ad7ff"
         },
         {
             "node": "EFO",
@@ -11797,7 +11797,7 @@
                 "PO",
                 "EFO"
             ],
-            "color": "#c5e1a5"
+            "color": "#cedbaa"
         },
         {
             "node": "Body Part, Organ, or Organ Component",
@@ -12104,7 +12104,7 @@
                 "AZ",
                 "PUBCHEM"
             ],
-            "color": "#c5e1a5"
+            "color": "#a2c6a6"
         },
         {
             "node": "GTEXEQTL",
@@ -12152,7 +12152,7 @@
                 "type_combined",
                 "GTEXEQTL"
             ],
-            "color": "#c5e1a5"
+            "color": "#2de7a6"
         },
         {
             "node": "Social Behavior",
@@ -12411,7 +12411,7 @@
                 "EFO",
                 "PATO"
             ],
-            "color": "#c5e1a5"
+            "color": "#dbca4d"
         },
         {
             "node": "Individual Behavior",
@@ -12676,7 +12676,7 @@
                 "MONDO",
                 "EFO"
             ],
-            "color": "#c5e1a5"
+            "color": "#bac2ca"
         },
         {
             "node": "Fish",
@@ -12803,7 +12803,7 @@
                 "LNC",
                 "PUBCHEM"
             ],
-            "color": "#c5e1a5"
+            "color": "#aebeef"
         },
         {
             "node": "Injury or Poisoning",
@@ -13080,7 +13080,7 @@
                 "MONDO",
                 "EFO"
             ],
-            "color": "#c5e1a5"
+            "color": "#ff9e51"
         },
         {
             "node": "Organism Function",
@@ -13363,7 +13363,7 @@
                 "EFO",
                 "PATO"
             ],
-            "color": "#c5e1a5"
+            "color": "#e3ba5d"
         },
         {
             "node": "Indicator, Reagent, or Diagnostic Aid",
@@ -13574,7 +13574,7 @@
                 "CPM",
                 "CHEBI"
             ],
-            "color": "#c5e1a5"
+            "color": "#f396b2"
         },
         {
             "node": "Clinical Attribute",
@@ -13815,7 +13815,7 @@
                 "EFO",
                 "PUBCHEM"
             ],
-            "color": "#c5e1a5"
+            "color": "#aadff3"
         },
         {
             "node": "GLYGEN GLYCOSEQUENCE",
@@ -13858,7 +13858,7 @@
                 "type_combined",
                 "GLYGEN.GLYCOSEQUENCE"
             ],
-            "color": "#c5e1a5"
+            "color": "#ced2f7"
         },
         {
             "node": "Genetic Function",
@@ -13997,7 +13997,7 @@
                 "MONDO",
                 "EFO"
             ],
-            "color": "#c5e1a5"
+            "color": "#b2d200"
         },
         {
             "node": "FOAF",
@@ -14039,7 +14039,7 @@
                 "type_combined",
                 "FOAF"
             ],
-            "color": "#c5e1a5"
+            "color": "#beb69e"
         },
         {
             "node": "Drug",
@@ -14088,7 +14088,7 @@
                 "CHEBI",
                 "PUBCHEM"
             ],
-            "color": "#c5e1a5"
+            "color": "#c2bad7"
         },
         {
             "node": "Pharmacologic Substance",
@@ -14401,7 +14401,7 @@
                 "HPO",
                 "PUBCHEM"
             ],
-            "color": "#c5e1a5"
+            "color": "#a2d2c2"
         },
         {
             "node": "4DNF",
@@ -14444,7 +14444,7 @@
                 "type_combined",
                 "4DNF"
             ],
-            "color": "#c5e1a5"
+            "color": "#59d25d"
         },
         {
             "node": "Finding",
@@ -14877,7 +14877,7 @@
                 "PO",
                 "PUBCHEM"
             ],
-            "color": "#c5e1a5"
+            "color": "#a2d771"
         },
         {
             "node": "Conceptual Entity",
@@ -15076,7 +15076,7 @@
                 "OBI",
                 "CHEBI"
             ],
-            "color": "#c5e1a5"
+            "color": "#69eb24"
         },
         {
             "node": "SIO",
@@ -15119,7 +15119,7 @@
                 "type_combined",
                 "SIO"
             ],
-            "color": "#c5e1a5"
+            "color": "#8ad7df"
         }
     ],
     "edges": [
