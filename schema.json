@@ -11328,6 +11328,16 @@
                     "type": "text"
                 },
                 {
+                    "label": "source label",
+                    "text": "${source_label}",
+                    "type": "text"
+                },
+                {
+                    "label": "target label",
+                    "text": "${target_label}",
+                    "type": "text"
+                },
+                {
                     "label": "SAB",
                     "text": "${SAB}",
                     "type": "text"
@@ -11372,6 +11382,16 @@
                     "type": "text"
                 },
                 {
+                    "label": "source label",
+                    "text": "${source_label}",
+                    "type": "text"
+                },
+                {
+                    "label": "target label",
+                    "text": "${target_label}",
+                    "type": "text"
+                },
+                {
                     "label": "SAB",
                     "text": "${SAB}",
                     "type": "text"
@@ -11413,6 +11433,16 @@
                 {
                     "label": "target",
                     "text": "${target}",
+                    "type": "text"
+                },
+                {
+                    "label": "source label",
+                    "text": "${source_label}",
+                    "type": "text"
+                },
+                {
+                    "label": "target label",
+                    "text": "${target_label}",
                     "type": "text"
                 },
                 {
