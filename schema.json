@@ -3657,7 +3657,7 @@
             "node": "GLYCAN",
             "example": [
                 "Evidence CE",
-                NaN
+                "Motif"
             ],
             "display": [
                 {
@@ -7448,10 +7448,7 @@
         },
         {
             "node": "GLYTOUCAN",
-            "example": [
-                879.33,
-                748.27
-            ],
+            "example": [],
             "display": [
                 {
                     "label": "GLYTOUCAN ID",
@@ -8511,8 +8508,8 @@
         {
             "node": "Phenotype",
             "example": [
-                NaN,
-                NaN
+                "male",
+                "female"
             ],
             "display": [
                 {
