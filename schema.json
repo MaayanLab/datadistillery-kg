@@ -3,8 +3,8 @@
         {
             "node": "HMDB",
             "example": [
-                "1-Stearoylglycerophosphocholine",
-                "2-Stearoylglycerophosphoglycerol"
+                "4-Hydroxy-5-(3',5'-dihydroxyphenyl)-valeric acid-O-glucuronide",
+                "1-Nitroheptane"
             ],
             "display": [
                 {
@@ -88,8 +88,8 @@
         {
             "node": "GLYCOSYLTRANSFERASE REACTION",
             "example": [
-                "GLYCOSYLTRANSFERASE.REACTION:RXN00000150 CUI",
-                "GLYCOSYLTRANSFERASE.REACTION:RXN00000110 CUI"
+                "GLYCOSYLTRANSFERASE.REACTION:RXN00000132 CUI",
+                "GLYCOSYLTRANSFERASE.REACTION:RXN00000141 CUI"
             ],
             "display": [
                 {
@@ -126,7 +126,7 @@
             "node": "Cell",
             "example": [
                 "lymphoblast",
-                "Cytotoxic T-Lymphocytes"
+                "Cells"
             ],
             "display": [
                 {
@@ -288,8 +288,8 @@
         {
             "node": "Diagnostic Procedure",
             "example": [
-                "Splenoportography",
-                "Intraosseous venography"
+                "Intraosseous venography",
+                "Tomography, Emission-Computed, Single-Photon"
             ],
             "display": [
                 {
@@ -481,8 +481,8 @@
         {
             "node": "Mental Process",
             "example": [
-                "Irritation - emotion",
-                "Deja Vu"
+                "Euphoric mood",
+                "Hostility"
             ],
             "display": [
                 {
@@ -1121,8 +1121,8 @@
         {
             "node": "CLINGEN ALLELE REGISTRY",
             "example": [
-                "chr17.83054309.T.A.b38",
-                "chr6.30884970.C.T.b38"
+                "chr7.128763741.A.G.b38",
+                "chr20.372073.A.G.b38"
             ],
             "display": [
                 {
@@ -1332,7 +1332,7 @@
         {
             "node": "Cell Type",
             "example": [
-                "neoplastic cell",
+                "endospore",
                 "myotube"
             ],
             "display": [
@@ -1369,8 +1369,8 @@
         {
             "node": "EXPBINS",
             "example": [
-                "EXPBINS:20.0.21.0 CUI",
-                "EXPBINS:56.0.57.0 CUI"
+                "EXPBINS:13.0.14.0 CUI",
+                "EXPBINS:66.0.67.0 CUI"
             ],
             "display": [
                 {
@@ -1406,8 +1406,8 @@
         {
             "node": "Anatomical Abnormality",
             "example": [
-                "Abnormal oral cavity morphology",
-                "Abnormal metencephalon morphology"
+                "Abnormal number of incisors",
+                "Abnormal radial metaphysis morphology"
             ],
             "display": [
                 {
@@ -1641,8 +1641,8 @@
         {
             "node": "Organ or Tissue Function",
             "example": [
-                "Immune response",
-                "ectoderm formation"
+                "central nervous system development",
+                "ear morphogenesis"
             ],
             "display": [
                 {
@@ -1834,8 +1834,8 @@
         {
             "node": "Gene",
             "example": [
-                "DENND1C gene",
-                "RN7SL41P gene"
+                "TPT1 gene",
+                "ATP5MC1 gene"
             ],
             "display": [
                 {
@@ -2028,8 +2028,8 @@
         {
             "node": "MSIGDB",
             "example": [
-                "NCX_01",
-                "MIR150_3P"
+                "WP_RAC1PAK1P38MMP2_PATHWAY",
+                "ZNF549_TARGET_GENES"
             ],
             "display": [
                 {
@@ -2065,8 +2065,8 @@
         {
             "node": "Sign or Symptom",
             "example": [
-                "Lid lag",
-                "Tremor"
+                "Neck stiffness",
+                "Gastric irritation"
             ],
             "display": [
                 {
@@ -2457,8 +2457,8 @@
         {
             "node": "Mental or Behavioral Dysfunction",
             "example": [
-                "INTELLECTUAL DEVELOPMENTAL DISORDER, AUTOSOMAL DOMINANT 67",
-                "Apraxias"
+                "Depression, Bipolar",
+                "INTELLECTUAL DEVELOPMENTAL DISORDER, AUTOSOMAL DOMINANT 45"
             ],
             "display": [
                 {
@@ -2746,8 +2746,8 @@
         {
             "node": "Laboratory or Test Result",
             "example": [
-                "Anti-nuclear factor positive",
-                "C3 nephritic factor positivity"
+                "Anti-dsDNA antibody positivity",
+                "Anti-liver cytosolic antigen type 1 antibody positivity"
             ],
             "display": [
                 {
@@ -2855,8 +2855,8 @@
         {
             "node": "Biologically Active Substance",
             "example": [
-                "Keratan",
-                "quercitrin"
+                "quercitrin",
+                "Keratan"
             ],
             "display": [
                 {
@@ -2923,7 +2923,7 @@
             "node": "Tissue",
             "example": [
                 "Endothelium",
-                "Epidermis"
+                "Bone Marrow"
             ],
             "display": [
                 {
@@ -3074,7 +3074,7 @@
             "node": "Spatial Concept",
             "example": [
                 "With laterality",
-                "Diffuse"
+                "Spatial pattern"
             ],
             "display": [
                 {
@@ -3140,8 +3140,8 @@
         {
             "node": "FALDO",
             "example": [
-                "One of positions",
-                "Position"
+                "Exact position",
+                "One of positions"
             ],
             "display": [
                 {
@@ -3177,8 +3177,8 @@
         {
             "node": "GLYGEN SRC",
             "example": [
-                "GLYGEN.SRC:G11637WL-SRC00019406 CUI",
-                "GLYGEN.SRC:G15864IF-SRC00011145 CUI"
+                "GLYGEN.SRC:G40702WU-SRC00003503 CUI",
+                "GLYGEN.SRC:G79477YQ-SRC00010754 CUI"
             ],
             "display": [
                 {
@@ -3214,8 +3214,8 @@
         {
             "node": "Congenital Abnormality",
             "example": [
-                "Branchioma",
-                "Conotruncal defect"
+                "Bilateral Superior Vena Cava",
+                "Dysgenesis of the hippocampus"
             ],
             "display": [
                 {
@@ -3497,8 +3497,8 @@
         {
             "node": "Molecular Function",
             "example": [
-                "Oxidative Phosphorylation",
-                "dihydrobiopterin reduction"
+                "dihydrobiopterin reduction",
+                "atp binding"
             ],
             "display": [
                 {
@@ -3582,8 +3582,8 @@
         {
             "node": "HCOP",
             "example": [
-                "glutamate receptor, ionotropic, AMPA3 (alpha 3)",
-                "nuclear receptor subfamily 3, group C, member 1"
+                "zinc finger, DHHC domain containing 16",
+                "phosphorylase kinase, gamma 2 (testis)"
             ],
             "display": [
                 {
@@ -3619,8 +3619,8 @@
         {
             "node": "GCO",
             "example": [
-                "Referenced Lipid",
-                "Referenced Glycoconjugate"
+                "Referenced Protein",
+                "Referenced Lipid"
             ],
             "display": [
                 {
@@ -3656,8 +3656,8 @@
         {
             "node": "GLYCAN",
             "example": [
-                "Evidence CE",
-                "Motif"
+                "LC Chromatogram",
+                "Evidence UPLC"
             ],
             "display": [
                 {
@@ -3693,8 +3693,8 @@
         {
             "node": "Pathologic Function",
             "example": [
-                "Posterior Y-sutural cataract",
-                "Tibial pseudarthrosis"
+                "Abnormality of reproductive system physiology",
+                "Recurrent intrapulmonary hemorrhage"
             ],
             "display": [
                 {
@@ -3994,8 +3994,8 @@
         {
             "node": "Temporal Concept",
             "example": [
-                "Gradual onset",
-                "Late onset"
+                "Juvenile onset",
+                "Gradual onset"
             ],
             "display": [
                 {
@@ -4073,8 +4073,8 @@
         {
             "node": "GLYGEN GLYCOSYLATION",
             "example": [
-                "GLYGEN.GLYCOSYLATION:RXN00000105 CUI",
-                "GLYGEN.GLYCOSYLATION:RXN00000106 CUI"
+                "GLYGEN.GLYCOSYLATION:RXN00000177 CUI",
+                "GLYGEN.GLYCOSYLATION:RXN00000031 CUI"
             ],
             "display": [
                 {
@@ -4110,8 +4110,8 @@
         {
             "node": "Acquired Abnormality",
             "example": [
-                "Cortical cataract",
-                "Flexion contracture-shoulder"
+                "Nuclear cataract",
+                "Cicatrix, Hypertrophic"
             ],
             "display": [
                 {
@@ -4291,8 +4291,8 @@
         {
             "node": "Body Space or Junction",
             "example": [
-                "Nasal sinus",
-                "Dermoepidermal junction"
+                "Dermoepidermal junction",
+                "Temporomandibular Joint"
             ],
             "display": [
                 {
@@ -4406,8 +4406,8 @@
         {
             "node": "CHLO",
             "example": [
-                "CHLO:chr12.35683001-35684000 CUI",
-                "CHLO:chr3.66527001-66528000 CUI"
+                "CHLO:chr4.5689001-5690000 CUI",
+                "CHLO:chr8.61039001-61040000 CUI"
             ],
             "display": [
                 {
@@ -4539,8 +4539,8 @@
         {
             "node": "GLYGEN RESIDUE",
             "example": [
-                "n-glycan_b-d-galp_68",
-                "n-glycan_a-d-manp_21"
+                "n-glycan_a-d-galp_50",
+                "n-glycan_b-d-galp_80"
             ],
             "display": [
                 {
@@ -4576,8 +4576,8 @@
         {
             "node": "Disease",
             "example": [
-                "congenital disorder of glycosylation with defective fucosylation",
-                "epileptic encephalopathy, infantile or early childhood, 3"
+                "megacystis-microcolon-intestinal hypoperistalsis syndrome",
+                "optic nerve edema-splenomegaly syndrome"
             ],
             "display": [
                 {
@@ -4668,7 +4668,7 @@
         {
             "node": "Body System",
             "example": [
-                "Cromer blood group system",
+                "Skeleton",
                 "Diego blood group system"
             ],
             "display": [
@@ -4783,8 +4783,8 @@
         {
             "node": "Disease or Syndrome",
             "example": [
-                "Lactic Aciduria due to D-Lactic Acid",
-                "Laryngostenosis"
+                "Renal dysplasia and retinal aplasia (disorder)",
+                "DEAFNESS, AUTOSOMAL DOMINANT 73"
             ],
             "display": [
                 {
@@ -5102,8 +5102,8 @@
         {
             "node": "4DNQ",
             "example": [
-                "4DNQ:1e-12.1e-11 CUI",
-                "4DNQ:1e-94.1e-93 CUI"
+                "4DNQ:1e-11.1e-11 CUI",
+                "4DNQ:1e-12.1e-12 CUI"
             ],
             "display": [
                 {
@@ -5139,8 +5139,8 @@
         {
             "node": "SNOMEDCT US",
             "example": [
-                "Anaerobic septicemia",
-                "Septicemia due to Serratia"
+                "Metastasis from malignant tumor of colon",
+                "Myoclonic seizure"
             ],
             "display": [
                 {
@@ -5176,8 +5176,8 @@
         {
             "node": "ENCODE RBS K562",
             "example": [
-                "chr17.17819758.17819782.minus.b38.DDX24",
-                "chr19.39971383.39971409.plus.b38.AQR"
+                "chr19.40614233.40614309.plus.b38.ILF3",
+                "chr7.123542064.123542110.minus.b38.PABPC4"
             ],
             "display": [
                 {
@@ -5286,7 +5286,7 @@
             "node": "Body Substance",
             "example": [
                 "saliva",
-                "Amniotic Fluid"
+                "Feces"
             ],
             "display": [
                 {
@@ -5418,8 +5418,8 @@
         {
             "node": "Qualitative Concept",
             "example": [
-                "With intensity",
-                "Moist"
+                "Moist",
+                "With intensity"
             ],
             "display": [
                 {
@@ -5497,8 +5497,8 @@
         {
             "node": "4DND",
             "example": [
-                "in situ Hi-C on H1-ESC cells.H1-ESC",
-                "Micro-C on H1 cells differentiated to definitive endoderm.H1-ESC"
+                "in situ Hi-C on HCT116 cells (containing AID-tagged WAPL) auxin treated.HCT116 - perturbed",
+                "Micro-C on H1-ESC cells.H1-ESC"
             ],
             "display": [
                 {
@@ -5534,8 +5534,8 @@
         {
             "node": "ENCODE CCRE ACTIVITY",
             "example": [
-                "EH38E2379887_testis",
-                "EH38E3085563_sigmoid_colon"
+                "EH38E3704420_gastrocnemius_medialis",
+                "EH38E3427227_prostate_gland"
             ],
             "display": [
                 {
@@ -5571,8 +5571,8 @@
         {
             "node": "Organic Chemical",
             "example": [
-                "indican",
-                "farrerol"
+                "gliclazide",
+                "pentane"
             ],
             "display": [
                 {
@@ -5884,8 +5884,8 @@
         {
             "node": "ENCODE RBS HEPG2",
             "example": [
-                "chr17.39264203.39264272.minus.b38.GRWD1",
-                "chr10.93600499.93600561.minus.b38.EFTUD2"
+                "chr9.137380266.137380331.minus.b38.FAM120A",
+                "chr16.89546661.89546702.plus.b38.PPIG"
             ],
             "display": [
                 {
@@ -5922,7 +5922,7 @@
             "node": "Inorganic Chemical",
             "example": [
                 "Carbonic Acid",
-                "Hydroxylamine"
+                "carbon disulfide"
             ],
             "display": [
                 {
@@ -6205,8 +6205,8 @@
         {
             "node": "Cell or Molecular Dysfunction",
             "example": [
-                "Abnormal telomere morphology",
-                "Oocyte arrest at metaphase I"
+                "Abnormal MHC II surface expression",
+                "Abnormal telomere morphology"
             ],
             "display": [
                 {
@@ -6332,8 +6332,8 @@
         {
             "node": "GLYCAN MOTIF",
             "example": [
-                "Sialyl T antigen",
-                "Blood group H (type 4)"
+                "Blood group H (type 2) - Lewis y",
+                "Glucosylceramide"
             ],
             "display": [
                 {
@@ -6369,8 +6369,8 @@
         {
             "node": "Hormone",
             "example": [
-                "testosterone cypionate",
-                "dienestrol"
+                "aldosterone 18-glucuronide",
+                "thyroxine sulfate"
             ],
             "display": [
                 {
@@ -6598,8 +6598,8 @@
         {
             "node": "Neoplastic Process",
             "example": [
-                "Intracardiac myxoma",
-                "Neuroma, Acoustic, Bilateral"
+                "Bladder Neoplasm",
+                "Uveal melanoma"
             ],
             "display": [
                 {
@@ -6893,8 +6893,8 @@
         {
             "node": "4DNL",
             "example": [
-                "4DNL:4DNFIIQP46FO.chr10.595000-600000.chr10.785000-790000 CUI",
-                "4DNL:4DNFIQ48U7UJ.chr1.112715000-112720000.chr1.112955000-112960000 CUI"
+                "4DNL:4DNFI49A9Z1K.chr14.100710000-100720000.chr14.101230000-101240000 CUI",
+                "4DNL:4DNFIY71465K.chr4.183824000-183856000.chr4.184152000-184176000 CUI"
             ],
             "display": [
                 {
@@ -6978,8 +6978,8 @@
         {
             "node": "Nucleic Acid, Nucleoside, or Nucleotide",
             "example": [
-                "alpha-ribazole",
-                "uridine"
+                "acyclovir",
+                "succinyl-coenzyme A"
             ],
             "display": [
                 {
@@ -7207,8 +7207,8 @@
         {
             "node": "MEDGEN",
             "example": [
-                "MEDGEN:C0272137 CUI",
-                "MEDGEN:C1853162 CUI"
+                "MEDGEN:C0017097 CUI",
+                "MEDGEN:C3809719 CUI"
             ],
             "display": [
                 {
@@ -7244,8 +7244,8 @@
         {
             "node": "KFVARBIN",
             "example": [
-                "KFVARBIN:chr11.51380001-51390000 CUI",
-                "KFVARBIN:chr10.48010001-48020000 CUI"
+                "KFVARBIN:chr14.47000001-48000000 CUI",
+                "KFVARBIN:chr9.23500001-23600000 CUI"
             ],
             "display": [
                 {
@@ -7352,8 +7352,8 @@
         {
             "node": "Enzyme",
             "example": [
-                "Lys-Asn-Asp",
-                "NT5C2 wt Allele"
+                "NT5C2 wt Allele",
+                "Lys-Asn-Asp"
             ],
             "display": [
                 {
@@ -7483,8 +7483,8 @@
         {
             "node": "GTEXEXP",
             "example": [
-                "GTEXEXP:ENSG00000149532-15-Esophagus-Muscularis CUI",
-                "GTEXEXP:ENSG00000116489-12-Kidney-Cortex CUI"
+                "GTEXEXP:ENSG00000207981-1-Adrenal-Gland CUI",
+                "GTEXEXP:ENSG00000047365-11-Kidney-Medulla CUI"
             ],
             "display": [
                 {
@@ -7520,8 +7520,8 @@
         {
             "node": "Laboratory Procedure",
             "example": [
-                "Staining method",
-                "Dehydroepiandrosterone Assay"
+                "Dehydroepiandrosterone Assay",
+                "Thyroxine measurement"
             ],
             "display": [
                 {
@@ -7653,8 +7653,8 @@
         {
             "node": "Therapeutic or Preventive Procedure",
             "example": [
-                "Intubation, Gastrointestinal",
-                "Male Castration"
+                "Procedure related to general anesthesia",
+                "Anesthesia for cesarean section"
             ],
             "display": [
                 {
@@ -8013,67 +8013,10 @@
             "color": "#e3ba5d"
         },
         {
-            "node": "ENTREZ",
-            "example": [
-                "ENSG00000274253"
-            ],
-            "display": [
-                {
-                    "label": "ENTREZ ID",
-                    "text": "${id}",
-                    "type": "text"
-                },
-                {
-                    "label": "label",
-                    "text": "${label}",
-                    "type": "text"
-                },
-                {
-                    "label": "type",
-                    "text": "${type}",
-                    "type": "text"
-                },
-                {
-                    "label": "ENSEMBL",
-                    "text": "${ENSEMBL}",
-                    "type": "text"
-                },
-                {
-                    "label": "ENSEMBL value",
-                    "text": "${ENSEMBL value}",
-                    "type": "text"
-                },
-                {
-                    "label": "ENSEMBL lowerbound",
-                    "text": "${ENSEMBL lowerbound}",
-                    "type": "text"
-                },
-                {
-                    "label": "ENSEMBL upperbound",
-                    "text": "${ENSEMBL upperbound}",
-                    "type": "text"
-                },
-                {
-                    "label": "ENTREZ",
-                    "text": "${ENTREZ}",
-                    "type": "text"
-                }
-            ],
-            "relation": [],
-            "search": [
-                "id",
-                "label",
-                "type",
-                "ENSEMBL",
-                "ENTREZ"
-            ],
-            "color": "#f396b2"
-        },
-        {
             "node": "Intellectual Product",
             "example": [
-                "Frequency",
-                "Universal Product Code"
+                "Universal Product Code",
+                "Frequency"
             ],
             "display": [
                 {
@@ -8128,13 +8071,13 @@
                 "HPO",
                 "PUBCHEM"
             ],
-            "color": "#aadff3"
+            "color": "#f396b2"
         },
         {
             "node": "Amino Acid, Peptide, or Protein",
             "example": [
-                "N-acetylproline",
-                "ectoine"
+                "melphalan",
+                "penicillamine"
             ],
             "display": [
                 {
@@ -8375,7 +8318,7 @@
                 "Pharmacologic Substance",
                 "Indicator, Reagent, or Diagnostic Aid"
             ],
-            "color": "#ced2f7"
+            "color": "#aadff3"
         },
         {
             "node": "Element, Ion, or Isotope",
@@ -8429,12 +8372,12 @@
                 "PUBCHEM",
                 "Indicator, Reagent, or Diagnostic Aid"
             ],
-            "color": "#b2d200"
+            "color": "#ced2f7"
         },
         {
             "node": "PVALUEBINS",
             "example": [
-                "PVALUEBINS:0.001.0.005 CUI",
+                "PVALUEBINS:1e-09.1e-08 CUI",
                 "PVALUEBINS:1e-10.1e-09 CUI"
             ],
             "display": [
@@ -8466,13 +8409,13 @@
                 "PVALUEBINS",
                 "label"
             ],
-            "color": "#beb69e"
+            "color": "#b2d200"
         },
         {
             "node": "KFPT",
             "example": [
-                "KFPT:PT-N9FAFB39 CUI",
-                "KFPT:PT-DHB6XYWP CUI"
+                "KFPT:PT-PBVKZCS6 CUI",
+                "KFPT:PT-EZ5RMAEC CUI"
             ],
             "display": [
                 {
@@ -8503,7 +8446,7 @@
                 "KFPT",
                 "label"
             ],
-            "color": "#c2bad7"
+            "color": "#beb69e"
         },
         {
             "node": "Phenotype",
@@ -8552,13 +8495,13 @@
                 "HPO",
                 "OMIM"
             ],
-            "color": "#a2d2c2"
+            "color": "#c2bad7"
         },
         {
             "node": "EFO",
             "example": [
-                "decreased anxiety-related response",
-                "eye hemorrhage"
+                "aortic aneurysm",
+                "hemochromatosis type 1"
             ],
             "display": [
                 {
@@ -8607,13 +8550,13 @@
                 "MP",
                 "MONDO"
             ],
-            "color": "#59d25d"
+            "color": "#a2d2c2"
         },
         {
             "node": "UNIPROT",
             "example": [
-                "Glycosylation Site",
-                "Protein"
+                "Protein",
+                "Glycosylation Site"
             ],
             "display": [
                 {
@@ -8644,13 +8587,13 @@
                 "type",
                 "UNIPROT"
             ],
-            "color": "#a2d771"
+            "color": "#59d25d"
         },
         {
             "node": "Body Part, Organ, or Organ Component",
             "example": [
-                "Liver",
-                "Structure of left upper lobe of lung"
+                "Structure of corpus luteum of ovary",
+                "Hippocampus (Brain)"
             ],
             "display": [
                 {
@@ -8837,13 +8780,13 @@
                 "AZ",
                 "PUBCHEM"
             ],
-            "color": "#69eb24"
+            "color": "#a2d771"
         },
         {
             "node": "GTEXEQTL",
             "example": [
-                "GTEXEQTL:eQTL.chr10.47777179.T.C.b38.Lung CUI",
-                "GTEXEQTL:eQTL.chr5.88315360.A.T.b38.Vagina CUI"
+                "GTEXEQTL:eQTL.chr6.42953935.AG.A.b38.Adipose.Visceral.Omentum CUI",
+                "GTEXEQTL:eQTL.chr17.30581725.G.T.b38.Brain.Cerebellar.Hemisphere CUI"
             ],
             "display": [
                 {
@@ -8879,13 +8822,13 @@
                 "GTEXEQTL",
                 "label"
             ],
-            "color": "#8ad7df"
+            "color": "#69eb24"
         },
         {
             "node": "ENCODE RBS 150 NO OVERLAP",
             "example": [
-                "chr9.92262912.92262934.minus.b38.AQR",
-                "chr2.175958751.175958782.minus.b38.MATR3"
+                "chr19.2438531.2438532.minus.b38.G3BP1",
+                "chr17.82151862.82151914.minus.b38.EWSR1"
             ],
             "display": [
                 {
@@ -8916,7 +8859,7 @@
                 "type",
                 "ENCODE.RBS.150.NO.OVERLAP"
             ],
-            "color": "#69eb7d"
+            "color": "#8ad7df"
         },
         {
             "node": "Social Behavior",
@@ -8988,7 +8931,7 @@
                 "OMIM",
                 "HPO"
             ],
-            "color": "#9abec6"
+            "color": "#69eb7d"
         },
         {
             "node": "Individual Behavior",
@@ -9139,13 +9082,13 @@
                 "MONDO",
                 "HP"
             ],
-            "color": "#c6d7e7"
+            "color": "#9abec6"
         },
         {
             "node": "ENCODE RBS HEPG2 K562",
             "example": [
-                "chr9.93096227.93096352.plus.b38.DDX3X",
-                "chr9.14658346.14658453.minus.b38.QKI"
+                "chr1.46301759.46301893.minus.b38.CSTF2T",
+                "chr21.34087834.34087949.plus.b38.HNRNPM"
             ],
             "display": [
                 {
@@ -9176,7 +9119,7 @@
                 "type",
                 "ENCODE.RBS.HEPG2.K562"
             ],
-            "color": "#75c2f7"
+            "color": "#c6d7e7"
         },
         {
             "node": "Fish",
@@ -9218,13 +9161,13 @@
                 "NCBI",
                 "PUBCHEM"
             ],
-            "color": "#e7a6ef"
+            "color": "#75c2f7"
         },
         {
             "node": "Injury or Poisoning",
             "example": [
-                "Pregnancy exposure",
-                "Ergotism"
+                "Multiple small vertebral fractures",
+                "Femoral Fractures"
             ],
             "display": [
                 {
@@ -9471,13 +9414,13 @@
                 "HP",
                 "EFO"
             ],
-            "color": "#75db96"
+            "color": "#e7a6ef"
         },
         {
             "node": "MP",
             "example": [
-                "abnormal urine amino acid level",
-                "abnormal outer dental epithelium morphology"
+                "decreased spleen germinal center number",
+                "abnormal nose morphology"
             ],
             "display": [
                 {
@@ -9514,7 +9457,7 @@
                 "CL",
                 "MP"
             ],
-            "color": "#dbb6ff"
+            "color": "#75db96"
         },
         {
             "node": "Biologic Function",
@@ -9557,7 +9500,7 @@
                 "GO",
                 "MP"
             ],
-            "color": "#e3cafb"
+            "color": "#dbb6ff"
         },
         {
             "node": "Embryonic Structure",
@@ -9665,13 +9608,13 @@
                 "HL7V2.5",
                 "UBERON"
             ],
-            "color": "#becaae"
+            "color": "#e3cafb"
         },
         {
             "node": "Organism Function",
             "example": [
-                "Pregnancy",
-                "Urination"
+                "branching involved in ureteric bud morphogenesis",
+                "Pregnancy"
             ],
             "display": [
                 {
@@ -9846,13 +9789,13 @@
                 "MP",
                 "EFO"
             ],
-            "color": "#e3d292"
+            "color": "#becaae"
         },
         {
             "node": "Indicator, Reagent, or Diagnostic Aid",
             "example": [
-                "Diagnostic agents",
-                "Tumor imaging agent"
+                "Tumor imaging agent",
+                "Diagnostic agents"
             ],
             "display": [
                 {
@@ -9919,13 +9862,13 @@
                 "MED-RT",
                 "Chemical Viewed Structurally"
             ],
-            "color": "#a6c6e3"
+            "color": "#e3d292"
         },
         {
             "node": "MOTORPAC",
             "example": [
-                "MOTORPAC:ENSRNOG00000017900-liver-female CUI",
-                "MOTORPAC:ENSRNOG00000032546-gastrocnemius-female CUI"
+                "MOTORPAC:ENSRNOG00000016727-heart-male CUI",
+                "MOTORPAC:ENSRNOG00000003979-liver-male CUI"
             ],
             "display": [
                 {
@@ -9961,7 +9904,7 @@
                 "MOTORPAC",
                 "label"
             ],
-            "color": "#dfb2ce"
+            "color": "#a6c6e3"
         },
         {
             "node": "Clinical Attribute",
@@ -10003,13 +9946,13 @@
                 "LNC",
                 "PUBCHEM"
             ],
-            "color": "#a2c271"
+            "color": "#dfb2ce"
         },
         {
             "node": "ENSEMBL",
             "example": [
-                "ENSG00000246130",
-                "Y_RNA"
+                "ENSG00000232166",
+                "ENSG00000234147"
             ],
             "display": [
                 {
@@ -10055,13 +9998,13 @@
                 "type",
                 "ENSEMBL"
             ],
-            "color": "#efa608"
+            "color": "#a2c271"
         },
         {
             "node": "ENCODE CCRE H3K4ME3",
             "example": [
-                "ENCODE.CCRE.H3K4ME3:LOW.ZSCORE CUI",
-                "ENCODE.CCRE.H3K4ME3:HIGH.ZSCORE CUI"
+                "ENCODE.CCRE.H3K4ME3:HIGH.ZSCORE CUI",
+                "ENCODE.CCRE.H3K4ME3:LOW.ZSCORE CUI"
             ],
             "display": [
                 {
@@ -10092,13 +10035,13 @@
                 "ENCODE.CCRE.H3K4ME3",
                 "label"
             ],
-            "color": "#69e3be"
+            "color": "#efa608"
         },
         {
             "node": "Genetic Function",
             "example": [
-                "X-linked inheritance",
-                "Oligogenic inheritance"
+                "Autosomal dominant somatic cell mutation",
+                "X-linked inheritance"
             ],
             "display": [
                 {
@@ -10201,7 +10144,7 @@
                 "MP",
                 "HP"
             ],
-            "color": "#eb8eff"
+            "color": "#69e3be"
         },
         {
             "node": "FOAF",
@@ -10237,13 +10180,13 @@
                 "type",
                 "FOAF"
             ],
-            "color": "#00e759"
+            "color": "#eb8eff"
         },
         {
             "node": "KFCOHORT",
             "example": [
-                "Kids First: Leukemia & Heart Defects in Down Syndrome",
-                "Kids First: Kidney and Urinary Tract Defects"
+                "Kids First: Enchondromatoses",
+                "Kids First: Syndromic Cranial Dysinnervation"
             ],
             "display": [
                 {
@@ -10274,13 +10217,13 @@
                 "type",
                 "KFCOHORT"
             ],
-            "color": "#bece59"
+            "color": "#00e759"
         },
         {
             "node": "Drug",
             "example": [
-                "US8952177, 16::US9089569, 16",
-                "N-(1-(3-(benzo[d][1,3]dioxol-4-yl)benzyl)-1H-indol-6-yl)pivalamide"
+                "7-chloro-8-(2-methoxy-ethoxy)-3-oxo-11,17-dioxa-2,4,20,22-tetraaza-tricyclo[16.3.1.0 5,10]docosa-1(22),5(10),6,8,18,20-hexaene-19-carbonitrile",
+                "alpha-Phellandrene"
             ],
             "display": [
                 {
@@ -10317,13 +10260,13 @@
                 "CHEBI",
                 "PUBCHEM"
             ],
-            "color": "#dfbea6"
+            "color": "#bece59"
         },
         {
             "node": "Pharmacologic Substance",
             "example": [
-                "6-hydroxymelatonin",
-                "calcifediol"
+                "decursinol",
+                "neocnidilide"
             ],
             "display": [
                 {
@@ -10558,13 +10501,13 @@
                 "Therapeutic or Preventive Procedure",
                 "Indicator, Reagent, or Diagnostic Aid"
             ],
-            "color": "#ebbe00"
+            "color": "#dfbea6"
         },
         {
             "node": "4DNF",
             "example": [
-                "in situ Hi-C on H1 cells differentiated to definitive endoderm.H1-ESC.protocol variations.Dekker",
-                "in situ Hi-C on HCT116 cells (containing AID-tagged RAD21) untreated.HCT116.WT.Cremins"
+                "in situ Hi-C on HFFc6 cells.HFFc6.more conservative.Cremins",
+                "Micro-C on HFFc6 cells.HFFc6..Dekker"
             ],
             "display": [
                 {
@@ -10595,13 +10538,13 @@
                 "type",
                 "4DNF"
             ],
-            "color": "#00e7ce"
+            "color": "#ebbe00"
         },
         {
             "node": "GLYGEN GLYCOSEQUENCE",
             "example": [
-                "WURCS=2.0/5,7,6/[a2122h-1b_1-5_2*NCC/3=O][a1122h-1b_1-5][a1122h-1a_1-5][a2112h-1b_1-5][Aad21122h-2a_2-6_5*NCC/3=O]/1-2-3-1-4-5-3/a4-b1_b3-c1_b6-g1_c2-d1_d4-e1_e?-f2",
-                "WURCS=2.0/3,3,2/[a2122h-1b_1-5][a2112h-1a_1-5][Aad21122h-2a_2-6_5*NCC/3=O]/1-2-3/a4-b1_b3-c2"
+                "CC(=O)N[C@@H]1[C@H]([C@@H]([C@H](O[C@H]1O[C@@H]2[C@H](OC([C@@H]([C@H]2O)NC(=O)C)O)CO)CO)O[C@H]3[C@H]([C@H]([C@@H]([C@H](O3)CO[C@@H]4[C@H]([C@H]([C@@H]([C@H](O4)CO[C@@H]5[C@H]([C@H]([C@@H]([C@H](O5)CO)O)O)O[C@@H]6[C@H]([C@H]([C@@H]([C@H](O6)CO)O)O)O)O)O[C@@H]7[C@H]([C@H]([C@@H]([C@H](O7)CO)O)O)O[C@@H]8[C@H]([C@H]([C@@H]([C@H](O8)CO)O)O)O)O)O)O[C@@H]9[C@H]([C@H]([C@@H]([C@H](O9)CO)O)O)O[C@@H]1[C@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O)O)O",
+                "WURCS=2.0/5,12,11/[u2122h_2*NCC/3=O][a2122h-1x_1-5_2*NCC/3=O][a1122h-1x_1-5][a2112h-1x_1-5_2*NCC/3=O][a1221m-1x_1-5]/1-2-3-3-2-4-2-3-2-4-2-5/a?-b1_a?-l1_b?-c1_c?-d1_c?-h1_d?-e1_d?-g1_e?-f1_h?-i1_h?-k1_i?-j1"
             ],
             "display": [
                 {
@@ -10632,13 +10575,13 @@
                 "type",
                 "GLYGEN.GLYCOSEQUENCE"
             ],
-            "color": "#ebb2a6"
+            "color": "#00e7ce"
         },
         {
             "node": "Cell Function",
             "example": [
-                "Activation-induced cell death of T cells",
-                "apoptotic program"
+                "regulation of calcium ion concentration",
+                "male meiotic nuclear division"
             ],
             "display": [
                 {
@@ -10717,7 +10660,7 @@
                 "PATO",
                 "MP"
             ],
-            "color": "#e3b282"
+            "color": "#ebb2a6"
         },
         {
             "node": "ENCODE CCRE H3K27AC",
@@ -10754,12 +10697,12 @@
                 "ENCODE.CCRE.H3K27AC",
                 "label"
             ],
-            "color": "#fbc2c6"
+            "color": "#e3b282"
         },
         {
             "node": "HP",
             "example": [
-                "abnormal bone ossification",
+                "abnormal glucose tolerance",
                 "bile duct inflammation"
             ],
             "display": [
@@ -10797,13 +10740,13 @@
                 "MP",
                 "HP"
             ],
-            "color": "#24d292"
+            "color": "#fbc2c6"
         },
         {
             "node": "Finding",
             "example": [
-                "Decreased thalamic volume",
-                "Migrating focal seizure"
+                "Low posterior hairline",
+                "Prominent joints"
             ],
             "display": [
                 {
@@ -11110,13 +11053,13 @@
                 "EFO",
                 "PUBCHEM"
             ],
-            "color": "#c6ca8a"
+            "color": "#24d292"
         },
         {
             "node": "ENCODE CCRE",
             "example": [
-                "ENCODE.CCRE:EH38E3129482 CUI",
-                "ENCODE.CCRE:EH38E1891270 CUI"
+                "ENCODE.CCRE:EH38E2216735 CUI",
+                "ENCODE.CCRE:EH38E3555767 CUI"
             ],
             "display": [
                 {
@@ -11147,12 +11090,12 @@
                 "ENCODE.CCRE",
                 "label"
             ],
-            "color": "#d7c2d7"
+            "color": "#c6ca8a"
         },
         {
             "node": "SIO",
             "example": [
-                "set item",
+                "set",
                 "entity"
             ],
             "display": [
@@ -11184,126 +11127,125 @@
                 "type",
                 "SIO"
             ],
-            "color": "#ff82df"
+            "color": "#d7c2d7"
         }
     ],
     "edges": [
         {
             "match": [
-                "coexpression Brain   Cerebellum",
-                "predicted in",
-                "coexpression Colon   Transverse",
-                "coexpression Uterus",
-                "coexpression Pituitary",
-                "coexpression Adrenal Gland",
-                "has parent",
-                "coexpression Brain   Frontal Cortex (BA9)",
-                "coexpression Bladder",
-                "indication",
-                "has glycosequence",
-                "coexpression Heart   Left Ventricle",
-                "coexpression Lung",
-                "4DN loop us end",
-                "coexpression Breast   Mammary Tissue",
-                "coexpression Cervix   Endocervix",
                 "coexpression Minor Salivary Gland",
-                "correlated in",
-                "4DN loop has qvalue bin",
-                "coexpression Brain   Hypothalamus",
-                "has phenotype",
-                "is from source",
-                "coexpression Esophagus   Mucosa",
-                "coexpression Pancreas",
-                "coexpression Cells   EBV transformed lymphocytes",
-                "coexpression Whole Blood",
-                "not correlated in",
-                "coexpression Brain   Nucleus accumbens (basal ganglia)",
-                "produced by",
-                "regulates",
-                "coexpression Brain   Putamen (basal ganglia)",
-                "coexpression Stomach",
-                "has enzyme protein",
-                "has expression",
-                "4DN dataset has file",
-                "attached by",
-                "4DN dataset involves cell type",
-                "produces",
-                "regulated by",
-                "coexpression Spleen",
-                "isa",
-                "coexpression Brain   Anterior cingulate cortex (BA24)",
-                "coexpression Liver",
-                "causally influences",
-                "coexpression Testis",
-                "coexpression Cervix   Ectocervix",
-                "has signal",
-                "coexpression Skin   Sun Exposed (Lower leg)",
-                "gene associated with disease or phenotype",
-                "coexpression Brain   Cortex",
-                "marker gene of",
-                "coexpression Artery   Aorta",
-                "coexpression Artery   Coronary",
-                "associated with",
-                "coexpression Brain   Caudate (basal ganglia)",
-                "coexpression Cells   Cultured fibroblasts",
-                "gene associated with pathway",
-                "overlaps",
-                "gene located in chr band",
-                "coexpression Esophagus   Muscularis",
-                "4DN file has loop",
-                "4DN loop ds end",
-                "coexpression Brain   Cerebellar Hemisphere",
-                "has motif",
-                "phenotype of",
-                "coexpression Kidney   Cortex",
-                "molecularly interacts with",
-                "has monosaccharide",
-                "coexpression Prostate",
-                "coexpression Muscle   Skeletal",
-                "correlated with condition",
-                "involved in",
-                "coexpression Heart   Atrial Appendage",
-                "coexpression Thyroid",
-                "coexpression Brain   Hippocampus",
-                "coexpression Esophagus   Gastroesophageal Junction",
-                "gene expression targeted by",
-                "has part",
-                "coexpression Brain   Amygdala",
-                "location has variants",
-                "coexpression Adipose   Visceral (Omentum)",
                 "coexpression Colon   Sigmoid",
-                "refers to",
-                "expresses",
-                "location of",
-                "bioactivity",
-                "coexpression Artery   Tibial",
-                "coexpression Vagina",
-                "causally influenced by",
-                "coexpression Ovary",
-                "coexpression Skin   Not Sun Exposed (Suprapubic)",
-                "belongs to cohort",
-                "coexpression Adipose   Subcutaneous",
-                "gender",
-                "4DN loop ds start",
-                "has canonical residue",
-                "part of",
                 "coexpression Nerve   Tibial",
-                "located in",
-                "4DN loop us start",
-                "signature gene of",
-                "is subsequence of",
-                "coexpression Kidney   Medulla",
-                "coexpression Brain   Spinal cord (cervical c 1)",
-                "not predicted in",
-                "coexpression Fallopian Tube",
-                "p value",
-                "expressed in",
-                "in similarity relationship with",
-                "coexpression Brain   Substantia nigra",
-                "is approximately equivalent to",
-                "has subsequence",
                 "synthesized by",
-                "coexpression Small Intestine   Terminal Ileum"
+                "coexpression Cells   Cultured fibroblasts",
+                "coexpression Small Intestine   Terminal Ileum",
+                "coexpression Skin   Sun Exposed (Lower leg)",
+                "correlated with condition",
+                "p value",
+                "coexpression Cervix   Endocervix",
+                "coexpression Brain   Putamen (basal ganglia)",
+                "signature gene of",
+                "coexpression Skin   Not Sun Exposed (Suprapubic)",
+                "coexpression Adrenal Gland",
+                "coexpression Brain   Hippocampus",
+                "has monosaccharide",
+                "coexpression Artery   Coronary",
+                "coexpression Kidney   Cortex",
+                "4DN dataset has file",
+                "is subsequence of",
+                "phenotype of",
+                "coexpression Kidney   Medulla",
+                "coexpression Brain   Frontal Cortex (BA9)",
+                "not correlated in",
+                "coexpression Uterus",
+                "4DN loop ds start",
+                "coexpression Brain   Substantia nigra",
+                "bioactivity",
+                "coexpression Artery   Aorta",
+                "has parent",
+                "coexpression Breast   Mammary Tissue",
+                "has part",
+                "has canonical residue",
+                "molecularly interacts with",
+                "coexpression Heart   Atrial Appendage",
+                "is from source",
+                "4DN file has loop",
+                "part of",
+                "coexpression Muscle   Skeletal",
+                "regulates",
+                "coexpression Brain   Cortex",
+                "coexpression Brain   Spinal cord (cervical c 1)",
+                "gene expression targeted by",
+                "coexpression Brain   Cerebellar Hemisphere",
+                "coexpression Brain   Amygdala",
+                "is approximately equivalent to",
+                "4DN loop us end",
+                "4DN dataset involves cell type",
+                "location has variants",
+                "coexpression Esophagus   Muscularis",
+                "coexpression Brain   Anterior cingulate cortex (BA24)",
+                "coexpression Testis",
+                "coexpression Adipose   Subcutaneous",
+                "not predicted in",
+                "coexpression Pituitary",
+                "coexpression Fallopian Tube",
+                "has phenotype",
+                "predicted in",
+                "correlated in",
+                "coexpression Whole Blood",
+                "coexpression Brain   Caudate (basal ganglia)",
+                "coexpression Cervix   Ectocervix",
+                "expressed in",
+                "produced by",
+                "regulated by",
+                "coexpression Ovary",
+                "belongs to cohort",
+                "gene located in chr band",
+                "gender",
+                "located in",
+                "has glycosequence",
+                "produces",
+                "causally influenced by",
+                "has signal",
+                "4DN loop has qvalue bin",
+                "associated with",
+                "coexpression Brain   Nucleus accumbens (basal ganglia)",
+                "coexpression Artery   Tibial",
+                "coexpression Brain   Hypothalamus",
+                "has motif",
+                "coexpression Spleen",
+                "coexpression Esophagus   Gastroesophageal Junction",
+                "coexpression Bladder",
+                "coexpression Brain   Cerebellum",
+                "causally influences",
+                "coexpression Heart   Left Ventricle",
+                "coexpression Prostate",
+                "marker gene of",
+                "involved in",
+                "indication",
+                "coexpression Vagina",
+                "coexpression Colon   Transverse",
+                "gene associated with disease or phenotype",
+                "coexpression Adipose   Visceral (Omentum)",
+                "attached by",
+                "isa",
+                "overlaps",
+                "coexpression Cells   EBV transformed lymphocytes",
+                "coexpression Pancreas",
+                "coexpression Liver",
+                "coexpression Esophagus   Mucosa",
+                "coexpression Thyroid",
+                "coexpression Lung",
+                "has subsequence",
+                "4DN loop ds end",
+                "in similarity relationship with",
+                "location of",
+                "expresses",
+                "4DN loop us start",
+                "has enzyme protein",
+                "refers to",
+                "gene associated with pathway",
+                "coexpression Stomach"
             ],
             "selected": true,
             "order": [
@@ -11356,8 +11298,8 @@
         },
         {
             "match": [
-                "positively regulates",
-                "positively regulated by"
+                "positively regulated by",
+                "positively regulates"
             ],
             "selected": true,
             "order": [
@@ -11410,8 +11352,8 @@
         },
         {
             "match": [
-                "negatively regulates",
-                "negatively regulated by"
+                "negatively regulated by",
+                "negatively regulates"
             ],
             "selected": true,
             "order": [
