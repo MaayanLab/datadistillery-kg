@@ -11405,7 +11405,7 @@
         }
     ],
     "header": {
-        "title": "Data Distillery Knowledge Graph",
+        "title": "Data Distillery KG",
         "icon": {
             "src": "https://s3.amazonaws.com/maayan-kg/cfde-kg/assets/CFDE.png",
             "favicon": "https://s3.amazonaws.com/maayan-kg/cfde-kg/assets/favicon.png",
@@ -11421,13 +11421,14 @@
                 "label": "Connection Explorer",
                 "type": "page",
                 "component": "KnowledgeGraph",
+                "position": "bottom",
                 "props": {
                     "init_function": "initialize_kg",
                     "title": "ConnectionExplorer: Find connections between CFDE DD KG entities",
                     "description": "Select a CFDE DD KG entity to find other entities connected to it or wcplore connections between two CFDE DD KG entities.",
                     "initial_query": {
                         "start": "Gene",
-                        "start_term": "STAT3 gene",
+                        "start_term": "MAOB gene",
                         "start_field": "label",
                         "relation": ["positively regulates"]
                     }
@@ -11438,6 +11439,7 @@
                 "label": "Apps",
                 "type": "group",
                 "component": "DistilleryLanding",
+                "position": "bottom",
                 "props": {
                     "title": "Data Distillery Apps",
                     "description": "Explore Data Distillery data with these apps",
@@ -11451,9 +11453,9 @@
                                 "init_function": "initialize_kg",
                                 "title": "Tissue2Drugs: target highly expressed genes within a GTEx tissue based on LINCS and IDG pharmacological knowledge",
                                 "description": "Find all genes that are highly expressed in the GTEx <tissue> dataset and may be perturbed by a specific compound based on data from the LINCS L1000 dataset and known drug targets found in data curated by IDG.",
-                                "endpoint": "/api/distillery/usecase/tissue2drugs",
+                                "endpoint": "/api/distillery/tissue2drugs",
                                 "type": "Tissue",
-                                "options_endpoint": "/api/distillery/usecase/gtex_tissue",
+                                "options_endpoint": "/api/distillery/gtex_tissue",
                                 "fields": [
                                     "UBERON",
                                     "id",
@@ -11471,9 +11473,9 @@
                                 "init_function": "initialize_kg",
                                 "title": "MWDiseases",
                                 "description": "For a specific disease in Metabolomics Workbench data, find all IDG and GTEx data that may be related by disease and tissue type.",
-                                "endpoint": "/api/distillery/usecase/mw",
+                                "endpoint": "/api/distillery/mw",
                                 "type": "Disease",
-                                "options_endpoint": "/api/distillery/usecase/mw_diseases",
+                                "options_endpoint": "/api/distillery/mw_diseases",
                                 "fields": [
                                     "DOID",
                                     "id",
@@ -11493,9 +11495,9 @@
                             "props": {
                                 "init_function": "initialize_kg",
                                 "relations": [
-                                    "positively regulates",
-                                    "negatively regulates",
-                                    "expresses"
+                                    {"name": "positively regulates", "end": "Drug"},
+                                    {"name": "negatively regulates", "end": "Drug"},
+                                    {"name": "expresses"}
                                 ],
                                 "title": "EnzyMiner: find knowledge about drug processing enzymes",
                                 "description": "Select a drug processing enzyme to view drugs that up or down regulate it from LINCS as well as tissues where it is highly expressed based on data from GTEx.",
@@ -11524,9 +11526,9 @@
                                 "init_function": "initialize_kg",
                                 "title": "Disease2ExRNA",
                                 "description": "For a given set of genes that are over-expressed in a specific disease, identify extracellular RNA (exRNA) species that may be detected in human biofluids and thus serve as non-invasive disease biomarkers.",
-                                "endpoint": "/api/distillery/usecase/disease2exrna",
+                                "endpoint": "/api/distillery/disease2exrna",
                                 "type": "Disease",
-                                "options_endpoint": "/api/distillery/usecase/diseases_correlated_with_genes",
+                                "options_endpoint": "/api/distillery/diseases_correlated_with_genes",
                                 "fields": [
                                     "DOID",
                                     "id",
@@ -11546,6 +11548,7 @@
                 "label": "Use Cases",
                 "type": "group",
                 "component": "DistilleryLanding",
+                "position": "bottom",
                 "props": {
                     "title": "Data Distillery Use Case",
                     "description": "Explore use cases that use distilled data from Common Fund Programs",
@@ -11559,9 +11562,9 @@
                                 "init_function": "initialize_kg",
                                 "title": "Breast Epitheliumn Use Case",
                                 "description": "Find the genes that are highly expressed in breast epithelium as well as drugs that target the genes.",
-                                "endpoint": "/api/distillery/usecase/tissue2drugs",
+                                "endpoint": "/api/distillery/tissue2drugs",
                                 "type": "Tissue",
-                                "options_endpoint": "/api/distillery/usecase/gtex_tissue",
+                                "options_endpoint": "/api/distillery/gtex_tissue",
                                 "fields": [
                                     "UBERON",
                                     "id",
@@ -11579,9 +11582,9 @@
                                 "init_function": "initialize_kg",
                                 "title": "Mild Cognitive Impairment Use Case",
                                 "description": "Find all IDG and GTEx data that may be related by mild cognitive impairment and tissue type.",
-                                "endpoint": "/api/distillery/usecase/mw",
+                                "endpoint": "/api/distillery/mw",
                                 "type": "Disease",
-                                "options_endpoint": "/api/distillery/usecase/mw_diseases",
+                                "options_endpoint": "/api/distillery/mw_diseases",
                                 "fields": [
                                     "DOID",
                                     "id",
@@ -11601,12 +11604,12 @@
                             "props": {
                                 "init_function": "initialize_kg",
                                 "relations": [
-                                    "positively regulates",
-                                    "negatively regulates",
-                                    "expresses"
+                                    {"name": "positively regulates", "end": "Drug"},
+                                    {"name": "negatively regulates", "end": "Drug"},
+                                    {"name": "expresses"}
                                 ],
-                                "title": "EnzyMiner: find knowledge about drug processing enzymes",
-                                "description": "Select a drug processing enzyme to view drugs that up or down regulate it from LINCS as well as tissues where it is highly expressed based on data from GTEx.",
+                                "title": "CES1 Use Case",
+                                "description": "View drugs that up or down regulate CES1 gene from LINCS as well as tissues where it is highly expressed based on data from GTEx.",
                                 "endpoint": "/api/knowledge_graph",
                                 "type": "Gene",
                                 "options_endpoint": "/api/knowledge_graph/node_search",
@@ -11625,16 +11628,169 @@
                         }
                     ]
                 }
+            },
+            {
+                "endpoint": "https://info.cfde.cloud/",
+                "label": "CFDE Information Portal",
+                "type": "link",
+                "component": "Link",
+                "position": "top"
+            },
+            {
+                "endpoint": "https://data.cfde.cloud/",
+                "label": "CFDE Data Portal",
+                "type": "link",
+                "component": "Link",
+                "position": "top"
+            },
+            {
+                "endpoint": "/dictionary",
+                "label": "Data Dictionary",
+                "type": "html",
+                "component": "SanitizedHTML",
+                "position": "bottom",
+                "props": {
+                    "src": "https://minio.dev.maayanlab.cloud/datadistillery-kg/Dictionary/DataDistilleryDataDictionary0228.html"
+                }
+            },
+            {
+                "endpoint": "/downloads",
+                "label": "Downloads",
+                "type": "page",
+                "component": "Download",
+                "position": "bottom",
+                "props": {
+                    "src": "https://minio.dev.maayanlab.cloud/datadistillery-kg/download_detailed.json"
+                }
+            },
+            {
+                "endpoint": "/about",
+                "label": "About",
+                "type": "markdown",
+                "component": "Markdown",
+                "position": "top",
+                "props": {
+                    "src": "https://minio.dev.maayanlab.cloud/datadistillery-kg/about.md"
+                }
             }
         ]
     },
-    "footer": [
-        {
-            "type": "github",
-            "code": "https://github.com/MaayanLab/enrichr-kg",
-            "issues": "https://github.com/MaayanLab/enrichr-kg/issues"
-        }
-    ],
+    "footer": {
+        "style": {
+            "background": "#336699",
+            "color": "#FFF"
+        },
+        "layout": [
+            [
+                {
+                    "component": "logo",
+                    "props": {
+                        "src": "https://s3.amazonaws.com/maayan-kg/cfde-kg/assets/favicon.png",
+                        "alt": "DDKG",
+                        "title": "Data Distillery KG",
+                        "color": "inherit",
+                        "size": "small"
+                    }
+                },
+                {
+                    "component": "github",
+                    "props": {
+                        "code": "https://github.com/MaayanLab/datadistillery-kg",
+                        "issues": "https://github.com/MaayanLab/datadistillery-kg/issues"
+                    }
+                },
+                {
+                    "component": "social",
+                    "props": {
+                        "email": "mailto:contact@cfde.info",
+                        "twitter": "https://twitter.com/CFDEWorkbench",
+                        "youtube": "https://www.youtube.com/channel/UCWucYIvMygAgG5t0xEGEZgg"
+                        
+                    }
+                }
+            ],
+            [
+                {
+                    "component": "text",
+                    "props": {
+                        "text": "Consortium"
+                    }
+                },
+                {
+                    "component": "link",
+                    "props": {
+                        "text": "Information Portal",
+                        "href": "https://info.cfde.cloud/"
+                    }
+                },
+                {
+                    "component": "link",
+                    "props": {
+                        "text": "Data Portal",
+                        "href": "https://data.cfde.cloud/"
+                    }
+                }
+            ],
+            [
+                {
+                    "component": "text",
+                    "props": {
+                        "text": "Data Distillery"
+                    }
+                },
+                {
+                    "component": "link",
+                    "props": {
+                        "text": "Connection Explorer",
+                        "href": "/"
+                    }
+                },
+                {
+                    "component": "link",
+                    "props": {
+                        "text": "Apps",
+                        "href": "/dd_apps"
+                    }
+                },
+                {
+                    "component": "link",
+                    "props": {
+                        "text": "Use Cases",
+                        "href": "/use_cases"
+                    }
+                }
+            ],
+            [
+                {
+                    "component": "text",
+                    "props": {
+                        "text": "Data Access"
+                    }
+                },
+                {
+                    "component": "link",
+                    "props": {
+                        "text": "Data Dictionary",
+                        "href": "/dictionary"
+                    }
+                },
+                {
+                    "component": "link",
+                    "props": {
+                        "text": "Downloads",
+                        "href": "/downloads"
+                    }
+                },
+                {
+                    "component": "link",
+                    "props": {
+                        "text": "About",
+                        "href": "/about"
+                    }
+                }
+            ]
+        ]
+    },
     "ui": {
         "background": "linear-gradient(180deg, #FFFFFF 26.13%, #DBE0ED 104.21%)",
         "footer_background": "#336699"
