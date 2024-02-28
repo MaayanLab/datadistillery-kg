@@ -1,0 +1,128 @@
+[
+    {
+        "source": "GTEX",
+        "description": "Expression and eQTL data from GTEx",
+        "terms": 2862091,
+        "edges": 36369763,
+        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/102623/assertions/GTEX.edges.csv",
+        "size": "4.35GB",
+        "updated": "10-26-2023"
+    },
+    {
+        "source": "HGNCHPO",
+        "description": "HGNC gene node mapping to Human Phenotype Ontology",
+        "terms": 14300,
+        "edges": 655074,
+        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/102623/assertions/HGNCHPO.edges.csv",
+        "size": "76.11MB",
+        "updated": "10-26-2023"
+    },
+    {
+        "source": "MoTrPAC",
+        "description": "Differential gene expression data from endurance training exercise of young adult rats",
+        "terms": 14495,
+        "edges": 34284,
+        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/102623/assertions/MOTORPAC.edges.csv",
+        "size": "4.94MB",
+        "updated": "10-26-2023"
+    },
+    {
+        "source": "KF",
+        "description": "Genotypic and phenotypic data from the Pediatric Cardiac Genetics Consortium cohort in Kids First",
+        "terms": 145798,
+        "edges": 234625,
+        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/102623/assertions/KF.edges.csv",
+        "size": "30.07MB",
+        "updated": "10-26-2023"
+    },
+    {
+        "source": "HCOPMP",
+        "description": "Mapping of mouse gene nodes (HCOP) to the mammalian phenotype ontology (MP)",
+        "terms": 27631,
+        "edges": 233820,
+        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/102623/assertions/HCOPMP.edges.csv",
+        "size": "31.00MB",
+        "updated": "10-26-2023"
+    },
+    {
+        "source": "4DN",
+        "description": "Chromatin loops called from Hi-C experiments performed in select cell lines",
+        "terms": 766621,
+        "edges": 2632949,
+        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/102623/assertions/4DN.edges.csv",
+        "size": "416.36MB",
+        "updated": "10-26-2023"
+    },
+    {
+        "source": "LINCS",
+        "description": "Gene expression data from drug perturbation, as well as drug-drug similarity",
+        "terms": 8941,
+        "edges": 471797,
+        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/102623/assertions/LINCS.edges.csv",
+        "size": "57.22MB",
+        "updated": "10-26-2023"
+    },
+    {
+        "source": "Metabolomics Workbench",
+        "description": "Metabolite relationships with gene, disease, and cell",
+        "terms": 11030,
+        "edges": 116549,
+        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/102623/assertions/MW.edges.csv",
+        "size": "12.65MB",
+        "updated": "10-26-2023"
+    },
+    {
+        "source": "CLINVAR",
+        "description": "Assertions between human genes and phenotypes",
+        "terms": 20105,
+        "edges": 53275,
+        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/102623/assertions/CLINVAR.edges.csv",
+        "size": "6.84MB",
+        "updated": "10-26-2023"
+    },
+    {
+        "source": "GLYGEN",
+        "description": "Associations from multiple glycomics database",
+        "terms": 182445,
+        "edges": 464684,
+        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/102623/assertions/GLYGEN.edges.csv",
+        "size": "103.99MB",
+        "updated": "10-26-2023"
+    },
+    {
+        "source": "ERCC",
+        "description": "eCLIP-seq and CHIP-seq associations from ERCC",
+        "terms": 4072618,
+        "edges": 27891997,
+        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/102623/assertions/ERCC.edges.csv",
+        "size": "4.94GB",
+        "updated": "10-26-2023"
+    },
+    {
+        "source": "MSIGDB",
+        "description": "Five subsets of MSigDB v7.4 datasets",
+        "terms": 44901,
+        "edges": 1305281,
+        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/102623/assertions/MSIGDB.edges.csv",
+        "size": "176.83MB",
+        "updated": "10-26-2023"
+    },
+    {
+        "source": "IDG",
+        "description": "Relationships between compounds, diseases, and proteins",
+        "terms": 329023,
+        "edges": 435863,
+        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/102623/assertions/IDG.edges.csv",
+        "size": "68.57MB",
+        "updated": "10-26-2023"
+    },
+    {
+        "source": "HPOMP",
+        "description": "Mapping of human phenotype ontology (HPO) nodes to mammalian phenotype ontology (MP)",
+        "terms": 1176,
+        "edges": 1214,
+        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/102623/assertions/HPOMP.edges.csv",
+        "size": "178.10KB",
+        "updated": "10-26-2023"
+    }
+]
