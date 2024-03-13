@@ -11423,9 +11423,9 @@
                 "component": "KnowledgeGraph",
                 "position": "bottom",
                 "props": {
-                    "init_function": "initialize_kg",
+                    "init_function": "iniexptialize_kg",
                     "title": "ConnectionExplorer: Find connections between CFDE DD KG entities",
-                    "description": "Select a CFDE DD KG entity to find other entities connected to it or wcplore connections between two CFDE DD KG entities.",
+                    "description": "Select a CFDE DD KG entity to find other entities connected to it or explore connections between two CFDE DD KG entities.",
                     "initial_query": {
                         "start": "Gene",
                         "start_term": "MAOB gene",
@@ -11451,11 +11451,12 @@
                             "component": "DistilleryUseCase",
                             "props": {
                                 "init_function": "initialize_kg",
-                                "title": "Tissue2Drugs: target highly expressed genes within a GTEx tissue based on LINCS and IDG pharmacological knowledge",
-                                "description": "Find all genes that are highly expressed in the GTEx <tissue> dataset and may be perturbed by a specific compound based on data from the LINCS L1000 dataset and known drug targets found in data curated by IDG.",
+                                "title": "Tissue2Drugs",
+                                "description": "Find all genes that are highly expressed in a GTEx tissue and may be perturbed by a specific compound based on data from the LINCS L1000 dataset, and are known drug targets based on data curated by IDG.",
                                 "endpoint": "/api/distillery/tissue2drugs",
                                 "type": "Tissue",
                                 "options_endpoint": "/api/distillery/gtex_tissue",
+                                "icon": "https://minio.dev.maayanlab.cloud/datadistillery-kg/img/apps/tissues2drugs.png",
                                 "fields": [
                                     "UBERON",
                                     "id",
@@ -11465,15 +11466,16 @@
                             }
                         },
                         {
-                            "endpoint": "/dd_apps/mw_diseases",
-                            "label": "MW Disease",
+                            "endpoint": "/dd_apps/mw2diseases",
+                            "label": "MW2Disease",
                             "type": "page",
                             "component": "DistilleryUseCase",
                             "props": {
                                 "init_function": "initialize_kg",
-                                "title": "MWDiseases",
-                                "description": "For a specific disease in Metabolomics Workbench data, find all IDG and GTEx data that may be related by disease and tissue type.",
+                                "title": "MW2Disease",
+                                "description": "For a specific disease in Metabolomics Workbench, find all IDG and GTEx assertions that may be related to the disease in a specific tissue type.",
                                 "endpoint": "/api/distillery/mw",
+                                "icon": "https://minio.dev.maayanlab.cloud/datadistillery-kg/img/apps/MW2Disease.png",
                                 "type": "Disease",
                                 "options_endpoint": "/api/distillery/mw_diseases",
                                 "fields": [
@@ -11488,8 +11490,8 @@
                             }
                         },
                         {
-                            "endpoint": "/dd_apps/enzyminer",
-                            "label": "Enzyminer",
+                            "endpoint": "/dd_apps/enzymeminer",
+                            "label": "EnzymeMiner",
                             "type": "page",
                             "component": "DistilleryUseCase",
                             "props": {
@@ -11499,7 +11501,8 @@
                                     {"name": "negatively regulates", "end": "Drug"},
                                     {"name": "expresses"}
                                 ],
-                                "title": "EnzyMiner: find knowledge about drug processing enzymes",
+                                "title": "EnzymeMiner",
+                                "icon": "https://minio.dev.maayanlab.cloud/datadistillery-kg/img/apps/EnzymeMiner.png",
                                 "description": "Select a drug processing enzyme to view drugs that up or down regulate it from LINCS as well as tissues where it is highly expressed based on data from GTEx.",
                                 "endpoint": "/api/knowledge_graph",
                                 "type": "Gene",
@@ -11525,7 +11528,8 @@
                             "props": {
                                 "init_function": "initialize_kg",
                                 "title": "Disease2ExRNA",
-                                "description": "For a given set of genes that are over-expressed in a specific disease, identify extracellular RNA (exRNA) species that may be detected in human biofluids and thus serve as non-invasive disease biomarkers.",
+                                "icon": "https://minio.dev.maayanlab.cloud/datadistillery-kg/img/apps/disease2exrna.png",
+                                "description": "For a given set of genes that are highly expressed in a specific disease, identify extracellular RNAs (exRNAs) that may be detected in human biofluids and thus serve as non-invasive disease biomarkers.",
                                 "endpoint": "/api/distillery/disease2exrna",
                                 "type": "Disease",
                                 "options_endpoint": "/api/distillery/diseases_correlated_with_genes",
@@ -11560,8 +11564,9 @@
                             "component": "DistilleryUseCase",
                             "props": {
                                 "init_function": "initialize_kg",
+                                "icon": "https://minio.dev.maayanlab.cloud/datadistillery-kg/img/apps/use-case1.png",
                                 "title": "Breast Epitheliumn Use Case",
-                                "description": "Find the genes that are highly expressed in breast epithelium as well as drugs that target the genes.",
+                                "description": "Find the genes that are highly expressed in breast epithelium as well as drugs that target these genes.",
                                 "endpoint": "/api/distillery/tissue2drugs",
                                 "type": "Tissue",
                                 "options_endpoint": "/api/distillery/gtex_tissue",
@@ -11581,7 +11586,10 @@
                             "props": {
                                 "init_function": "initialize_kg",
                                 "title": "Mild Cognitive Impairment Use Case",
-                                "description": "Find all IDG and GTEx data that may be related by mild cognitive impairment and tissue type.",
+                                "icon": "https://minio.dev.maayanlab.cloud/datadistillery-kg/img/apps/use-case2.png",
+                                "width": 130,
+                                "height": 130,
+                                "description": "Find all IDG and GTEx assertions that may be related to mild cognitive impairment and any tissue type.",
                                 "endpoint": "/api/distillery/mw",
                                 "type": "Disease",
                                 "options_endpoint": "/api/distillery/mw_diseases",
@@ -11609,8 +11617,9 @@
                                     {"name": "expresses"}
                                 ],
                                 "title": "CES1 Use Case",
-                                "description": "View drugs that up or down regulate CES1 gene from LINCS as well as tissues where it is highly expressed based on data from GTEx.",
+                                "description": "Display drugs that up or down regulate the gene CES1 from LINCS as well as tissues where it is highly expressed based on assertions from GTEx.",
                                 "endpoint": "/api/knowledge_graph",
+                                "icon": "https://minio.dev.maayanlab.cloud/datadistillery-kg/img/apps/use-case3.png",
                                 "type": "Gene",
                                 "options_endpoint": "/api/knowledge_graph/node_search",
                                 "fields": [
@@ -11696,7 +11705,7 @@
                     "component": "github",
                     "props": {
                         "code": "https://github.com/MaayanLab/datadistillery-kg",
-                        "issues": "https://github.com/MaayanLab/datadistillery-kg/issues"
+                        "issues": "https://github.com/MaayanLab/data-distillery-issues/issues"
                     }
                 },
                 {
