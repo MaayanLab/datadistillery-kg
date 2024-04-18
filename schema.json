@@ -11423,7 +11423,7 @@
                 "component": "KnowledgeGraph",
                 "position": "bottom",
                 "props": {
-                    "init_function": "iniexptialize_kg",
+                    "init_function": "initialize_kg",
                     "title": "ConnectionExplorer: Find connections between CFDE DD KG entities",
                     "description": "Select a CFDE DD KG entity to find other entities connected to it or explore connections between two CFDE DD KG entities.",
                     "initial_query": {

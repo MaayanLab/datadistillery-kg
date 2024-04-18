@@ -1,7 +1,7 @@
 version: '2'
 services:
   neo4j:
-    image: maayanlab/neo4j:mac-arm
+    image: neo4j:4.4
     user: "${UID}:${GID}"
     environment:
       NEO4JLABS_PLUGINS: '["apoc", "n10s"]'
