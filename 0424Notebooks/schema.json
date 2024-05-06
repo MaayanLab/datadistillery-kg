@@ -8,28 +8,8 @@
             ],
             "display": [
                 {
-                    "label": "G99760DU",
-                    "text": "${G99760DU}",
-                    "type": "text"
-                },
-                {
-                    "label": "Glytoucan",
-                    "text": "${Glytoucan}",
-                    "type": "text"
-                },
-                {
-                    "label": "G29633ZY",
-                    "text": "${G29633ZY}",
-                    "type": "text"
-                },
-                {
-                    "label": "1031.35",
-                    "text": "${1031.35}",
-                    "type": "text"
-                },
-                {
-                    "label": "543.22",
-                    "text": "${543.22}",
+                    "label": "label",
+                    "text": "${label}",
                     "type": "text"
                 },
                 {
@@ -38,37 +18,15 @@
                     "type": "text"
                 },
                 {
-                    "label": "label",
-                    "text": "${label}",
-                    "type": "text"
-                },
-                {
                     "label": "type",
                     "text": "${type}",
-                    "type": "text"
-                },
-                {
-                    "label": "G51580UF",
-                    "text": "${G51580UF}",
-                    "type": "text"
-                },
-                {
-                    "label": "2296.82",
-                    "text": "${2296.82}",
                     "type": "text"
                 }
             ],
             "search": [
-                "G99760DU",
-                "Glytoucan",
-                "G29633ZY",
-                "1031.35",
-                "543.22",
-                "GLYTOUCAN",
                 "label",
-                "type",
-                "G51580UF",
-                "2296.82"
+                "GLYTOUCAN",
+                "type"
             ]
         },
         {
@@ -79,33 +37,8 @@
             ],
             "display": [
                 {
-                    "label": "GLYCOPROTEIN:P0DTC2-1-1421 CUI",
-                    "text": "${GLYCOPROTEIN:P0DTC2-1-1421 CUI}",
-                    "type": "text"
-                },
-                {
-                    "label": "GLYCOPROTEIN:Q9UKS6-1-1 CUI",
-                    "text": "${GLYCOPROTEIN:Q9UKS6-1-1 CUI}",
-                    "type": "text"
-                },
-                {
-                    "label": "P43251-1-33",
-                    "text": "${P43251-1-33}",
-                    "type": "text"
-                },
-                {
-                    "label": "GLYCOPROTEIN:P43251-1-33 CUI",
-                    "text": "${GLYCOPROTEIN:P43251-1-33 CUI}",
-                    "type": "text"
-                },
-                {
                     "label": "label",
                     "text": "${label}",
-                    "type": "text"
-                },
-                {
-                    "label": "type",
-                    "text": "${type}",
                     "type": "text"
                 },
                 {
@@ -114,32 +47,15 @@
                     "type": "text"
                 },
                 {
-                    "label": "P0DTC2-1-1421",
-                    "text": "${P0DTC2-1-1421}",
-                    "type": "text"
-                },
-                {
-                    "label": "Glycoprotein",
-                    "text": "${Glycoprotein}",
-                    "type": "text"
-                },
-                {
-                    "label": "Q9UKS6-1-1",
-                    "text": "${Q9UKS6-1-1}",
+                    "label": "type",
+                    "text": "${type}",
                     "type": "text"
                 }
             ],
             "search": [
-                "GLYCOPROTEIN:P0DTC2-1-1421 CUI",
-                "GLYCOPROTEIN:Q9UKS6-1-1 CUI",
-                "P43251-1-33",
-                "GLYCOPROTEIN:P43251-1-33 CUI",
                 "label",
-                "type",
                 "GLYCOPROTEIN",
-                "P0DTC2-1-1421",
-                "Glycoprotein",
-                "Q9UKS6-1-1"
+                "type"
             ]
         },
         {
@@ -150,26 +66,6 @@
             ],
             "display": [
                 {
-                    "label": "UNIPROTKB.ISOFORM:Q9UI40-1 CUI",
-                    "text": "${UNIPROTKB.ISOFORM:Q9UI40-1 CUI}",
-                    "type": "text"
-                },
-                {
-                    "label": "Q6NUT3-1",
-                    "text": "${Q6NUT3-1}",
-                    "type": "text"
-                },
-                {
-                    "label": "P21661-1",
-                    "text": "${P21661-1}",
-                    "type": "text"
-                },
-                {
-                    "label": "UNIPROTKB.ISOFORM",
-                    "text": "${UNIPROTKB.ISOFORM}",
-                    "type": "text"
-                },
-                {
                     "label": "label",
                     "text": "${label}",
                     "type": "text"
@@ -180,37 +76,15 @@
                     "type": "text"
                 },
                 {
-                    "label": "UNIPROTKB.ISOFORM:Q6NUT3-1 CUI",
-                    "text": "${UNIPROTKB.ISOFORM:Q6NUT3-1 CUI}",
-                    "type": "text"
-                },
-                {
-                    "label": "Isoform",
-                    "text": "${Isoform}",
-                    "type": "text"
-                },
-                {
-                    "label": "Q9UI40-1",
-                    "text": "${Q9UI40-1}",
-                    "type": "text"
-                },
-                {
-                    "label": "UNIPROTKB.ISOFORM:P21661-1 CUI",
-                    "text": "${UNIPROTKB.ISOFORM:P21661-1 CUI}",
+                    "label": "UNIPROTKB.ISOFORM",
+                    "text": "${UNIPROTKB.ISOFORM}",
                     "type": "text"
                 }
             ],
             "search": [
-                "UNIPROTKB.ISOFORM:Q9UI40-1 CUI",
-                "Q6NUT3-1",
-                "P21661-1",
-                "UNIPROTKB.ISOFORM",
                 "label",
                 "type",
-                "UNIPROTKB.ISOFORM:Q6NUT3-1 CUI",
-                "Isoform",
-                "Q9UI40-1",
-                "UNIPROTKB.ISOFORM:P21661-1 CUI"
+                "UNIPROTKB.ISOFORM"
             ]
         },
         {
@@ -221,31 +95,6 @@
             ],
             "display": [
                 {
-                    "label": "Regulator of G-protein signaling 4 ",
-                    "text": "${Regulator of G-protein signaling 4 }",
-                    "type": "text"
-                },
-                {
-                    "label": "PR",
-                    "text": "${PR}",
-                    "type": "text"
-                },
-                {
-                    "label": "O15527",
-                    "text": "${O15527}",
-                    "type": "text"
-                },
-                {
-                    "label": "P48730",
-                    "text": "${P48730}",
-                    "type": "text"
-                },
-                {
-                    "label": "Casein kinase I isoform delta ",
-                    "text": "${Casein kinase I isoform delta }",
-                    "type": "text"
-                },
-                {
                     "label": "label",
                     "text": "${label}",
                     "type": "text"
@@ -256,38 +105,21 @@
                     "type": "text"
                 },
                 {
-                    "label": "N-glycosylase/DNA lyase [Includes: 8-oxoguanine DNA glycosylase ",
-                    "text": "${N-glycosylase/DNA lyase [Includes: 8-oxoguanine DNA glycosylase }",
-                    "type": "text"
-                },
-                {
-                    "label": "Protein",
-                    "text": "${Protein}",
+                    "label": "PR",
+                    "text": "${PR}",
                     "type": "text"
                 },
                 {
                     "label": "UNIPROTKB",
                     "text": "${UNIPROTKB}",
                     "type": "text"
-                },
-                {
-                    "label": "P49798",
-                    "text": "${P49798}",
-                    "type": "text"
                 }
             ],
             "search": [
-                "Regulator of G-protein signaling 4 ",
-                "PR",
-                "O15527",
-                "P48730",
-                "Casein kinase I isoform delta ",
                 "label",
                 "type",
-                "N-glycosylase/DNA lyase [Includes: 8-oxoguanine DNA glycosylase ",
-                "Protein",
-                "UNIPROTKB",
-                "P49798"
+                "PR",
+                "UNIPROTKB"
             ]
         },
         {
@@ -298,26 +130,6 @@
             ],
             "display": [
                 {
-                    "label": "4DNFIXP4QG5B",
-                    "text": "${4DNFIXP4QG5B}",
-                    "type": "text"
-                },
-                {
-                    "label": "4DN File",
-                    "text": "${4DN File}",
-                    "type": "text"
-                },
-                {
-                    "label": "4DNFIIQP46FO",
-                    "text": "${4DNFIIQP46FO}",
-                    "type": "text"
-                },
-                {
-                    "label": "in situ Hi-C on HFFc6 cells.HFFc6.protocol variations.Dekker",
-                    "text": "${in situ Hi-C on HFFc6 cells.HFFc6.protocol variations.Dekker}",
-                    "type": "text"
-                },
-                {
                     "label": "label",
                     "text": "${label}",
                     "type": "text"
@@ -328,37 +140,15 @@
                     "type": "text"
                 },
                 {
-                    "label": "in situ Hi-C on GM12878 with MboI and bio-dATP.GM12878_Immortalized cells.Unclustered",
-                    "text": "${in situ Hi-C on GM12878 with MboI and bio-dATP.GM12878_Immortalized cells.Unclustered}",
-                    "type": "text"
-                },
-                {
                     "label": "4DNF",
                     "text": "${4DNF}",
-                    "type": "text"
-                },
-                {
-                    "label": "Micro-C on HFFc6 cells.HFFc6.Dekker",
-                    "text": "${Micro-C on HFFc6 cells.HFFc6.Dekker}",
-                    "type": "text"
-                },
-                {
-                    "label": "4DNFIQ48U7UJ",
-                    "text": "${4DNFIQ48U7UJ}",
                     "type": "text"
                 }
             ],
             "search": [
-                "4DNFIXP4QG5B",
-                "4DN File",
-                "4DNFIIQP46FO",
-                "in situ Hi-C on HFFc6 cells.HFFc6.protocol variations.Dekker",
                 "label",
                 "type",
-                "in situ Hi-C on GM12878 with MboI and bio-dATP.GM12878_Immortalized cells.Unclustered",
-                "4DNF",
-                "Micro-C on HFFc6 cells.HFFc6.Dekker",
-                "4DNFIQ48U7UJ"
+                "4DNF"
             ]
         },
         {
@@ -369,68 +159,8 @@
             ],
             "display": [
                 {
-                    "label": "",
-                    "text": "${}",
-                    "type": "text"
-                },
-                {
-                    "label": "HGNC",
-                    "text": "${HGNC}",
-                    "type": "text"
-                },
-                {
-                    "label": "CROCCP2",
-                    "text": "${CROCCP2}",
-                    "type": "text"
-                },
-                {
-                    "label": "NCI",
-                    "text": "${NCI}",
-                    "type": "text"
-                },
-                {
-                    "label": "50012.0",
-                    "text": "${50012.0}",
-                    "type": "text"
-                },
-                {
-                    "label": "102465974.0",
-                    "text": "${102465974.0}",
-                    "type": "text"
-                },
-                {
-                    "label": "ENSG00000215908",
-                    "text": "${ENSG00000215908}",
-                    "type": "text"
-                },
-                {
-                    "label": "label",
-                    "text": "${label}",
-                    "type": "text"
-                },
-                {
-                    "label": "28170.0",
-                    "text": "${28170.0}",
-                    "type": "text"
-                },
-                {
                     "label": "OMIM",
                     "text": "${OMIM}",
-                    "type": "text"
-                },
-                {
-                    "label": "MIR6719",
-                    "text": "${MIR6719}",
-                    "type": "text"
-                },
-                {
-                    "label": "ENSG00000277759",
-                    "text": "${ENSG00000277759}",
-                    "type": "text"
-                },
-                {
-                    "label": "Gene",
-                    "text": "${Gene}",
                     "type": "text"
                 },
                 {
@@ -439,18 +169,8 @@
                     "type": "text"
                 },
                 {
-                    "label": "type",
-                    "text": "${type}",
-                    "type": "text"
-                },
-                {
                     "label": "ORDO",
                     "text": "${ORDO}",
-                    "type": "text"
-                },
-                {
-                    "label": "ENSG00000285942",
-                    "text": "${ENSG00000285942}",
                     "type": "text"
                 },
                 {
@@ -459,31 +179,35 @@
                     "type": "text"
                 },
                 {
-                    "label": "84809.0",
-                    "text": "${84809.0}",
+                    "label": "HGNC",
+                    "text": "${HGNC}",
+                    "type": "text"
+                },
+                {
+                    "label": "type",
+                    "text": "${type}",
+                    "type": "text"
+                },
+                {
+                    "label": "label",
+                    "text": "${label}",
+                    "type": "text"
+                },
+                {
+                    "label": "NCI",
+                    "text": "${NCI}",
                     "type": "text"
                 }
             ],
             "search": [
-                "",
-                "HGNC",
-                "CROCCP2",
-                "NCI",
-                "50012.0",
-                "102465974.0",
-                "ENSG00000215908",
-                "label",
-                "28170.0",
                 "OMIM",
-                "MIR6719",
-                "ENSG00000277759",
-                "Gene",
                 "ENSEMBL",
-                "type",
                 "ORDO",
-                "ENSG00000285942",
                 "ENTREZ",
-                "84809.0"
+                "HGNC",
+                "type",
+                "label",
+                "NCI"
             ]
         },
         {
@@ -494,33 +218,8 @@
             ],
             "display": [
                 {
-                    "label": "MOTRPAC:ENSRNOG00000003953-liver-female CUI",
-                    "text": "${MOTRPAC:ENSRNOG00000003953-liver-female CUI}",
-                    "type": "text"
-                },
-                {
                     "label": "label",
                     "text": "${label}",
-                    "type": "text"
-                },
-                {
-                    "label": "MOTRPAC:ENSRNOG00000011775-liver-female CUI",
-                    "text": "${MOTRPAC:ENSRNOG00000011775-liver-female CUI}",
-                    "type": "text"
-                },
-                {
-                    "label": "ENSRNOG00000003953-liver-female",
-                    "text": "${ENSRNOG00000003953-liver-female}",
-                    "type": "text"
-                },
-                {
-                    "label": "MOTRPAC",
-                    "text": "${MOTRPAC}",
-                    "type": "text"
-                },
-                {
-                    "label": "ENSRNOG00000011775-liver-female",
-                    "text": "${ENSRNOG00000011775-liver-female}",
                     "type": "text"
                 },
                 {
@@ -529,26 +228,15 @@
                     "type": "text"
                 },
                 {
-                    "label": "MOTRPAC:ENSRNOG00000062155-heart-male CUI",
-                    "text": "${MOTRPAC:ENSRNOG00000062155-heart-male CUI}",
-                    "type": "text"
-                },
-                {
-                    "label": "ENSRNOG00000062155-heart-male",
-                    "text": "${ENSRNOG00000062155-heart-male}",
+                    "label": "MOTRPAC",
+                    "text": "${MOTRPAC}",
                     "type": "text"
                 }
             ],
             "search": [
-                "MOTRPAC:ENSRNOG00000003953-liver-female CUI",
                 "label",
-                "MOTRPAC:ENSRNOG00000011775-liver-female CUI",
-                "ENSRNOG00000003953-liver-female",
-                "MOTRPAC",
-                "ENSRNOG00000011775-liver-female",
                 "type",
-                "MOTRPAC:ENSRNOG00000062155-heart-male CUI",
-                "ENSRNOG00000062155-heart-male"
+                "MOTRPAC"
             ]
         },
         {
@@ -559,108 +247,8 @@
             ],
             "display": [
                 {
-                    "label": "",
-                    "text": "${}",
-                    "type": "text"
-                },
-                {
-                    "label": "LCH_NW",
-                    "text": "${LCH_NW}",
-                    "type": "text"
-                },
-                {
-                    "label": "fibroblast derived cell line",
-                    "text": "${fibroblast derived cell line}",
-                    "type": "text"
-                },
-                {
-                    "label": "MTHU001067",
-                    "text": "${MTHU001067}",
-                    "type": "text"
-                },
-                {
-                    "label": "UBERON",
-                    "text": "${UBERON}",
-                    "type": "text"
-                },
-                {
-                    "label": "MSH",
-                    "text": "${MSH}",
-                    "type": "text"
-                },
-                {
-                    "label": "CL",
-                    "text": "${CL}",
-                    "type": "text"
-                },
-                {
-                    "label": "HL7V2.5",
-                    "text": "${HL7V2.5}",
-                    "type": "text"
-                },
-                {
-                    "label": "NCI",
-                    "text": "${NCI}",
-                    "type": "text"
-                },
-                {
-                    "label": "LNC",
-                    "text": "${LNC}",
-                    "type": "text"
-                },
-                {
-                    "label": "label",
-                    "text": "${label}",
-                    "type": "text"
-                },
-                {
-                    "label": "EFO",
-                    "text": "${EFO}",
-                    "type": "text"
-                },
-                {
-                    "label": "Heart",
-                    "text": "${Heart}",
-                    "type": "text"
-                },
-                {
-                    "label": "UWDA",
-                    "text": "${UWDA}",
-                    "type": "text"
-                },
-                {
-                    "label": "ICF",
-                    "text": "${ICF}",
-                    "type": "text"
-                },
-                {
-                    "label": "PSY",
-                    "text": "${PSY}",
-                    "type": "text"
-                },
-                {
-                    "label": "CHV",
-                    "text": "${CHV}",
-                    "type": "text"
-                },
-                {
-                    "label": "AZ",
-                    "text": "${AZ}",
-                    "type": "text"
-                },
-                {
-                    "label": "CSP",
-                    "text": "${CSP}",
-                    "type": "text"
-                },
-                {
-                    "label": "ICF-CY",
-                    "text": "${ICF-CY}",
-                    "type": "text"
-                },
-                {
-                    "label": "Anatomy",
-                    "text": "${Anatomy}",
+                    "label": "SNOMEDCT_US",
+                    "text": "${SNOMEDCT_US}",
                     "type": "text"
                 },
                 {
@@ -669,8 +257,38 @@
                     "type": "text"
                 },
                 {
+                    "label": "CHV",
+                    "text": "${CHV}",
+                    "type": "text"
+                },
+                {
+                    "label": "MSH",
+                    "text": "${MSH}",
+                    "type": "text"
+                },
+                {
                     "label": "PAX.PAXRAT",
                     "text": "${PAX.PAXRAT}",
+                    "type": "text"
+                },
+                {
+                    "label": "LNC",
+                    "text": "${LNC}",
+                    "type": "text"
+                },
+                {
+                    "label": "CL",
+                    "text": "${CL}",
+                    "type": "text"
+                },
+                {
+                    "label": "type",
+                    "text": "${type}",
+                    "type": "text"
+                },
+                {
+                    "label": "ICF",
+                    "text": "${ICF}",
                     "type": "text"
                 },
                 {
@@ -679,8 +297,18 @@
                     "type": "text"
                 },
                 {
-                    "label": "0009320",
-                    "text": "${0009320}",
+                    "label": "NCI",
+                    "text": "${NCI}",
+                    "type": "text"
+                },
+                {
+                    "label": "FMA",
+                    "text": "${FMA}",
+                    "type": "text"
+                },
+                {
+                    "label": "ICF-CY",
+                    "text": "${ICF-CY}",
                     "type": "text"
                 },
                 {
@@ -689,85 +317,23 @@
                     "type": "text"
                 },
                 {
-                    "label": "0002009",
-                    "text": "${0002009}",
+                    "label": "AZ",
+                    "text": "${AZ}",
                     "type": "text"
                 },
                 {
-                    "label": "type",
-                    "text": "${type}",
+                    "label": "UBERON",
+                    "text": "${UBERON}",
                     "type": "text"
                 },
                 {
-                    "label": "RUES2",
-                    "text": "${RUES2}",
+                    "label": "HL7V2.5",
+                    "text": "${HL7V2.5}",
                     "type": "text"
                 },
                 {
-                    "label": "SNOMEDCT_US",
-                    "text": "${SNOMEDCT_US}",
-                    "type": "text"
-                },
-                {
-                    "label": "FMA",
-                    "text": "${FMA}",
-                    "type": "text"
-                }
-            ],
-            "search": [
-                "",
-                "LCH_NW",
-                "fibroblast derived cell line",
-                "MTHU001067",
-                "UBERON",
-                "MSH",
-                "CL",
-                "HL7V2.5",
-                "NCI",
-                "LNC",
-                "label",
-                "EFO",
-                "Heart",
-                "UWDA",
-                "ICF",
-                "PSY",
-                "CHV",
-                "AZ",
-                "CSP",
-                "ICF-CY",
-                "Anatomy",
-                "OMIM",
-                "PAX.PAXRAT",
-                "PAX.PAXSPN",
-                "0009320",
-                "CARO",
-                "0002009",
-                "type",
-                "RUES2",
-                "SNOMEDCT_US",
-                "FMA"
-            ]
-        },
-        {
-            "node": "GlyGen Location",
-            "example": [
-                "523.0",
-                "546.0"
-            ],
-            "display": [
-                {
-                    "label": "96.0",
-                    "text": "${96.0}",
-                    "type": "text"
-                },
-                {
-                    "label": "523.0",
-                    "text": "${523.0}",
-                    "type": "text"
-                },
-                {
-                    "label": "LOC00018539",
-                    "text": "${LOC00018539}",
+                    "label": "PSY",
+                    "text": "${PSY}",
                     "type": "text"
                 },
                 {
@@ -776,28 +342,67 @@
                     "type": "text"
                 },
                 {
+                    "label": "LCH_NW",
+                    "text": "${LCH_NW}",
+                    "type": "text"
+                },
+                {
+                    "label": "CSP",
+                    "text": "${CSP}",
+                    "type": "text"
+                },
+                {
+                    "label": "UWDA",
+                    "text": "${UWDA}",
+                    "type": "text"
+                },
+                {
+                    "label": "EFO",
+                    "text": "${EFO}",
+                    "type": "text"
+                }
+            ],
+            "search": [
+                "SNOMEDCT_US",
+                "OMIM",
+                "CHV",
+                "MSH",
+                "PAX.PAXRAT",
+                "LNC",
+                "CL",
+                "type",
+                "ICF",
+                "PAX.PAXSPN",
+                "NCI",
+                "FMA",
+                "ICF-CY",
+                "CARO",
+                "AZ",
+                "UBERON",
+                "HL7V2.5",
+                "PSY",
+                "label",
+                "LCH_NW",
+                "CSP",
+                "UWDA",
+                "EFO"
+            ]
+        },
+        {
+            "node": "GlyGen Location",
+            "example": [
+                "label:523",
+                "label:546"
+            ],
+            "display": [
+                {
+                    "label": "label",
+                    "text": "${label}",
+                    "type": "text"
+                },
+                {
                     "label": "type",
                     "text": "${type}",
-                    "type": "text"
-                },
-                {
-                    "label": "546.0",
-                    "text": "${546.0}",
-                    "type": "text"
-                },
-                {
-                    "label": "LOC00040796",
-                    "text": "${LOC00040796}",
-                    "type": "text"
-                },
-                {
-                    "label": "LOC00034282",
-                    "text": "${LOC00034282}",
-                    "type": "text"
-                },
-                {
-                    "label": "GlyGen Location",
-                    "text": "${GlyGen Location}",
                     "type": "text"
                 },
                 {
@@ -807,15 +412,8 @@
                 }
             ],
             "search": [
-                "96.0",
-                "523.0",
-                "LOC00018539",
                 "label",
                 "type",
-                "546.0",
-                "LOC00040796",
-                "LOC00034282",
-                "GlyGen Location",
                 "GLYGEN.LOCATION"
             ]
         },
@@ -827,43 +425,13 @@
             ],
             "display": [
                 {
-                    "label": "region",
-                    "text": "${region}",
-                    "type": "text"
-                },
-                {
-                    "label": "0000001",
-                    "text": "${0000001}",
-                    "type": "text"
-                },
-                {
                     "label": "label",
                     "text": "${label}",
                     "type": "text"
                 },
                 {
-                    "label": "0000110",
-                    "text": "${0000110}",
-                    "type": "text"
-                },
-                {
                     "label": "SO",
                     "text": "${SO}",
-                    "type": "text"
-                },
-                {
-                    "label": "0000704",
-                    "text": "${0000704}",
-                    "type": "text"
-                },
-                {
-                    "label": "sequence_feature",
-                    "text": "${sequence_feature}",
-                    "type": "text"
-                },
-                {
-                    "label": "gene",
-                    "text": "${gene}",
                     "type": "text"
                 },
                 {
@@ -873,14 +441,8 @@
                 }
             ],
             "search": [
-                "region",
-                "0000001",
                 "label",
-                "0000110",
                 "SO",
-                "0000704",
-                "sequence_feature",
-                "gene",
                 "type"
             ]
         },
@@ -892,36 +454,6 @@
             ],
             "display": [
                 {
-                    "label": "",
-                    "text": "${}",
-                    "type": "text"
-                },
-                {
-                    "label": "ILX.TR",
-                    "text": "${ILX.TR}",
-                    "type": "text"
-                },
-                {
-                    "label": "0100559",
-                    "text": "${0100559}",
-                    "type": "text"
-                },
-                {
-                    "label": "glutamateReceptor",
-                    "text": "${glutamateReceptor}",
-                    "type": "text"
-                },
-                {
-                    "label": "Label",
-                    "text": "${Label}",
-                    "type": "text"
-                },
-                {
-                    "label": "ILX",
-                    "text": "${ILX}",
-                    "type": "text"
-                },
-                {
                     "label": "label",
                     "text": "${label}",
                     "type": "text"
@@ -932,33 +464,21 @@
                     "type": "text"
                 },
                 {
-                    "label": "parcellation label",
-                    "text": "${parcellation label}",
+                    "label": "ILX.TR",
+                    "text": "${ILX.TR}",
                     "type": "text"
                 },
                 {
-                    "label": "AMPA-type glutamate-gated cationic channel",
-                    "text": "${AMPA-type glutamate-gated cationic channel}",
-                    "type": "text"
-                },
-                {
-                    "label": "Glutamate receptor",
-                    "text": "${Glutamate receptor}",
+                    "label": "ILX",
+                    "text": "${ILX}",
                     "type": "text"
                 }
             ],
             "search": [
-                "",
-                "ILX.TR",
-                "0100559",
-                "glutamateReceptor",
-                "Label",
-                "ILX",
                 "label",
                 "type",
-                "parcellation label",
-                "AMPA-type glutamate-gated cationic channel",
-                "Glutamate receptor"
+                "ILX.TR",
+                "ILX"
             ]
         },
         {
@@ -969,43 +489,8 @@
             ],
             "display": [
                 {
-                    "label": "Trp",
-                    "text": "${Trp}",
-                    "type": "text"
-                },
-                {
-                    "label": "Amino Acid",
-                    "text": "${Amino Acid}",
-                    "type": "text"
-                },
-                {
-                    "label": "Ser",
-                    "text": "${Ser}",
-                    "type": "text"
-                },
-                {
-                    "label": "Cys",
-                    "text": "${Cys}",
-                    "type": "text"
-                },
-                {
-                    "label": "AMINO.ACID:Trp CUI",
-                    "text": "${AMINO.ACID:Trp CUI}",
-                    "type": "text"
-                },
-                {
-                    "label": "AMINO.ACID:Cys CUI",
-                    "text": "${AMINO.ACID:Cys CUI}",
-                    "type": "text"
-                },
-                {
                     "label": "label",
                     "text": "${label}",
-                    "type": "text"
-                },
-                {
-                    "label": "type",
-                    "text": "${type}",
                     "type": "text"
                 },
                 {
@@ -1014,22 +499,15 @@
                     "type": "text"
                 },
                 {
-                    "label": "AMINO.ACID:Ser CUI",
-                    "text": "${AMINO.ACID:Ser CUI}",
+                    "label": "type",
+                    "text": "${type}",
                     "type": "text"
                 }
             ],
             "search": [
-                "Trp",
-                "Amino Acid",
-                "Ser",
-                "Cys",
-                "AMINO.ACID:Trp CUI",
-                "AMINO.ACID:Cys CUI",
                 "label",
-                "type",
                 "AMINO.ACID",
-                "AMINO.ACID:Ser CUI"
+                "type"
             ]
         },
         {
@@ -1040,28 +518,13 @@
             ],
             "display": [
                 {
-                    "label": "15355.0",
-                    "text": "${15355.0}",
-                    "type": "text"
-                },
-                {
-                    "label": "PUBCHEM",
-                    "text": "${PUBCHEM}",
-                    "type": "text"
-                },
-                {
-                    "label": "Compound",
-                    "text": "${Compound}",
-                    "type": "text"
-                },
-                {
-                    "label": "acetylcholine",
-                    "text": "${acetylcholine}",
-                    "type": "text"
-                },
-                {
                     "label": "label",
                     "text": "${label}",
+                    "type": "text"
+                },
+                {
+                    "label": "CHEBI",
+                    "text": "${CHEBI}",
                     "type": "text"
                 },
                 {
@@ -1070,43 +533,75 @@
                     "type": "text"
                 },
                 {
-                    "label": "16865.0",
-                    "text": "${16865.0}",
-                    "type": "text"
-                },
-                {
-                    "label": "dopamine",
-                    "text": "${dopamine}",
-                    "type": "text"
-                },
-                {
-                    "label": "18243.0",
-                    "text": "${18243.0}",
-                    "type": "text"
-                },
-                {
-                    "label": "gamma-aminobutyric acid",
-                    "text": "${gamma-aminobutyric acid}",
-                    "type": "text"
-                },
-                {
-                    "label": "CHEBI",
-                    "text": "${CHEBI}",
+                    "label": "PUBCHEM",
+                    "text": "${PUBCHEM}",
                     "type": "text"
                 }
             ],
             "search": [
-                "15355.0",
-                "PUBCHEM",
-                "Compound",
-                "acetylcholine",
                 "label",
+                "CHEBI",
                 "type",
-                "16865.0",
-                "dopamine",
-                "18243.0",
-                "gamma-aminobutyric acid",
-                "CHEBI"
+                "PUBCHEM"
+            ]
+        },
+        {
+            "node": "Enzyme",
+            "example": [
+                "CES1",
+                "MAOB"
+            ],
+            "display": [
+                {
+                    "label": "OMIM",
+                    "text": "${OMIM}",
+                    "type": "text"
+                },
+                {
+                    "label": "ENSEMBL",
+                    "text": "${ENSEMBL}",
+                    "type": "text"
+                },
+                {
+                    "label": "ORDO",
+                    "text": "${ORDO}",
+                    "type": "text"
+                },
+                {
+                    "label": "ENTREZ",
+                    "text": "${ENTREZ}",
+                    "type": "text"
+                },
+                {
+                    "label": "HGNC",
+                    "text": "${HGNC}",
+                    "type": "text"
+                },
+                {
+                    "label": "type",
+                    "text": "${type}",
+                    "type": "text"
+                },
+                {
+                    "label": "label",
+                    "text": "${label}",
+                    "type": "text"
+                },
+                {
+                    "label": "NCI",
+                    "text": "${NCI}",
+                    "type": "text"
+                }
+            ],
+            "search": [
+                "OMIM",
+                "ENSEMBL",
+                "ORDO",
+                "ENTREZ",
+                "HGNC",
+                "type",
+                "label",
+                "NCI"
             ]
         },
         {
@@ -1116,26 +611,6 @@
                 "HSCLO:chr1.93258001-93259000 CUI"
             ],
             "display": [
-                {
-                    "label": "HSCLO:chr1.93258001-93259000 CUI",
-                    "text": "${HSCLO:chr1.93258001-93259000 CUI}",
-                    "type": "text"
-                },
-                {
-                    "label": "chr1.93258001-93259000",
-                    "text": "${chr1.93258001-93259000}",
-                    "type": "text"
-                },
-                {
-                    "label": "chr20.35838001-35839000",
-                    "text": "${chr20.35838001-35839000}",
-                    "type": "text"
-                },
-                {
-                    "label": "chr22.21002001-21003000",
-                    "text": "${chr22.21002001-21003000}",
-                    "type": "text"
-                },
                 {
                     "label": "label",
                     "text": "${label}",
@@ -1150,28 +625,12 @@
                     "label": "HSCLO",
                     "text": "${HSCLO}",
                     "type": "text"
-                },
-                {
-                    "label": "HSCLO:chr20.35838001-35839000 CUI",
-                    "text": "${HSCLO:chr20.35838001-35839000 CUI}",
-                    "type": "text"
-                },
-                {
-                    "label": "HSCLO:chr22.21002001-21003000 CUI",
-                    "text": "${HSCLO:chr22.21002001-21003000 CUI}",
-                    "type": "text"
                 }
             ],
             "search": [
-                "HSCLO:chr1.93258001-93259000 CUI",
-                "chr1.93258001-93259000",
-                "chr20.35838001-35839000",
-                "chr22.21002001-21003000",
                 "label",
                 "type",
-                "HSCLO",
-                "HSCLO:chr20.35838001-35839000 CUI",
-                "HSCLO:chr22.21002001-21003000 CUI"
+                "HSCLO"
             ]
         },
         {
@@ -1182,28 +641,8 @@
             ],
             "display": [
                 {
-                    "label": "",
-                    "text": "${}",
-                    "type": "text"
-                },
-                {
-                    "label": "HMDB",
-                    "text": "${HMDB}",
-                    "type": "text"
-                },
-                {
-                    "label": "Metabolite",
-                    "text": "${Metabolite}",
-                    "type": "text"
-                },
-                {
-                    "label": "Phe-Thr",
-                    "text": "${Phe-Thr}",
-                    "type": "text"
-                },
-                {
-                    "label": "145453498",
-                    "text": "${145453498}",
+                    "label": "PUBMED",
+                    "text": "${PUBMED}",
                     "type": "text"
                 },
                 {
@@ -1212,18 +651,8 @@
                     "type": "text"
                 },
                 {
-                    "label": "trans-Zeatin",
-                    "text": "${trans-Zeatin}",
-                    "type": "text"
-                },
-                {
-                    "label": "label",
-                    "text": "${label}",
-                    "type": "text"
-                },
-                {
-                    "label": "PUBMED",
-                    "text": "${PUBMED}",
+                    "label": "HMDB",
+                    "text": "${HMDB}",
                     "type": "text"
                 },
                 {
@@ -1232,35 +661,17 @@
                     "type": "text"
                 },
                 {
-                    "label": "449093",
-                    "text": "${449093}",
-                    "type": "text"
-                },
-                {
-                    "label": "urea",
-                    "text": "${urea}",
-                    "type": "text"
-                },
-                {
-                    "label": "1176.0",
-                    "text": "${1176.0}",
+                    "label": "label",
+                    "text": "${label}",
                     "type": "text"
                 }
             ],
             "search": [
-                "",
-                "HMDB",
-                "Metabolite",
-                "Phe-Thr",
-                "145453498",
-                "PUBCHEM",
-                "trans-Zeatin",
-                "label",
                 "PUBMED",
+                "PUBCHEM",
+                "HMDB",
                 "type",
-                "449093",
-                "urea",
-                "1176.0"
+                "label"
             ]
         },
         {
@@ -1271,67 +682,25 @@
             ],
             "display": [
                 {
-                    "label": "Glycoprotein Citation",
-                    "text": "${Glycoprotein Citation}",
-                    "type": "text"
-                },
-                {
-                    "label": "GLYGEN.CITATION:12901863 CUI",
-                    "text": "${GLYGEN.CITATION:12901863 CUI}",
-                    "type": "text"
-                },
-                {
-                    "label": "12901863",
-                    "text": "${12901863}",
-                    "type": "text"
-                },
-                {
-                    "label": "25670814",
-                    "text": "${25670814}",
-                    "type": "text"
-                },
-                {
                     "label": "label",
                     "text": "${label}",
-                    "type": "text"
-                },
-                {
-                    "label": "type",
-                    "text": "${type}",
-                    "type": "text"
-                },
-                {
-                    "label": "GLYGEN.CITATION:8435067 CUI",
-                    "text": "${GLYGEN.CITATION:8435067 CUI}",
-                    "type": "text"
-                },
-                {
-                    "label": "GLYGEN.CITATION:25670814 CUI",
-                    "text": "${GLYGEN.CITATION:25670814 CUI}",
-                    "type": "text"
-                },
-                {
-                    "label": "8435067",
-                    "text": "${8435067}",
                     "type": "text"
                 },
                 {
                     "label": "GLYGEN.CITATION",
                     "text": "${GLYGEN.CITATION}",
                     "type": "text"
+                },
+                {
+                    "label": "type",
+                    "text": "${type}",
+                    "type": "text"
                 }
             ],
             "search": [
-                "Glycoprotein Citation",
-                "GLYGEN.CITATION:12901863 CUI",
-                "12901863",
-                "25670814",
                 "label",
-                "type",
-                "GLYGEN.CITATION:8435067 CUI",
-                "GLYGEN.CITATION:25670814 CUI",
-                "8435067",
-                "GLYGEN.CITATION"
+                "GLYGEN.CITATION",
+                "type"
             ]
         },
         {
@@ -1342,61 +711,25 @@
             ],
             "display": [
                 {
-                    "label": "shape",
-                    "text": "${shape}",
-                    "type": "text"
-                },
-                {
-                    "label": "morphology",
-                    "text": "${morphology}",
-                    "type": "text"
-                },
-                {
-                    "label": "0000051",
-                    "text": "${0000051}",
-                    "type": "text"
-                },
-                {
-                    "label": "0000052",
-                    "text": "${0000052}",
-                    "type": "text"
-                },
-                {
                     "label": "label",
                     "text": "${label}",
-                    "type": "text"
-                },
-                {
-                    "label": "biological sex",
-                    "text": "${biological sex}",
-                    "type": "text"
-                },
-                {
-                    "label": "PATO",
-                    "text": "${PATO}",
-                    "type": "text"
-                },
-                {
-                    "label": "0000047",
-                    "text": "${0000047}",
                     "type": "text"
                 },
                 {
                     "label": "type",
                     "text": "${type}",
                     "type": "text"
+                },
+                {
+                    "label": "PATO",
+                    "text": "${PATO}",
+                    "type": "text"
                 }
             ],
             "search": [
-                "shape",
-                "morphology",
-                "0000051",
-                "0000052",
                 "label",
-                "biological sex",
-                "PATO",
-                "0000047",
-                "type"
+                "type",
+                "PATO"
             ]
         },
         {
@@ -1407,33 +740,8 @@
             ],
             "display": [
                 {
-                    "label": "REACTOME_INCRETIN_SYNTHESIS_SECRETION_AND_INACTIVATION",
-                    "text": "${REACTOME_INCRETIN_SYNTHESIS_SECRETION_AND_INACTIVATION}",
-                    "type": "text"
-                },
-                {
                     "label": "label",
                     "text": "${label}",
-                    "type": "text"
-                },
-                {
-                    "label": "MSIGDB",
-                    "text": "${MSIGDB}",
-                    "type": "text"
-                },
-                {
-                    "label": "MAGRANGEAS_MULTIPLE_MYELOMA_IGG_VS_IGA_UP",
-                    "text": "${MAGRANGEAS_MULTIPLE_MYELOMA_IGG_VS_IGA_UP}",
-                    "type": "text"
-                },
-                {
-                    "label": "M928",
-                    "text": "${M928}",
-                    "type": "text"
-                },
-                {
-                    "label": "M31080",
-                    "text": "${M31080}",
                     "type": "text"
                 },
                 {
@@ -1442,26 +750,15 @@
                     "type": "text"
                 },
                 {
-                    "label": "M1419",
-                    "text": "${M1419}",
-                    "type": "text"
-                },
-                {
-                    "label": "MIR5197_3P",
-                    "text": "${MIR5197_3P}",
+                    "label": "MSIGDB",
+                    "text": "${MSIGDB}",
                     "type": "text"
                 }
             ],
             "search": [
-                "REACTOME_INCRETIN_SYNTHESIS_SECRETION_AND_INACTIVATION",
                 "label",
-                "MSIGDB",
-                "MAGRANGEAS_MULTIPLE_MYELOMA_IGG_VS_IGA_UP",
-                "M928",
-                "M31080",
                 "type",
-                "M1419",
-                "MIR5197_3P"
+                "MSIGDB"
             ]
         },
         {
@@ -1472,33 +769,8 @@
             ],
             "display": [
                 {
-                    "label": "EXPBINS:23.0.24.0 CUI",
-                    "text": "${EXPBINS:23.0.24.0 CUI}",
-                    "type": "text"
-                },
-                {
-                    "label": "EXPBINS:0.07.0.08 CUI",
-                    "text": "${EXPBINS:0.07.0.08 CUI}",
-                    "type": "text"
-                },
-                {
                     "label": "label",
                     "text": "${label}",
-                    "type": "text"
-                },
-                {
-                    "label": "EXPBINS",
-                    "text": "${EXPBINS}",
-                    "type": "text"
-                },
-                {
-                    "label": "86.0.87.0",
-                    "text": "${86.0.87.0}",
-                    "type": "text"
-                },
-                {
-                    "label": "23.0.24.0",
-                    "text": "${23.0.24.0}",
                     "type": "text"
                 },
                 {
@@ -1507,26 +779,15 @@
                     "type": "text"
                 },
                 {
-                    "label": "0.07.0.08",
-                    "text": "${0.07.0.08}",
-                    "type": "text"
-                },
-                {
-                    "label": "EXPBINS:86.0.87.0 CUI",
-                    "text": "${EXPBINS:86.0.87.0 CUI}",
+                    "label": "EXPBINS",
+                    "text": "${EXPBINS}",
                     "type": "text"
                 }
             ],
             "search": [
-                "EXPBINS:23.0.24.0 CUI",
-                "EXPBINS:0.07.0.08 CUI",
                 "label",
-                "EXPBINS",
-                "86.0.87.0",
-                "23.0.24.0",
                 "type",
-                "0.07.0.08",
-                "EXPBINS:86.0.87.0 CUI"
+                "EXPBINS"
             ]
         },
         {
@@ -1537,33 +798,8 @@
             ],
             "display": [
                 {
-                    "label": "",
-                    "text": "${}",
-                    "type": "text"
-                },
-                {
-                    "label": "chr9.137280185.137280260.plus.b38.AKAP1",
-                    "text": "${chr9.137280185.137280260.plus.b38.AKAP1}",
-                    "type": "text"
-                },
-                {
-                    "label": "ENCODE.RBS.K562",
-                    "text": "${ENCODE.RBS.K562}",
-                    "type": "text"
-                },
-                {
-                    "label": "chr8.140544292.140544349.minus.b38.SF3B4",
-                    "text": "${chr8.140544292.140544349.minus.b38.SF3B4}",
-                    "type": "text"
-                },
-                {
                     "label": "ENCODE.RBS.HEPG2.K562",
                     "text": "${ENCODE.RBS.HEPG2.K562}",
-                    "type": "text"
-                },
-                {
-                    "label": "label",
-                    "text": "${label}",
                     "type": "text"
                 },
                 {
@@ -1572,8 +808,8 @@
                     "type": "text"
                 },
                 {
-                    "label": "chr5.177594204.177594285.plus.b38.SND1",
-                    "text": "${chr5.177594204.177594285.plus.b38.SND1}",
+                    "label": "label",
+                    "text": "${label}",
                     "type": "text"
                 },
                 {
@@ -1582,22 +818,17 @@
                     "type": "text"
                 },
                 {
-                    "label": "RBP Binding Loci",
-                    "text": "${RBP Binding Loci}",
+                    "label": "ENCODE.RBS.K562",
+                    "text": "${ENCODE.RBS.K562}",
                     "type": "text"
                 }
             ],
             "search": [
-                "",
-                "chr9.137280185.137280260.plus.b38.AKAP1",
-                "ENCODE.RBS.K562",
-                "chr8.140544292.140544349.minus.b38.SF3B4",
                 "ENCODE.RBS.HEPG2.K562",
-                "label",
                 "type",
-                "chr5.177594204.177594285.plus.b38.SND1",
+                "label",
                 "ENCODE.RBS.HEPG2",
-                "RBP Binding Loci"
+                "ENCODE.RBS.K562"
             ]
         },
         {
@@ -1608,58 +839,8 @@
             ],
             "display": [
                 {
-                    "label": "",
-                    "text": "${}",
-                    "type": "text"
-                },
-                {
-                    "label": "Tetrameric Voltage-gated ion channel",
-                    "text": "${Tetrameric Voltage-gated ion channel}",
-                    "type": "text"
-                },
-                {
-                    "label": "2502",
-                    "text": "${2502}",
-                    "type": "text"
-                },
-                {
-                    "label": "NIFSTD.NLX.ORG",
-                    "text": "${NIFSTD.NLX.ORG}",
-                    "type": "text"
-                },
-                {
-                    "label": "NIFSTD.NIFEXT",
-                    "text": "${NIFSTD.NIFEXT}",
-                    "type": "text"
-                },
-                {
-                    "label": "NIFSTD",
-                    "text": "${NIFSTD}",
-                    "type": "text"
-                },
-                {
-                    "label": "Multimeric ion channel",
-                    "text": "${Multimeric ion channel}",
-                    "type": "text"
-                },
-                {
-                    "label": "NIFSTD.NLX",
-                    "text": "${NIFSTD.NLX}",
-                    "type": "text"
-                },
-                {
                     "label": "NIFSTD.NLX.MOL",
                     "text": "${NIFSTD.NLX.MOL}",
-                    "type": "text"
-                },
-                {
-                    "label": "2506",
-                    "text": "${2506}",
-                    "type": "text"
-                },
-                {
-                    "label": "label",
-                    "text": "${label}",
                     "type": "text"
                 },
                 {
@@ -1668,31 +849,39 @@
                     "type": "text"
                 },
                 {
-                    "label": "2507",
-                    "text": "${2507}",
+                    "label": "NIFSTD.NIFEXT",
+                    "text": "${NIFSTD.NIFEXT}",
                     "type": "text"
                 },
                 {
-                    "label": "Multimeric Voltage-gated ion channel",
-                    "text": "${Multimeric Voltage-gated ion channel}",
+                    "label": "label",
+                    "text": "${label}",
+                    "type": "text"
+                },
+                {
+                    "label": "NIFSTD.NLX.ORG",
+                    "text": "${NIFSTD.NLX.ORG}",
+                    "type": "text"
+                },
+                {
+                    "label": "NIFSTD",
+                    "text": "${NIFSTD}",
+                    "type": "text"
+                },
+                {
+                    "label": "NIFSTD.NLX",
+                    "text": "${NIFSTD.NLX}",
                     "type": "text"
                 }
             ],
             "search": [
-                "",
-                "Tetrameric Voltage-gated ion channel",
-                "2502",
-                "NIFSTD.NLX.ORG",
-                "NIFSTD.NIFEXT",
-                "NIFSTD",
-                "Multimeric ion channel",
-                "NIFSTD.NLX",
                 "NIFSTD.NLX.MOL",
-                "2506",
-                "label",
                 "type",
-                "2507",
-                "Multimeric Voltage-gated ion channel"
+                "NIFSTD.NIFEXT",
+                "label",
+                "NIFSTD.NLX.ORG",
+                "NIFSTD",
+                "NIFSTD.NLX"
             ]
         },
         {
@@ -1703,21 +892,6 @@
             ],
             "display": [
                 {
-                    "label": "PVALUEBINS:1e-10.1e-09 CUI",
-                    "text": "${PVALUEBINS:1e-10.1e-09 CUI}",
-                    "type": "text"
-                },
-                {
-                    "label": "PVALUEBINS:0.1e-12 CUI",
-                    "text": "${PVALUEBINS:0.1e-12 CUI}",
-                    "type": "text"
-                },
-                {
-                    "label": "PVALUEBINS:0.02.0.03 CUI",
-                    "text": "${PVALUEBINS:0.02.0.03 CUI}",
-                    "type": "text"
-                },
-                {
                     "label": "label",
                     "text": "${label}",
                     "type": "text"
@@ -1728,42 +902,15 @@
                     "type": "text"
                 },
                 {
-                    "label": "0.1e-12",
-                    "text": "${0.1e-12}",
-                    "type": "text"
-                },
-                {
-                    "label": "GTEXPVALUEBIN",
-                    "text": "${GTEXPVALUEBIN}",
-                    "type": "text"
-                },
-                {
-                    "label": "1e-10.1e-09",
-                    "text": "${1e-10.1e-09}",
-                    "type": "text"
-                },
-                {
                     "label": "PVALUEBINS",
                     "text": "${PVALUEBINS}",
-                    "type": "text"
-                },
-                {
-                    "label": "0.02.0.03",
-                    "text": "${0.02.0.03}",
                     "type": "text"
                 }
             ],
             "search": [
-                "PVALUEBINS:1e-10.1e-09 CUI",
-                "PVALUEBINS:0.1e-12 CUI",
-                "PVALUEBINS:0.02.0.03 CUI",
                 "label",
                 "type",
-                "0.1e-12",
-                "GTEXPVALUEBIN",
-                "1e-10.1e-09",
-                "PVALUEBINS",
-                "0.02.0.03"
+                "PVALUEBINS"
             ]
         },
         {
@@ -1774,48 +921,13 @@
             ],
             "display": [
                 {
-                    "label": "RES00000069",
-                    "text": "${RES00000069}",
-                    "type": "text"
-                },
-                {
-                    "label": "n-glycan_a-d-neupngc_48",
-                    "text": "${n-glycan_a-d-neupngc_48}",
-                    "type": "text"
-                },
-                {
-                    "label": "RES00000072",
-                    "text": "${RES00000072}",
-                    "type": "text"
-                },
-                {
                     "label": "label",
                     "text": "${label}",
                     "type": "text"
                 },
                 {
-                    "label": "GlyGen Residue",
-                    "text": "${GlyGen Residue}",
-                    "type": "text"
-                },
-                {
                     "label": "type",
                     "text": "${type}",
-                    "type": "text"
-                },
-                {
-                    "label": "RES00000065",
-                    "text": "${RES00000065}",
-                    "type": "text"
-                },
-                {
-                    "label": "n-glycan_a-d-neupngc_49",
-                    "text": "${n-glycan_a-d-neupngc_49}",
-                    "type": "text"
-                },
-                {
-                    "label": "n-glycan_b-d-galp_28",
-                    "text": "${n-glycan_b-d-galp_28}",
                     "type": "text"
                 },
                 {
@@ -1825,15 +937,8 @@
                 }
             ],
             "search": [
-                "RES00000069",
-                "n-glycan_a-d-neupngc_48",
-                "RES00000072",
                 "label",
-                "GlyGen Residue",
                 "type",
-                "RES00000065",
-                "n-glycan_a-d-neupngc_49",
-                "n-glycan_b-d-galp_28",
                 "GLYGEN.RESIDUE"
             ]
         },
@@ -1845,98 +950,8 @@
             ],
             "display": [
                 {
-                    "label": "",
-                    "text": "${}",
-                    "type": "text"
-                },
-                {
-                    "label": "ORDO",
-                    "text": "${ORDO}",
-                    "type": "text"
-                },
-                {
-                    "label": "SNOMEDCT_US",
-                    "text": "${SNOMEDCT_US}",
-                    "type": "text"
-                },
-                {
-                    "label": "MSH",
-                    "text": "${MSH}",
-                    "type": "text"
-                },
-                {
-                    "label": "Enlarged kidney",
-                    "text": "${Enlarged kidney}",
-                    "type": "text"
-                },
-                {
-                    "label": "C3277700",
-                    "text": "${C3277700}",
-                    "type": "text"
-                },
-                {
-                    "label": "Cerebral Small Vessel Diseases",
-                    "text": "${Cerebral Small Vessel Diseases}",
-                    "type": "text"
-                },
-                {
-                    "label": "ICPC2ICD10ENG",
-                    "text": "${ICPC2ICD10ENG}",
-                    "type": "text"
-                },
-                {
-                    "label": "NCI",
-                    "text": "${NCI}",
-                    "type": "text"
-                },
-                {
-                    "label": "LNC",
-                    "text": "${LNC}",
-                    "type": "text"
-                },
-                {
-                    "label": "label",
-                    "text": "${label}",
-                    "type": "text"
-                },
-                {
-                    "label": "EFO",
-                    "text": "${EFO}",
-                    "type": "text"
-                },
-                {
-                    "label": "ICD10CM",
-                    "text": "${ICD10CM}",
-                    "type": "text"
-                },
-                {
-                    "label": "CHV",
-                    "text": "${CHV}",
-                    "type": "text"
-                },
-                {
-                    "label": "MEDGEN:C3277700 CUI",
-                    "text": "${MEDGEN:C3277700 CUI}",
-                    "type": "text"
-                },
-                {
-                    "label": "DOID",
-                    "text": "${DOID}",
-                    "type": "text"
-                },
-                {
                     "label": "OMIM",
                     "text": "${OMIM}",
-                    "type": "text"
-                },
-                {
-                    "label": "Disease or Phenotype",
-                    "text": "${Disease or Phenotype}",
-                    "type": "text"
-                },
-                {
-                    "label": "MDR",
-                    "text": "${MDR}",
                     "type": "text"
                 },
                 {
@@ -1945,13 +960,23 @@
                     "type": "text"
                 },
                 {
-                    "label": "type",
-                    "text": "${type}",
+                    "label": "SNOMEDCT_US",
+                    "text": "${SNOMEDCT_US}",
                     "type": "text"
                 },
                 {
-                    "label": "MEDCIN",
-                    "text": "${MEDCIN}",
+                    "label": "EFO",
+                    "text": "${EFO}",
+                    "type": "text"
+                },
+                {
+                    "label": "MSH",
+                    "text": "${MSH}",
+                    "type": "text"
+                },
+                {
+                    "label": "LNC",
+                    "text": "${LNC}",
                     "type": "text"
                 },
                 {
@@ -1960,8 +985,33 @@
                     "type": "text"
                 },
                 {
-                    "label": "MTHU006854",
-                    "text": "${MTHU006854}",
+                    "label": "type",
+                    "text": "${type}",
+                    "type": "text"
+                },
+                {
+                    "label": "ICD10CM",
+                    "text": "${ICD10CM}",
+                    "type": "text"
+                },
+                {
+                    "label": "NCI",
+                    "text": "${NCI}",
+                    "type": "text"
+                },
+                {
+                    "label": "ORDO",
+                    "text": "${ORDO}",
+                    "type": "text"
+                },
+                {
+                    "label": "ICPC2ICD10ENG",
+                    "text": "${ICPC2ICD10ENG}",
+                    "type": "text"
+                },
+                {
+                    "label": "MEDCIN",
+                    "text": "${MEDCIN}",
                     "type": "text"
                 },
                 {
@@ -1970,38 +1020,45 @@
                     "type": "text"
                 },
                 {
-                    "label": "MTHU069686",
-                    "text": "${MTHU069686}",
+                    "label": "MDR",
+                    "text": "${MDR}",
+                    "type": "text"
+                },
+                {
+                    "label": "label",
+                    "text": "${label}",
+                    "type": "text"
+                },
+                {
+                    "label": "DOID",
+                    "text": "${DOID}",
+                    "type": "text"
+                },
+                {
+                    "label": "CHV",
+                    "text": "${CHV}",
                     "type": "text"
                 }
             ],
             "search": [
-                "",
-                "ORDO",
-                "SNOMEDCT_US",
-                "MSH",
-                "Enlarged kidney",
-                "C3277700",
-                "Cerebral Small Vessel Diseases",
-                "ICPC2ICD10ENG",
-                "NCI",
-                "LNC",
-                "label",
-                "EFO",
-                "ICD10CM",
-                "CHV",
-                "MEDGEN:C3277700 CUI",
-                "DOID",
                 "OMIM",
-                "Disease or Phenotype",
-                "MDR",
                 "MEDGEN",
-                "type",
-                "MEDCIN",
+                "SNOMEDCT_US",
+                "EFO",
+                "MSH",
+                "LNC",
                 "HP",
-                "MTHU006854",
+                "type",
+                "ICD10CM",
+                "NCI",
+                "ORDO",
+                "ICPC2ICD10ENG",
+                "MEDCIN",
                 "MONDO",
-                "MTHU069686"
+                "MDR",
+                "label",
+                "DOID",
+                "CHV"
             ]
         },
         {
@@ -2012,23 +1069,8 @@
             ],
             "display": [
                 {
-                    "label": "chr19.40687443.40687496.minus.b38.TARDBP",
-                    "text": "${chr19.40687443.40687496.minus.b38.TARDBP}",
-                    "type": "text"
-                },
-                {
                     "label": "label",
                     "text": "${label}",
-                    "type": "text"
-                },
-                {
-                    "label": "type",
-                    "text": "${type}",
-                    "type": "text"
-                },
-                {
-                    "label": "chrX.111700360.111700399.plus.b38.EXOSC5",
-                    "text": "${chrX.111700360.111700399.plus.b38.EXOSC5}",
                     "type": "text"
                 },
                 {
@@ -2037,24 +1079,15 @@
                     "type": "text"
                 },
                 {
-                    "label": "chr9.34107465.34107515.minus.b38.YBX3",
-                    "text": "${chr9.34107465.34107515.minus.b38.YBX3}",
-                    "type": "text"
-                },
-                {
-                    "label": "exRNA Loci",
-                    "text": "${exRNA Loci}",
+                    "label": "type",
+                    "text": "${type}",
                     "type": "text"
                 }
             ],
             "search": [
-                "chr19.40687443.40687496.minus.b38.TARDBP",
                 "label",
-                "type",
-                "chrX.111700360.111700399.plus.b38.EXOSC5",
                 "ENCODE.RBS.150.NO.OVERLAP",
-                "chr9.34107465.34107515.minus.b38.YBX3",
-                "exRNA Loci"
+                "type"
             ]
         },
         {
@@ -2065,26 +1098,6 @@
             ],
             "display": [
                 {
-                    "label": "1e-9.1e-8",
-                    "text": "${1e-9.1e-8}",
-                    "type": "text"
-                },
-                {
-                    "label": "4DNQ:1e-124.1e-123 CUI",
-                    "text": "${4DNQ:1e-124.1e-123 CUI}",
-                    "type": "text"
-                },
-                {
-                    "label": "1e-29.1e-28",
-                    "text": "${1e-29.1e-28}",
-                    "type": "text"
-                },
-                {
-                    "label": "4DNQ",
-                    "text": "${4DNQ}",
-                    "type": "text"
-                },
-                {
                     "label": "label",
                     "text": "${label}",
                     "type": "text"
@@ -2095,37 +1108,15 @@
                     "type": "text"
                 },
                 {
-                    "label": "1e-124.1e-123",
-                    "text": "${1e-124.1e-123}",
-                    "type": "text"
-                },
-                {
-                    "label": "4DNQ:1e-29.1e-28 CUI",
-                    "text": "${4DNQ:1e-29.1e-28 CUI}",
-                    "type": "text"
-                },
-                {
-                    "label": "4DN QVal Bin",
-                    "text": "${4DN QVal Bin}",
-                    "type": "text"
-                },
-                {
-                    "label": "4DNQ:1e-9.1e-8 CUI",
-                    "text": "${4DNQ:1e-9.1e-8 CUI}",
+                    "label": "4DNQ",
+                    "text": "${4DNQ}",
                     "type": "text"
                 }
             ],
             "search": [
-                "1e-9.1e-8",
-                "4DNQ:1e-124.1e-123 CUI",
-                "1e-29.1e-28",
-                "4DNQ",
                 "label",
                 "type",
-                "1e-124.1e-123",
-                "4DNQ:1e-29.1e-28 CUI",
-                "4DN QVal Bin",
-                "4DNQ:1e-9.1e-8 CUI"
+                "4DNQ"
             ]
         },
         {
@@ -2136,13 +1127,8 @@
             ],
             "display": [
                 {
-                    "label": "1969",
-                    "text": "${1969}",
-                    "type": "text"
-                },
-                {
-                    "label": "50863008",
-                    "text": "${50863008}",
+                    "label": "SNOMEDCT_US",
+                    "text": "${SNOMEDCT_US}",
                     "type": "text"
                 },
                 {
@@ -2151,123 +1137,8 @@
                     "type": "text"
                 },
                 {
-                    "label": "Biofluid",
-                    "text": "${Biofluid}",
-                    "type": "text"
-                },
-                {
-                    "label": "D012463",
-                    "text": "${D012463}",
-                    "type": "text"
-                },
-                {
-                    "label": "D002555",
-                    "text": "${D002555}",
-                    "type": "text"
-                },
-                {
-                    "label": "MTHU001311",
-                    "text": "${MTHU001311}",
-                    "type": "text"
-                },
-                {
-                    "label": "label",
-                    "text": "${label}",
-                    "type": "text"
-                },
-                {
-                    "label": "45200",
-                    "text": "${45200}",
-                    "type": "text"
-                },
-                {
-                    "label": "6310",
-                    "text": "${6310}",
-                    "type": "text"
-                },
-                {
-                    "label": "PSY",
-                    "text": "${PSY}",
-                    "type": "text"
-                },
-                {
-                    "label": "256897009",
-                    "text": "${256897009}",
-                    "type": "text"
-                },
-                {
-                    "label": "LP7479-1",
-                    "text": "${LP7479-1}",
-                    "type": "text"
-                },
-                {
-                    "label": "20935.0",
-                    "text": "${20935.0}",
-                    "type": "text"
-                },
-                {
-                    "label": "11004",
-                    "text": "${11004}",
-                    "type": "text"
-                },
-                {
-                    "label": "saliva",
-                    "text": "${saliva}",
-                    "type": "text"
-                },
-                {
-                    "label": "62970.0",
-                    "text": "${62970.0}",
-                    "type": "text"
-                },
-                {
-                    "label": "2675",
-                    "text": "${2675}",
-                    "type": "text"
-                },
-                {
-                    "label": "sh85116804",
-                    "text": "${sh85116804}",
-                    "type": "text"
-                },
-                {
-                    "label": "1836",
-                    "text": "${1836}",
-                    "type": "text"
-                },
-                {
-                    "label": "2139-1695",
-                    "text": "${2139-1695}",
-                    "type": "text"
-                },
-                {
-                    "label": "1359",
-                    "text": "${1359}",
-                    "type": "text"
-                },
-                {
-                    "label": "SNOMEDCT_US",
-                    "text": "${SNOMEDCT_US}",
-                    "type": "text"
-                },
-                {
                     "label": "FMA",
                     "text": "${FMA}",
-                    "type": "text"
-                },
-                {
-                    "label": "LCH_NW",
-                    "text": "${LCH_NW}",
-                    "type": "text"
-                },
-                {
-                    "label": "UBERON",
-                    "text": "${UBERON}",
-                    "type": "text"
-                },
-                {
-                    "label": "NCI",
-                    "text": "${NCI}",
                     "type": "text"
                 },
                 {
@@ -2276,83 +1147,8 @@
                     "type": "text"
                 },
                 {
-                    "label": "C13356",
-                    "text": "${C13356}",
-                    "type": "text"
-                },
-                {
-                    "label": "59862",
-                    "text": "${59862}",
-                    "type": "text"
-                },
-                {
-                    "label": "Plasma",
-                    "text": "${Plasma}",
-                    "type": "text"
-                },
-                {
-                    "label": "2049-9575",
-                    "text": "${2049-9575}",
-                    "type": "text"
-                },
-                {
-                    "label": "UWDA",
-                    "text": "${UWDA}",
-                    "type": "text"
-                },
-                {
-                    "label": "D010949",
-                    "text": "${D010949}",
-                    "type": "text"
-                },
-                {
-                    "label": "20935",
-                    "text": "${20935}",
-                    "type": "text"
-                },
-                {
-                    "label": "sh85015001",
-                    "text": "${sh85015001}",
-                    "type": "text"
-                },
-                {
-                    "label": "0432-0551",
-                    "text": "${0432-0551}",
-                    "type": "text"
-                },
-                {
-                    "label": "CHV",
-                    "text": "${CHV}",
-                    "type": "text"
-                },
-                {
-                    "label": "C13275",
-                    "text": "${C13275}",
-                    "type": "text"
-                },
-                {
-                    "label": "CSP",
-                    "text": "${CSP}",
-                    "type": "text"
-                },
-                {
-                    "label": "sh85022119",
-                    "text": "${sh85022119}",
-                    "type": "text"
-                },
-                {
-                    "label": "Cerebrospinal Fluid",
-                    "text": "${Cerebrospinal Fluid}",
-                    "type": "text"
-                },
-                {
-                    "label": "65216001",
-                    "text": "${65216001}",
-                    "type": "text"
-                },
-                {
-                    "label": "62970",
-                    "text": "${62970}",
+                    "label": "UBERON",
+                    "text": "${UBERON}",
                     "type": "text"
                 },
                 {
@@ -2361,82 +1157,55 @@
                     "type": "text"
                 },
                 {
-                    "label": "9806",
-                    "text": "${9806}",
+                    "label": "PSY",
+                    "text": "${PSY}",
                     "type": "text"
                 },
                 {
-                    "label": "8320",
-                    "text": "${8320}",
+                    "label": "label",
+                    "text": "${label}",
                     "type": "text"
                 },
                 {
-                    "label": "LP7565-7",
-                    "text": "${LP7565-7}",
+                    "label": "LCH_NW",
+                    "text": "${LCH_NW}",
                     "type": "text"
                 },
                 {
-                    "label": "C12692",
-                    "text": "${C12692}",
+                    "label": "CSP",
+                    "text": "${CSP}",
                     "type": "text"
                 },
                 {
-                    "label": "59862.0",
-                    "text": "${59862.0}",
+                    "label": "NCI",
+                    "text": "${NCI}",
+                    "type": "text"
+                },
+                {
+                    "label": "UWDA",
+                    "text": "${UWDA}",
+                    "type": "text"
+                },
+                {
+                    "label": "CHV",
+                    "text": "${CHV}",
                     "type": "text"
                 }
             ],
             "search": [
-                "1969",
-                "50863008",
-                "MSH",
-                "Biofluid",
-                "D012463",
-                "D002555",
-                "MTHU001311",
-                "label",
-                "45200",
-                "6310",
-                "PSY",
-                "256897009",
-                "LP7479-1",
-                "20935.0",
-                "11004",
-                "saliva",
-                "62970.0",
-                "2675",
-                "sh85116804",
-                "1836",
-                "2139-1695",
-                "1359",
                 "SNOMEDCT_US",
+                "MSH",
                 "FMA",
-                "LCH_NW",
-                "UBERON",
-                "NCI",
                 "LNC",
-                "C13356",
-                "59862",
-                "Plasma",
-                "2049-9575",
-                "UWDA",
-                "D010949",
-                "20935",
-                "sh85015001",
-                "0432-0551",
-                "CHV",
-                "C13275",
-                "CSP",
-                "sh85022119",
-                "Cerebrospinal Fluid",
-                "65216001",
-                "62970",
+                "UBERON",
                 "type",
-                "9806",
-                "8320",
-                "LP7565-7",
-                "C12692",
-                "59862.0"
+                "PSY",
+                "label",
+                "LCH_NW",
+                "CSP",
+                "NCI",
+                "UWDA",
+                "CHV"
             ]
         },
         {
@@ -2447,61 +1216,25 @@
             ],
             "display": [
                 {
-                    "label": "intracellular organelle",
-                    "text": "${intracellular organelle}",
-                    "type": "text"
-                },
-                {
-                    "label": "cellular_component",
-                    "text": "${cellular_component}",
-                    "type": "text"
-                },
-                {
-                    "label": "43228",
-                    "text": "${43228}",
-                    "type": "text"
-                },
-                {
-                    "label": "non-membrane-bounded organelle",
-                    "text": "${non-membrane-bounded organelle}",
-                    "type": "text"
-                },
-                {
                     "label": "label",
                     "text": "${label}",
-                    "type": "text"
-                },
-                {
-                    "label": "43229",
-                    "text": "${43229}",
-                    "type": "text"
-                },
-                {
-                    "label": "GO",
-                    "text": "${GO}",
-                    "type": "text"
-                },
-                {
-                    "label": "5575",
-                    "text": "${5575}",
                     "type": "text"
                 },
                 {
                     "label": "type",
                     "text": "${type}",
                     "type": "text"
+                },
+                {
+                    "label": "GO",
+                    "text": "${GO}",
+                    "type": "text"
                 }
             ],
             "search": [
-                "intracellular organelle",
-                "cellular_component",
-                "43228",
-                "non-membrane-bounded organelle",
                 "label",
-                "43229",
-                "GO",
-                "5575",
-                "type"
+                "type",
+                "GO"
             ]
         },
         {
@@ -2512,26 +1245,6 @@
             ],
             "display": [
                 {
-                    "label": "Glycan Motif",
-                    "text": "${Glycan Motif}",
-                    "type": "text"
-                },
-                {
-                    "label": "Pk antigen",
-                    "text": "${Pk antigen}",
-                    "type": "text"
-                },
-                {
-                    "label": "GGM.000099",
-                    "text": "${GGM.000099}",
-                    "type": "text"
-                },
-                {
-                    "label": "GGM.000068",
-                    "text": "${GGM.000068}",
-                    "type": "text"
-                },
-                {
                     "label": "label",
                     "text": "${label}",
                     "type": "text"
@@ -2542,36 +1255,14 @@
                     "type": "text"
                 },
                 {
-                    "label": "Asialo-GM1",
-                    "text": "${Asialo-GM1}",
-                    "type": "text"
-                },
-                {
-                    "label": "GGM.000007",
-                    "text": "${GGM.000007}",
-                    "type": "text"
-                },
-                {
-                    "label": "Type 1 LN3",
-                    "text": "${Type 1 LN3}",
-                    "type": "text"
-                },
-                {
                     "label": "GLYCAN.MOTIF",
                     "text": "${GLYCAN.MOTIF}",
                     "type": "text"
                 }
             ],
             "search": [
-                "Glycan Motif",
-                "Pk antigen",
-                "GGM.000099",
-                "GGM.000068",
                 "label",
                 "type",
-                "Asialo-GM1",
-                "GGM.000007",
-                "Type 1 LN3",
                 "GLYCAN.MOTIF"
             ]
         },
@@ -2583,33 +1274,8 @@
             ],
             "display": [
                 {
-                    "label": "",
-                    "text": "${}",
-                    "type": "text"
-                },
-                {
-                    "label": "Micro-C XL",
-                    "text": "${Micro-C XL}",
-                    "type": "text"
-                },
-                {
-                    "label": "Assay",
-                    "text": "${Assay}",
-                    "type": "text"
-                },
-                {
-                    "label": "micro-C assay",
-                    "text": "${micro-C assay}",
-                    "type": "text"
-                },
-                {
                     "label": "label",
                     "text": "${label}",
-                    "type": "text"
-                },
-                {
-                    "label": "EFO",
-                    "text": "${EFO}",
                     "type": "text"
                 },
                 {
@@ -2618,44 +1284,21 @@
                     "type": "text"
                 },
                 {
+                    "label": "EFO",
+                    "text": "${EFO}",
+                    "type": "text"
+                },
+                {
                     "label": "OBI",
                     "text": "${OBI}",
-                    "type": "text"
-                },
-                {
-                    "label": "0008808",
-                    "text": "${0008808}",
-                    "type": "text"
-                },
-                {
-                    "label": "in situ HiC",
-                    "text": "${in situ HiC}",
-                    "type": "text"
-                },
-                {
-                    "label": "0009974",
-                    "text": "${0009974}",
-                    "type": "text"
-                },
-                {
-                    "label": "0003302",
-                    "text": "${0003302}",
                     "type": "text"
                 }
             ],
             "search": [
-                "",
-                "Micro-C XL",
-                "Assay",
-                "micro-C assay",
                 "label",
-                "EFO",
                 "type",
-                "OBI",
-                "0008808",
-                "in situ HiC",
-                "0009974",
-                "0003302"
+                "EFO",
+                "OBI"
             ]
         },
         {
@@ -2666,36 +1309,6 @@
             ],
             "display": [
                 {
-                    "label": "EH38E3872573_testis",
-                    "text": "${EH38E3872573_testis}",
-                    "type": "text"
-                },
-                {
-                    "label": "ENCODE.CCRE.ACTIVITY",
-                    "text": "${ENCODE.CCRE.ACTIVITY}",
-                    "type": "text"
-                },
-                {
-                    "label": "EH38E1502199_prostate_gland",
-                    "text": "${EH38E1502199_prostate_gland}",
-                    "type": "text"
-                },
-                {
-                    "label": "EH38E2935521.UBERON0006566",
-                    "text": "${EH38E2935521.UBERON0006566}",
-                    "type": "text"
-                },
-                {
-                    "label": "Regulatory Element Activity",
-                    "text": "${Regulatory Element Activity}",
-                    "type": "text"
-                },
-                {
-                    "label": "EH38E2935521_left_ventricle_myocardium",
-                    "text": "${EH38E2935521_left_ventricle_myocardium}",
-                    "type": "text"
-                },
-                {
                     "label": "label",
                     "text": "${label}",
                     "type": "text"
@@ -2706,27 +1319,15 @@
                     "type": "text"
                 },
                 {
-                    "label": "EH38E1502199.UBERON0002367",
-                    "text": "${EH38E1502199.UBERON0002367}",
-                    "type": "text"
-                },
-                {
-                    "label": "EH38E3872573.UBERON0000473",
-                    "text": "${EH38E3872573.UBERON0000473}",
+                    "label": "ENCODE.CCRE.ACTIVITY",
+                    "text": "${ENCODE.CCRE.ACTIVITY}",
                     "type": "text"
                 }
             ],
             "search": [
-                "EH38E3872573_testis",
-                "ENCODE.CCRE.ACTIVITY",
-                "EH38E1502199_prostate_gland",
-                "EH38E2935521.UBERON0006566",
-                "Regulatory Element Activity",
-                "EH38E2935521_left_ventricle_myocardium",
                 "label",
                 "type",
-                "EH38E1502199.UBERON0002367",
-                "EH38E3872573.UBERON0000473"
+                "ENCODE.CCRE.ACTIVITY"
             ]
         },
         {
@@ -2737,8 +1338,8 @@
             ],
             "display": [
                 {
-                    "label": "GLYCOPROTEIN.EVIDENCE:GLYCOPROTEIN.EVIDENCE00001991 CUI",
-                    "text": "${GLYCOPROTEIN.EVIDENCE:GLYCOPROTEIN.EVIDENCE00001991 CUI}",
+                    "label": "label",
+                    "text": "${label}",
                     "type": "text"
                 },
                 {
@@ -2747,57 +1348,15 @@
                     "type": "text"
                 },
                 {
-                    "label": "GLYCOPROTEIN.EVIDENCE00000307",
-                    "text": "${GLYCOPROTEIN.EVIDENCE00000307}",
-                    "type": "text"
-                },
-                {
-                    "label": "label",
-                    "text": "${label}",
-                    "type": "text"
-                },
-                {
                     "label": "type",
                     "text": "${type}",
-                    "type": "text"
-                },
-                {
-                    "label": "GLYCOPROTEIN.EVIDENCE:GLYCOPROTEIN.EVIDENCE00000307 CUI",
-                    "text": "${GLYCOPROTEIN.EVIDENCE:GLYCOPROTEIN.EVIDENCE00000307 CUI}",
-                    "type": "text"
-                },
-                {
-                    "label": "Glycoprotein Evidence",
-                    "text": "${Glycoprotein Evidence}",
-                    "type": "text"
-                },
-                {
-                    "label": "GLYCOPROTEIN.EVIDENCE:GLYCOPROTEIN.EVIDENCE00000931 CUI",
-                    "text": "${GLYCOPROTEIN.EVIDENCE:GLYCOPROTEIN.EVIDENCE00000931 CUI}",
-                    "type": "text"
-                },
-                {
-                    "label": "GLYCOPROTEIN.EVIDENCE00001991",
-                    "text": "${GLYCOPROTEIN.EVIDENCE00001991}",
-                    "type": "text"
-                },
-                {
-                    "label": "GLYCOPROTEIN.EVIDENCE00000931",
-                    "text": "${GLYCOPROTEIN.EVIDENCE00000931}",
                     "type": "text"
                 }
             ],
             "search": [
-                "GLYCOPROTEIN.EVIDENCE:GLYCOPROTEIN.EVIDENCE00001991 CUI",
-                "GLYCOPROTEIN.EVIDENCE",
-                "GLYCOPROTEIN.EVIDENCE00000307",
                 "label",
-                "type",
-                "GLYCOPROTEIN.EVIDENCE:GLYCOPROTEIN.EVIDENCE00000307 CUI",
-                "Glycoprotein Evidence",
-                "GLYCOPROTEIN.EVIDENCE:GLYCOPROTEIN.EVIDENCE00000931 CUI",
-                "GLYCOPROTEIN.EVIDENCE00001991",
-                "GLYCOPROTEIN.EVIDENCE00000931"
+                "GLYCOPROTEIN.EVIDENCE",
+                "type"
             ]
         },
         {
@@ -2808,48 +1367,8 @@
             ],
             "display": [
                 {
-                    "label": "",
-                    "text": "${}",
-                    "type": "text"
-                },
-                {
-                    "label": "Taxon",
-                    "text": "${Taxon}",
-                    "type": "text"
-                },
-                {
-                    "label": "Caviidae",
-                    "text": "${Caviidae}",
-                    "type": "text"
-                },
-                {
-                    "label": "388414005.0",
-                    "text": "${388414005.0}",
-                    "type": "text"
-                },
-                {
-                    "label": "10139.0",
-                    "text": "${10139.0}",
-                    "type": "text"
-                },
-                {
-                    "label": "label",
-                    "text": "${label}",
-                    "type": "text"
-                },
-                {
-                    "label": "NCBI",
-                    "text": "${NCBI}",
-                    "type": "text"
-                },
-                {
-                    "label": "type",
-                    "text": "${type}",
-                    "type": "text"
-                },
-                {
-                    "label": "Artiodactyla",
-                    "text": "${Artiodactyla}",
+                    "label": "SNOMEDCT_US",
+                    "text": "${SNOMEDCT_US}",
                     "type": "text"
                 },
                 {
@@ -2858,53 +1377,27 @@
                     "type": "text"
                 },
                 {
-                    "label": "SNOMEDCT_US",
-                    "text": "${SNOMEDCT_US}",
+                    "label": "type",
+                    "text": "${type}",
                     "type": "text"
                 },
                 {
-                    "label": "91561.0",
-                    "text": "${91561.0}",
+                    "label": "NCBI",
+                    "text": "${NCBI}",
                     "type": "text"
                 },
                 {
-                    "label": "Felis catus",
-                    "text": "${Felis catus}",
-                    "type": "text"
-                },
-                {
-                    "label": "125077005.0",
-                    "text": "${125077005.0}",
-                    "type": "text"
-                },
-                {
-                    "label": "448169003.0",
-                    "text": "${448169003.0}",
-                    "type": "text"
-                },
-                {
-                    "label": "9685.0",
-                    "text": "${9685.0}",
+                    "label": "label",
+                    "text": "${label}",
                     "type": "text"
                 }
             ],
             "search": [
-                "",
-                "Taxon",
-                "Caviidae",
-                "388414005.0",
-                "10139.0",
-                "label",
-                "NCBI",
-                "type",
-                "Artiodactyla",
-                "OBI",
                 "SNOMEDCT_US",
-                "91561.0",
-                "Felis catus",
-                "125077005.0",
-                "448169003.0",
-                "9685.0"
+                "OBI",
+                "type",
+                "NCBI",
+                "label"
             ]
         },
         {
@@ -2915,18 +1408,8 @@
             ],
             "display": [
                 {
-                    "label": "",
-                    "text": "${}",
-                    "type": "text"
-                },
-                {
                     "label": "ENCODE.CCRE.H3K27AC",
                     "text": "${ENCODE.CCRE.H3K27AC}",
-                    "type": "text"
-                },
-                {
-                    "label": "HIGH.ZSCORE",
-                    "text": "${HIGH.ZSCORE}",
                     "type": "text"
                 },
                 {
@@ -2935,8 +1418,8 @@
                     "type": "text"
                 },
                 {
-                    "label": "ENCODE.CCRE.CTCF:LOW.ZSCORE CUI",
-                    "text": "${ENCODE.CCRE.CTCF:LOW.ZSCORE CUI}",
+                    "label": "type",
+                    "text": "${type}",
                     "type": "text"
                 },
                 {
@@ -2945,49 +1428,17 @@
                     "type": "text"
                 },
                 {
-                    "label": "type",
-                    "text": "${type}",
-                    "type": "text"
-                },
-                {
-                    "label": "LOW.ZSCORE",
-                    "text": "${LOW.ZSCORE}",
-                    "type": "text"
-                },
-                {
                     "label": "ENCODE.CCRE.H3K4ME3",
                     "text": "${ENCODE.CCRE.H3K4ME3}",
-                    "type": "text"
-                },
-                {
-                    "label": "ENCODE CCRE Data Matrix",
-                    "text": "${ENCODE CCRE Data Matrix}",
-                    "type": "text"
-                },
-                {
-                    "label": "ENCODE.CCRE.H3K27AC:HIGH.ZSCORE CUI",
-                    "text": "${ENCODE.CCRE.H3K27AC:HIGH.ZSCORE CUI}",
-                    "type": "text"
-                },
-                {
-                    "label": "ENCODE.CCRE.H3K4ME3:HIGH.ZSCORE CUI",
-                    "text": "${ENCODE.CCRE.H3K4ME3:HIGH.ZSCORE CUI}",
                     "type": "text"
                 }
             ],
             "search": [
-                "",
                 "ENCODE.CCRE.H3K27AC",
-                "HIGH.ZSCORE",
                 "ENCODE.CCRE.CTCF",
-                "ENCODE.CCRE.CTCF:LOW.ZSCORE CUI",
-                "label",
                 "type",
-                "LOW.ZSCORE",
-                "ENCODE.CCRE.H3K4ME3",
-                "ENCODE CCRE Data Matrix",
-                "ENCODE.CCRE.H3K27AC:HIGH.ZSCORE CUI",
-                "ENCODE.CCRE.H3K4ME3:HIGH.ZSCORE CUI"
+                "label",
+                "ENCODE.CCRE.H3K4ME3"
             ]
         },
         {
@@ -2998,41 +1449,6 @@
             ],
             "display": [
                 {
-                    "label": "Glycosyltransferase Reaction",
-                    "text": "${Glycosyltransferase Reaction}",
-                    "type": "text"
-                },
-                {
-                    "label": "GLYCOSYLTRANSFERASE.REACTION:RXN00000161 CUI",
-                    "text": "${GLYCOSYLTRANSFERASE.REACTION:RXN00000161 CUI}",
-                    "type": "text"
-                },
-                {
-                    "label": "RXN00000131",
-                    "text": "${RXN00000131}",
-                    "type": "text"
-                },
-                {
-                    "label": "GLYCOSYLTRANSFERASE.REACTION:RXN00000131 CUI",
-                    "text": "${GLYCOSYLTRANSFERASE.REACTION:RXN00000131 CUI}",
-                    "type": "text"
-                },
-                {
-                    "label": "RXN00000072",
-                    "text": "${RXN00000072}",
-                    "type": "text"
-                },
-                {
-                    "label": "RXN00000161",
-                    "text": "${RXN00000161}",
-                    "type": "text"
-                },
-                {
-                    "label": "GLYCOSYLTRANSFERASE.REACTION",
-                    "text": "${GLYCOSYLTRANSFERASE.REACTION}",
-                    "type": "text"
-                },
-                {
                     "label": "label",
                     "text": "${label}",
                     "type": "text"
@@ -3043,22 +1459,15 @@
                     "type": "text"
                 },
                 {
-                    "label": "GLYCOSYLTRANSFERASE.REACTION:RXN00000072 CUI",
-                    "text": "${GLYCOSYLTRANSFERASE.REACTION:RXN00000072 CUI}",
+                    "label": "GLYCOSYLTRANSFERASE.REACTION",
+                    "text": "${GLYCOSYLTRANSFERASE.REACTION}",
                     "type": "text"
                 }
             ],
             "search": [
-                "Glycosyltransferase Reaction",
-                "GLYCOSYLTRANSFERASE.REACTION:RXN00000161 CUI",
-                "RXN00000131",
-                "GLYCOSYLTRANSFERASE.REACTION:RXN00000131 CUI",
-                "RXN00000072",
-                "RXN00000161",
-                "GLYCOSYLTRANSFERASE.REACTION",
                 "label",
                 "type",
-                "GLYCOSYLTRANSFERASE.REACTION:RXN00000072 CUI"
+                "GLYCOSYLTRANSFERASE.REACTION"
             ]
         },
         {
@@ -3069,28 +1478,8 @@
             ],
             "display": [
                 {
-                    "label": "Glycosylation",
-                    "text": "${Glycosylation}",
-                    "type": "text"
-                },
-                {
-                    "label": "RXN00000155",
-                    "text": "${RXN00000155}",
-                    "type": "text"
-                },
-                {
-                    "label": "RXN00000164",
-                    "text": "${RXN00000164}",
-                    "type": "text"
-                },
-                {
-                    "label": "RXN00000051",
-                    "text": "${RXN00000051}",
-                    "type": "text"
-                },
-                {
-                    "label": "GLYGEN.GLYCOSYLATION:RXN00000051 CUI",
-                    "text": "${GLYGEN.GLYCOSYLATION:RXN00000051 CUI}",
+                    "label": "label",
+                    "text": "${label}",
                     "type": "text"
                 },
                 {
@@ -3099,37 +1488,15 @@
                     "type": "text"
                 },
                 {
-                    "label": "label",
-                    "text": "${label}",
-                    "type": "text"
-                },
-                {
                     "label": "type",
                     "text": "${type}",
-                    "type": "text"
-                },
-                {
-                    "label": "GLYGEN.GLYCOSYLATION:RXN00000164 CUI",
-                    "text": "${GLYGEN.GLYCOSYLATION:RXN00000164 CUI}",
-                    "type": "text"
-                },
-                {
-                    "label": "GLYGEN.GLYCOSYLATION:RXN00000155 CUI",
-                    "text": "${GLYGEN.GLYCOSYLATION:RXN00000155 CUI}",
                     "type": "text"
                 }
             ],
             "search": [
-                "Glycosylation",
-                "RXN00000155",
-                "RXN00000164",
-                "RXN00000051",
-                "GLYGEN.GLYCOSYLATION:RXN00000051 CUI",
-                "GLYGEN.GLYCOSYLATION",
                 "label",
-                "type",
-                "GLYGEN.GLYCOSYLATION:RXN00000164 CUI",
-                "GLYGEN.GLYCOSYLATION:RXN00000155 CUI"
+                "GLYGEN.GLYCOSYLATION",
+                "type"
             ]
         },
         {
@@ -3145,56 +1512,20 @@
                     "type": "text"
                 },
                 {
-                    "label": "KFPT:PT-KB29GM2Z CUI",
-                    "text": "${KFPT:PT-KB29GM2Z CUI}",
-                    "type": "text"
-                },
-                {
-                    "label": "KFPT:PT-07FJF09T CUI",
-                    "text": "${KFPT:PT-07FJF09T CUI}",
-                    "type": "text"
-                },
-                {
-                    "label": "PT-4CC1RQ2X",
-                    "text": "${PT-4CC1RQ2X}",
+                    "label": "type",
+                    "text": "${type}",
                     "type": "text"
                 },
                 {
                     "label": "KFPT",
                     "text": "${KFPT}",
                     "type": "text"
-                },
-                {
-                    "label": "PT-KB29GM2Z",
-                    "text": "${PT-KB29GM2Z}",
-                    "type": "text"
-                },
-                {
-                    "label": "KFPT:PT-4CC1RQ2X CUI",
-                    "text": "${KFPT:PT-4CC1RQ2X CUI}",
-                    "type": "text"
-                },
-                {
-                    "label": "type",
-                    "text": "${type}",
-                    "type": "text"
-                },
-                {
-                    "label": "PT-07FJF09T",
-                    "text": "${PT-07FJF09T}",
-                    "type": "text"
                 }
             ],
             "search": [
                 "label",
-                "KFPT:PT-KB29GM2Z CUI",
-                "KFPT:PT-07FJF09T CUI",
-                "PT-4CC1RQ2X",
-                "KFPT",
-                "PT-KB29GM2Z",
-                "KFPT:PT-4CC1RQ2X CUI",
                 "type",
-                "PT-07FJF09T"
+                "KFPT"
             ]
         },
         {
@@ -3205,26 +1536,6 @@
             ],
             "display": [
                 {
-                    "label": "eQTL.chr8.42546062.T.C.b38.Heart.Left.Ventricle",
-                    "text": "${eQTL.chr8.42546062.T.C.b38.Heart.Left.Ventricle}",
-                    "type": "text"
-                },
-                {
-                    "label": "eQTL.chr1.93348442.G.A.b38.Kidney.Cortex",
-                    "text": "${eQTL.chr1.93348442.G.A.b38.Kidney.Cortex}",
-                    "type": "text"
-                },
-                {
-                    "label": "GTEXEQTL:eQTL.chr1.93348442.G.A.b38.Kidney.Cortex CUI",
-                    "text": "${GTEXEQTL:eQTL.chr1.93348442.G.A.b38.Kidney.Cortex CUI}",
-                    "type": "text"
-                },
-                {
-                    "label": "eQTL.chr6.32681698.T.C.b38.Brain.Substantia.nigra",
-                    "text": "${eQTL.chr6.32681698.T.C.b38.Brain.Substantia.nigra}",
-                    "type": "text"
-                },
-                {
                     "label": "label",
                     "text": "${label}",
                     "type": "text"
@@ -3235,31 +1546,15 @@
                     "type": "text"
                 },
                 {
-                    "label": "GTEXEQTL:eQTL.chr8.42546062.T.C.b38.Heart.Left.Ventricle CUI",
-                    "text": "${GTEXEQTL:eQTL.chr8.42546062.T.C.b38.Heart.Left.Ventricle CUI}",
-                    "type": "text"
-                },
-                {
                     "label": "GTEXEQTL",
                     "text": "${GTEXEQTL}",
-                    "type": "text"
-                },
-                {
-                    "label": "GTEXEQTL:eQTL.chr6.32681698.T.C.b38.Brain.Substantia.nigra CUI",
-                    "text": "${GTEXEQTL:eQTL.chr6.32681698.T.C.b38.Brain.Substantia.nigra CUI}",
                     "type": "text"
                 }
             ],
             "search": [
-                "eQTL.chr8.42546062.T.C.b38.Heart.Left.Ventricle",
-                "eQTL.chr1.93348442.G.A.b38.Kidney.Cortex",
-                "GTEXEQTL:eQTL.chr1.93348442.G.A.b38.Kidney.Cortex CUI",
-                "eQTL.chr6.32681698.T.C.b38.Brain.Substantia.nigra",
                 "label",
                 "type",
-                "GTEXEQTL:eQTL.chr8.42546062.T.C.b38.Heart.Left.Ventricle CUI",
-                "GTEXEQTL",
-                "GTEXEQTL:eQTL.chr6.32681698.T.C.b38.Brain.Substantia.nigra CUI"
+                "GTEXEQTL"
             ]
         },
         {
@@ -3270,8 +1565,8 @@
             ],
             "display": [
                 {
-                    "label": "KFGENEBIN:SCLT1-variant-count CUI",
-                    "text": "${KFGENEBIN:SCLT1-variant-count CUI}",
+                    "label": "label",
+                    "text": "${label}",
                     "type": "text"
                 },
                 {
@@ -3280,51 +1575,15 @@
                     "type": "text"
                 },
                 {
-                    "label": "label",
-                    "text": "${label}",
-                    "type": "text"
-                },
-                {
-                    "label": "SRFBP1-variant-count",
-                    "text": "${SRFBP1-variant-count}",
-                    "type": "text"
-                },
-                {
-                    "label": "TMEM115-variant-count",
-                    "text": "${TMEM115-variant-count}",
-                    "type": "text"
-                },
-                {
-                    "label": "KFGENEBIN:SRFBP1-variant-count CUI",
-                    "text": "${KFGENEBIN:SRFBP1-variant-count CUI}",
-                    "type": "text"
-                },
-                {
-                    "label": "KFGENEBIN:TMEM115-variant-count CUI",
-                    "text": "${KFGENEBIN:TMEM115-variant-count CUI}",
-                    "type": "text"
-                },
-                {
                     "label": "type",
                     "text": "${type}",
-                    "type": "text"
-                },
-                {
-                    "label": "SCLT1-variant-count",
-                    "text": "${SCLT1-variant-count}",
                     "type": "text"
                 }
             ],
             "search": [
-                "KFGENEBIN:SCLT1-variant-count CUI",
-                "KFGENEBIN",
                 "label",
-                "SRFBP1-variant-count",
-                "TMEM115-variant-count",
-                "KFGENEBIN:SRFBP1-variant-count CUI",
-                "KFGENEBIN:TMEM115-variant-count CUI",
-                "type",
-                "SCLT1-variant-count"
+                "KFGENEBIN",
+                "type"
             ]
         },
         {
@@ -3335,67 +1594,25 @@
             ],
             "display": [
                 {
-                    "label": "GP.ID2PRO:P70699-1-9 CUI",
-                    "text": "${GP.ID2PRO:P70699-1-9 CUI}",
-                    "type": "text"
-                },
-                {
-                    "label": "GP.ID2PRO:Q7Z5M8-1-1 CUI",
-                    "text": "${GP.ID2PRO:Q7Z5M8-1-1 CUI}",
-                    "type": "text"
-                },
-                {
-                    "label": "GP ID2PRO",
-                    "text": "${GP ID2PRO}",
-                    "type": "text"
-                },
-                {
-                    "label": "Q99PE8-1-1",
-                    "text": "${Q99PE8-1-1}",
-                    "type": "text"
-                },
-                {
                     "label": "label",
                     "text": "${label}",
-                    "type": "text"
-                },
-                {
-                    "label": "type",
-                    "text": "${type}",
-                    "type": "text"
-                },
-                {
-                    "label": "GP.ID2PRO:Q99PE8-1-1 CUI",
-                    "text": "${GP.ID2PRO:Q99PE8-1-1 CUI}",
-                    "type": "text"
-                },
-                {
-                    "label": "Q7Z5M8-1-1",
-                    "text": "${Q7Z5M8-1-1}",
-                    "type": "text"
-                },
-                {
-                    "label": "P70699-1-9",
-                    "text": "${P70699-1-9}",
                     "type": "text"
                 },
                 {
                     "label": "GP.ID2PRO",
                     "text": "${GP.ID2PRO}",
                     "type": "text"
+                },
+                {
+                    "label": "type",
+                    "text": "${type}",
+                    "type": "text"
                 }
             ],
             "search": [
-                "GP.ID2PRO:P70699-1-9 CUI",
-                "GP.ID2PRO:Q7Z5M8-1-1 CUI",
-                "GP ID2PRO",
-                "Q99PE8-1-1",
                 "label",
-                "type",
-                "GP.ID2PRO:Q99PE8-1-1 CUI",
-                "Q7Z5M8-1-1",
-                "P70699-1-9",
-                "GP.ID2PRO"
+                "GP.ID2PRO",
+                "type"
             ]
         },
         {
@@ -3406,67 +1623,25 @@
             ],
             "display": [
                 {
-                    "label": "GlyGen src",
-                    "text": "${GlyGen src}",
-                    "type": "text"
-                },
-                {
-                    "label": "G56903ZB-SRC00004113",
-                    "text": "${G56903ZB-SRC00004113}",
-                    "type": "text"
-                },
-                {
-                    "label": "G07194UG-SRC00022048",
-                    "text": "${G07194UG-SRC00022048}",
-                    "type": "text"
-                },
-                {
-                    "label": "GLYGEN.SRC:G56903ZB-SRC00004113 CUI",
-                    "text": "${GLYGEN.SRC:G56903ZB-SRC00004113 CUI}",
-                    "type": "text"
-                },
-                {
-                    "label": "GLYGEN.SRC:G11460AB-SRC00022790 CUI",
-                    "text": "${GLYGEN.SRC:G11460AB-SRC00022790 CUI}",
-                    "type": "text"
-                },
-                {
                     "label": "label",
                     "text": "${label}",
-                    "type": "text"
-                },
-                {
-                    "label": "type",
-                    "text": "${type}",
-                    "type": "text"
-                },
-                {
-                    "label": "GLYGEN.SRC:G07194UG-SRC00022048 CUI",
-                    "text": "${GLYGEN.SRC:G07194UG-SRC00022048 CUI}",
-                    "type": "text"
-                },
-                {
-                    "label": "G11460AB-SRC00022790",
-                    "text": "${G11460AB-SRC00022790}",
                     "type": "text"
                 },
                 {
                     "label": "GLYGEN.SRC",
                     "text": "${GLYGEN.SRC}",
                     "type": "text"
+                },
+                {
+                    "label": "type",
+                    "text": "${type}",
+                    "type": "text"
                 }
             ],
             "search": [
-                "GlyGen src",
-                "G56903ZB-SRC00004113",
-                "G07194UG-SRC00022048",
-                "GLYGEN.SRC:G56903ZB-SRC00004113 CUI",
-                "GLYGEN.SRC:G11460AB-SRC00022790 CUI",
                 "label",
-                "type",
-                "GLYGEN.SRC:G07194UG-SRC00022048 CUI",
-                "G11460AB-SRC00022790",
-                "GLYGEN.SRC"
+                "GLYGEN.SRC",
+                "type"
             ]
         },
         {
@@ -3476,26 +1651,6 @@
                 "GLYGEN.GLYCOSEQUENCE:G17667YX-GLYCOSEQ00052873 CUI"
             ],
             "display": [
-                {
-                    "label": "GLYGEN.GLYCOSEQUENCE:G14043TF-GLYCOSEQ00157502 CUI",
-                    "text": "${GLYGEN.GLYCOSEQUENCE:G14043TF-GLYCOSEQ00157502 CUI}",
-                    "type": "text"
-                },
-                {
-                    "label": "GlyGen Glycosequence",
-                    "text": "${GlyGen Glycosequence}",
-                    "type": "text"
-                },
-                {
-                    "label": "G14043TF-GLYCOSEQ00157502",
-                    "text": "${G14043TF-GLYCOSEQ00157502}",
-                    "type": "text"
-                },
-                {
-                    "label": "GLYGEN.GLYCOSEQUENCE:G64296KS-GLYCOSEQ00155847 CUI",
-                    "text": "${GLYGEN.GLYCOSEQUENCE:G64296KS-GLYCOSEQ00155847 CUI}",
-                    "type": "text"
-                },
                 {
                     "label": "label",
                     "text": "${label}",
@@ -3510,34 +1665,12 @@
                     "label": "GLYGEN.GLYCOSEQUENCE",
                     "text": "${GLYGEN.GLYCOSEQUENCE}",
                     "type": "text"
-                },
-                {
-                    "label": "G17667YX-GLYCOSEQ00052873",
-                    "text": "${G17667YX-GLYCOSEQ00052873}",
-                    "type": "text"
-                },
-                {
-                    "label": "G64296KS-GLYCOSEQ00155847",
-                    "text": "${G64296KS-GLYCOSEQ00155847}",
-                    "type": "text"
-                },
-                {
-                    "label": "GLYGEN.GLYCOSEQUENCE:G17667YX-GLYCOSEQ00052873 CUI",
-                    "text": "${GLYGEN.GLYCOSEQUENCE:G17667YX-GLYCOSEQ00052873 CUI}",
-                    "type": "text"
                 }
             ],
             "search": [
-                "GLYGEN.GLYCOSEQUENCE:G14043TF-GLYCOSEQ00157502 CUI",
-                "GlyGen Glycosequence",
-                "G14043TF-GLYCOSEQ00157502",
-                "GLYGEN.GLYCOSEQUENCE:G64296KS-GLYCOSEQ00155847 CUI",
                 "label",
                 "type",
-                "GLYGEN.GLYCOSEQUENCE",
-                "G17667YX-GLYCOSEQ00052873",
-                "G64296KS-GLYCOSEQ00155847",
-                "GLYGEN.GLYCOSEQUENCE:G17667YX-GLYCOSEQ00052873 CUI"
+                "GLYGEN.GLYCOSEQUENCE"
             ]
         },
         {
@@ -3548,61 +1681,25 @@
             ],
             "display": [
                 {
-                    "label": "Kids First: Congenital Diaphragmatic Hernia",
-                    "text": "${Kids First: Congenital Diaphragmatic Hernia}",
-                    "type": "text"
-                },
-                {
-                    "label": "SD-46SK55A3",
-                    "text": "${SD-46SK55A3}",
-                    "type": "text"
-                },
-                {
-                    "label": "Kids First: Orofacial Cleft - Latin American",
-                    "text": "${Kids First: Orofacial Cleft - Latin American}",
-                    "type": "text"
-                },
-                {
-                    "label": "SD-B8X3C1MX",
-                    "text": "${SD-B8X3C1MX}",
-                    "type": "text"
-                },
-                {
                     "label": "label",
                     "text": "${label}",
-                    "type": "text"
-                },
-                {
-                    "label": "Kids First: Craniofacial Microsomia",
-                    "text": "${Kids First: Craniofacial Microsomia}",
-                    "type": "text"
-                },
-                {
-                    "label": "KFCOHORT",
-                    "text": "${KFCOHORT}",
-                    "type": "text"
-                },
-                {
-                    "label": "SD-R0EPRSGS",
-                    "text": "${SD-R0EPRSGS}",
                     "type": "text"
                 },
                 {
                     "label": "type",
                     "text": "${type}",
                     "type": "text"
+                },
+                {
+                    "label": "KFCOHORT",
+                    "text": "${KFCOHORT}",
+                    "type": "text"
                 }
             ],
             "search": [
-                "Kids First: Congenital Diaphragmatic Hernia",
-                "SD-46SK55A3",
-                "Kids First: Orofacial Cleft - Latin American",
-                "SD-B8X3C1MX",
                 "label",
-                "Kids First: Craniofacial Microsomia",
-                "KFCOHORT",
-                "SD-R0EPRSGS",
-                "type"
+                "type",
+                "KFCOHORT"
             ]
         },
         {
@@ -3612,11 +1709,6 @@
                 "male"
             ],
             "display": [
-                {
-                    "label": "female",
-                    "text": "${female}",
-                    "type": "text"
-                },
                 {
                     "label": "label",
                     "text": "${label}",
@@ -3631,37 +1723,12 @@
                     "label": "PATO",
                     "text": "${PATO}",
                     "type": "text"
-                },
-                {
-                    "label": "0000384",
-                    "text": "${0000384}",
-                    "type": "text"
-                },
-                {
-                    "label": "0000383",
-                    "text": "${0000383}",
-                    "type": "text"
-                },
-                {
-                    "label": "Sex",
-                    "text": "${Sex}",
-                    "type": "text"
-                },
-                {
-                    "label": "male",
-                    "text": "${male}",
-                    "type": "text"
                 }
             ],
             "search": [
-                "female",
                 "label",
                 "type",
-                "PATO",
-                "0000384",
-                "0000383",
-                "Sex",
-                "male"
+                "PATO"
             ]
         },
         {
@@ -3671,26 +1738,6 @@
                 "chr6.136820748.T.TC.b38"
             ],
             "display": [
-                {
-                    "label": "chr6.136820748.T.TC.b38",
-                    "text": "${chr6.136820748.T.TC.b38}",
-                    "type": "text"
-                },
-                {
-                    "label": "chr13.26698567.G.A.b38",
-                    "text": "${chr13.26698567.G.A.b38}",
-                    "type": "text"
-                },
-                {
-                    "label": "CA13841785",
-                    "text": "${CA13841785}",
-                    "type": "text"
-                },
-                {
-                    "label": "CLINGEN ALLELE REGISTRY",
-                    "text": "${CLINGEN ALLELE REGISTRY}",
-                    "type": "text"
-                },
                 {
                     "label": "label",
                     "text": "${label}",
@@ -3702,36 +1749,14 @@
                     "type": "text"
                 },
                 {
-                    "label": "chr3.122444175.T.C.b38",
-                    "text": "${chr3.122444175.T.C.b38}",
-                    "type": "text"
-                },
-                {
-                    "label": "CA148640457",
-                    "text": "${CA148640457}",
-                    "type": "text"
-                },
-                {
-                    "label": "CA11417913",
-                    "text": "${CA11417913}",
-                    "type": "text"
-                },
-                {
                     "label": "CLINGEN.ALLELE.REGISTRY",
                     "text": "${CLINGEN.ALLELE.REGISTRY}",
                     "type": "text"
                 }
             ],
             "search": [
-                "chr6.136820748.T.TC.b38",
-                "chr13.26698567.G.A.b38",
-                "CA13841785",
-                "CLINGEN ALLELE REGISTRY",
                 "label",
                 "type",
-                "chr3.122444175.T.C.b38",
-                "CA148640457",
-                "CA11417913",
                 "CLINGEN.ALLELE.REGISTRY"
             ]
         },
@@ -3743,21 +1768,6 @@
             ],
             "display": [
                 {
-                    "label": "4DNL:4DNFI49A9Z1K.chr11.109420000-109430000.chr11.109690000-109700000 CUI",
-                    "text": "${4DNL:4DNFI49A9Z1K.chr11.109420000-109430000.chr11.109690000-109700000 CUI}",
-                    "type": "text"
-                },
-                {
-                    "label": "4DNFI8NCHTIR.chr18.58488000-58504000.chr18.58752000-58768000",
-                    "text": "${4DNFI8NCHTIR.chr18.58488000-58504000.chr18.58752000-58768000}",
-                    "type": "text"
-                },
-                {
-                    "label": "4DNL",
-                    "text": "${4DNL}",
-                    "type": "text"
-                },
-                {
                     "label": "label",
                     "text": "${label}",
                     "type": "text"
@@ -3768,42 +1778,15 @@
                     "type": "text"
                 },
                 {
-                    "label": "4DNL:4DNFI8NCHTIR.chr18.58488000-58504000.chr18.58752000-58768000 CUI",
-                    "text": "${4DNL:4DNFI8NCHTIR.chr18.58488000-58504000.chr18.58752000-58768000 CUI}",
-                    "type": "text"
-                },
-                {
-                    "label": "4DNL:4DNFI3RMWQ85.chr5.160500000-160510000.chr5.160780000-160790000 CUI",
-                    "text": "${4DNL:4DNFI3RMWQ85.chr5.160500000-160510000.chr5.160780000-160790000 CUI}",
-                    "type": "text"
-                },
-                {
-                    "label": "4DNFI49A9Z1K.chr11.109420000-109430000.chr11.109690000-109700000",
-                    "text": "${4DNFI49A9Z1K.chr11.109420000-109430000.chr11.109690000-109700000}",
-                    "type": "text"
-                },
-                {
-                    "label": "4DN Loop",
-                    "text": "${4DN Loop}",
-                    "type": "text"
-                },
-                {
-                    "label": "4DNFI3RMWQ85.chr5.160500000-160510000.chr5.160780000-160790000",
-                    "text": "${4DNFI3RMWQ85.chr5.160500000-160510000.chr5.160780000-160790000}",
+                    "label": "4DNL",
+                    "text": "${4DNL}",
                     "type": "text"
                 }
             ],
             "search": [
-                "4DNL:4DNFI49A9Z1K.chr11.109420000-109430000.chr11.109690000-109700000 CUI",
-                "4DNFI8NCHTIR.chr18.58488000-58504000.chr18.58752000-58768000",
-                "4DNL",
                 "label",
                 "type",
-                "4DNL:4DNFI8NCHTIR.chr18.58488000-58504000.chr18.58752000-58768000 CUI",
-                "4DNL:4DNFI3RMWQ85.chr5.160500000-160510000.chr5.160780000-160790000 CUI",
-                "4DNFI49A9Z1K.chr11.109420000-109430000.chr11.109690000-109700000",
-                "4DN Loop",
-                "4DNFI3RMWQ85.chr5.160500000-160510000.chr5.160780000-160790000"
+                "4DNL"
             ]
         },
         {
@@ -3814,18 +1797,8 @@
             ],
             "display": [
                 {
-                    "label": "EH38E2998527",
-                    "text": "${EH38E2998527}",
-                    "type": "text"
-                },
-                {
-                    "label": "ENCODE.CCRE:EH38E2998527 CUI",
-                    "text": "${ENCODE.CCRE:EH38E2998527 CUI}",
-                    "type": "text"
-                },
-                {
-                    "label": "ENCODE.CCRE:EH38E1578950 CUI",
-                    "text": "${ENCODE.CCRE:EH38E1578950 CUI}",
+                    "label": "label",
+                    "text": "${label}",
                     "type": "text"
                 },
                 {
@@ -3834,47 +1807,15 @@
                     "type": "text"
                 },
                 {
-                    "label": "ENCODE.CCRE:EH38E2601799 CUI",
-                    "text": "${ENCODE.CCRE:EH38E2601799 CUI}",
-                    "type": "text"
-                },
-                {
-                    "label": "EH38E1578950",
-                    "text": "${EH38E1578950}",
-                    "type": "text"
-                },
-                {
-                    "label": "label",
-                    "text": "${label}",
-                    "type": "text"
-                },
-                {
                     "label": "type",
                     "text": "${type}",
-                    "type": "text"
-                },
-                {
-                    "label": "EH38E2601799",
-                    "text": "${EH38E2601799}",
-                    "type": "text"
-                },
-                {
-                    "label": "ENCODE CCRE",
-                    "text": "${ENCODE CCRE}",
                     "type": "text"
                 }
             ],
             "search": [
-                "EH38E2998527",
-                "ENCODE.CCRE:EH38E2998527 CUI",
-                "ENCODE.CCRE:EH38E1578950 CUI",
-                "ENCODE.CCRE",
-                "ENCODE.CCRE:EH38E2601799 CUI",
-                "EH38E1578950",
                 "label",
-                "type",
-                "EH38E2601799",
-                "ENCODE CCRE"
+                "ENCODE.CCRE",
+                "type"
             ]
         },
         {
@@ -3885,28 +1826,8 @@
             ],
             "display": [
                 {
-                    "label": "ENSG00000206737-1-Fallopian-Tube",
-                    "text": "${ENSG00000206737-1-Fallopian-Tube}",
-                    "type": "text"
-                },
-                {
-                    "label": "ENSG00000163257-10-Brain-Amygdala",
-                    "text": "${ENSG00000163257-10-Brain-Amygdala}",
-                    "type": "text"
-                },
-                {
-                    "label": "GTEXEXP:ENSG00000163257-10-Brain-Amygdala CUI",
-                    "text": "${GTEXEXP:ENSG00000163257-10-Brain-Amygdala CUI}",
-                    "type": "text"
-                },
-                {
                     "label": "label",
                     "text": "${label}",
-                    "type": "text"
-                },
-                {
-                    "label": "GTEXEXP:ENSG00000172382-9-Vagina CUI",
-                    "text": "${GTEXEXP:ENSG00000172382-9-Vagina CUI}",
                     "type": "text"
                 },
                 {
@@ -3915,31 +1836,15 @@
                     "type": "text"
                 },
                 {
-                    "label": "ENSG00000172382-9-Vagina",
-                    "text": "${ENSG00000172382-9-Vagina}",
-                    "type": "text"
-                },
-                {
                     "label": "type",
                     "text": "${type}",
-                    "type": "text"
-                },
-                {
-                    "label": "GTEXEXP:ENSG00000206737-1-Fallopian-Tube CUI",
-                    "text": "${GTEXEXP:ENSG00000206737-1-Fallopian-Tube CUI}",
                     "type": "text"
                 }
             ],
             "search": [
-                "ENSG00000206737-1-Fallopian-Tube",
-                "ENSG00000163257-10-Brain-Amygdala",
-                "GTEXEXP:ENSG00000163257-10-Brain-Amygdala CUI",
                 "label",
-                "GTEXEXP:ENSG00000172382-9-Vagina CUI",
                 "GTEXEXP",
-                "ENSG00000172382-9-Vagina",
-                "type",
-                "GTEXEXP:ENSG00000206737-1-Fallopian-Tube CUI"
+                "type"
             ]
         },
         {
@@ -3949,26 +1854,6 @@
                 "in situ Dnase Hi-C on RUES2 cells differentiated to cardiomyocytes.RUES2_Stem cells"
             ],
             "display": [
-                {
-                    "label": "4DNESNSTBMBY",
-                    "text": "${4DNESNSTBMBY}",
-                    "type": "text"
-                },
-                {
-                    "label": "in situ Dnase Hi-C on RUES2 cells differentiated to cardiomyocytes.RUES2_Stem cells",
-                    "text": "${in situ Dnase Hi-C on RUES2 cells differentiated to cardiomyocytes.RUES2_Stem cells}",
-                    "type": "text"
-                },
-                {
-                    "label": "Micro-C on H1-ESC cells.H1-ESC",
-                    "text": "${Micro-C on H1-ESC cells.H1-ESC}",
-                    "type": "text"
-                },
-                {
-                    "label": "4DNES21D8SP8",
-                    "text": "${4DNES21D8SP8}",
-                    "type": "text"
-                },
                 {
                     "label": "label",
                     "text": "${label}",
@@ -3983,34 +1868,12 @@
                     "label": "4DND",
                     "text": "${4DND}",
                     "type": "text"
-                },
-                {
-                    "label": "4DN Dataset",
-                    "text": "${4DN Dataset}",
-                    "type": "text"
-                },
-                {
-                    "label": "in situ Hi-C on HCT116 cells (containing AID-tagged WAPL) untreated.HCT116",
-                    "text": "${in situ Hi-C on HCT116 cells (containing AID-tagged WAPL) untreated.HCT116}",
-                    "type": "text"
-                },
-                {
-                    "label": "4DNESGTHHJAC",
-                    "text": "${4DNESGTHHJAC}",
-                    "type": "text"
                 }
             ],
             "search": [
-                "4DNESNSTBMBY",
-                "in situ Dnase Hi-C on RUES2 cells differentiated to cardiomyocytes.RUES2_Stem cells",
-                "Micro-C on H1-ESC cells.H1-ESC",
-                "4DNES21D8SP8",
                 "label",
                 "type",
-                "4DND",
-                "4DN Dataset",
-                "in situ Hi-C on HCT116 cells (containing AID-tagged WAPL) untreated.HCT116",
-                "4DNESGTHHJAC"
+                "4DND"
             ]
         },
         {
@@ -4020,31 +1883,6 @@
                 "GLYCOSYLATION.SITE:SITE00042312 CUI"
             ],
             "display": [
-                {
-                    "label": "GLYCOSYLATION.SITE:SITE00042312 CUI",
-                    "text": "${GLYCOSYLATION.SITE:SITE00042312 CUI}",
-                    "type": "text"
-                },
-                {
-                    "label": "SITE00042312",
-                    "text": "${SITE00042312}",
-                    "type": "text"
-                },
-                {
-                    "label": "GLYCOSYLATION.SITE",
-                    "text": "${GLYCOSYLATION.SITE}",
-                    "type": "text"
-                },
-                {
-                    "label": "SITE00003583",
-                    "text": "${SITE00003583}",
-                    "type": "text"
-                },
-                {
-                    "label": "Glycosylation Site",
-                    "text": "${Glycosylation Site}",
-                    "type": "text"
-                },
                 {
                     "label": "label",
                     "text": "${label}",
@@ -4056,32 +1894,15 @@
                     "type": "text"
                 },
                 {
-                    "label": "GLYCOSYLATION.SITE:SITE00016061 CUI",
-                    "text": "${GLYCOSYLATION.SITE:SITE00016061 CUI}",
-                    "type": "text"
-                },
-                {
-                    "label": "SITE00016061",
-                    "text": "${SITE00016061}",
-                    "type": "text"
-                },
-                {
-                    "label": "GLYCOSYLATION.SITE:SITE00003583 CUI",
-                    "text": "${GLYCOSYLATION.SITE:SITE00003583 CUI}",
+                    "label": "GLYCOSYLATION.SITE",
+                    "text": "${GLYCOSYLATION.SITE}",
                     "type": "text"
                 }
             ],
             "search": [
-                "GLYCOSYLATION.SITE:SITE00042312 CUI",
-                "SITE00042312",
-                "GLYCOSYLATION.SITE",
-                "SITE00003583",
-                "Glycosylation Site",
                 "label",
                 "type",
-                "GLYCOSYLATION.SITE:SITE00016061 CUI",
-                "SITE00016061",
-                "GLYCOSYLATION.SITE:SITE00003583 CUI"
+                "GLYCOSYLATION.SITE"
             ]
         }
     ],
@@ -4429,6 +2250,34 @@
                     "type": "text"
                 }
             ]
+        },
+        {
+            "match": [
+                "is_protein"
+            ],
+            "color": "#bdbdbd",
+            "display": [
+                {
+                    "label": "source",
+                    "text": "${source}",
+                    "type": "text"
+                },
+                {
+                    "label": "target",
+                    "text": "${target}",
+                    "type": "text"
+                },
+                {
+                    "label": "relation",
+                    "text": "${relation}",
+                    "type": "text"
+                },
+                {
+                    "label": "sab",
+                    "text": "${sab}",
+                    "type": "text"
+                }
+            ]
         }
     ],
     "header": {
@@ -4456,10 +2305,7 @@
                     "initial_query": {
                         "start": "Gene",
                         "start_term": "MAOB",
-                        "start_field": "label",
-                        "relation": [
-                            "positively_regulates"
-                        ]
+                        "start_field": "label"
                     }
                 }
             },
@@ -4798,121 +2644,119 @@
             }
         ]
     },
-    "footer": [
-        {
-            "style": {
-                "background": "#336699",
-                "color": "#FFF"
-            },
-            "layout": [
-                [
-                    {
-                        "component": "logo",
-                        "props": {
-                            "src": "https://s3.amazonaws.com/maayan-kg/cfde-kg/assets/favicon.png",
-                            "alt": "DDKG",
-                            "title": "Data Distillery KG",
-                            "color": "inherit",
-                            "size": "small"
-                        }
-                    },
-                    {
-                        "component": "github",
-                        "props": {
-                            "code": "https://github.com/MaayanLab/datadistillery-kg",
-                            "issues": "https://github.com/MaayanLab/data-distillery-issues/issues"
-                        }
-                    },
-                    {
-                        "component": "social",
-                        "props": {
-                            "email": "mailto:contact@cfde.info",
-                            "twitter": "https://twitter.com/CFDEWorkbench",
-                            "youtube": "https://www.youtube.com/channel/UCWucYIvMygAgG5t0xEGEZgg"
-                        }
+    "footer": {
+        "style": {
+            "background": "#336699",
+            "color": "#FFF"
+        },
+        "layout": [
+            [
+                {
+                    "component": "logo",
+                    "props": {
+                        "src": "https://s3.amazonaws.com/maayan-kg/cfde-kg/assets/favicon.png",
+                        "alt": "DDKG",
+                        "title": "Data Distillery KG",
+                        "color": "inherit",
+                        "size": "small"
                     }
-                ],
-                [
-                    {
-                        "component": "text",
-                        "props": {
-                            "text": "Consortium"
-                        }
-                    },
-                    {
-                        "component": "link",
-                        "props": {
-                            "text": "Information Portal",
-                            "href": "https://info.cfde.cloud/"
-                        }
-                    },
-                    {
-                        "component": "link",
-                        "props": {
-                            "text": "Data Portal",
-                            "href": "https://data.cfde.cloud/"
-                        }
+                },
+                {
+                    "component": "github",
+                    "props": {
+                        "code": "https://github.com/MaayanLab/datadistillery-kg",
+                        "issues": "https://github.com/MaayanLab/data-distillery-issues/issues"
                     }
-                ],
-                [
-                    {
-                        "component": "text",
-                        "props": {
-                            "text": "Data Distillery"
-                        }
-                    },
-                    {
-                        "component": "link",
-                        "props": {
-                            "text": "Connection Explorer",
-                            "href": "/"
-                        }
-                    },
-                    {
-                        "component": "link",
-                        "props": {
-                            "text": "Apps",
-                            "href": "/dd_apps"
-                        }
-                    },
-                    {
-                        "component": "link",
-                        "props": {
-                            "text": "Use Cases",
-                            "href": "/use_cases"
-                        }
+                },
+                {
+                    "component": "social",
+                    "props": {
+                        "email": "mailto:contact@cfde.info",
+                        "twitter": "https://twitter.com/CFDEWorkbench",
+                        "youtube": "https://www.youtube.com/channel/UCWucYIvMygAgG5t0xEGEZgg"
                     }
-                ],
-                [
-                    {
-                        "component": "text",
-                        "props": {
-                            "text": "Data Access"
-                        }
-                    },
-                    {
-                        "component": "link",
-                        "props": {
-                            "text": "Data Dictionary",
-                            "href": "/dictionary"
-                        }
-                    },
-                    {
-                        "component": "link",
-                        "props": {
-                            "text": "Downloads",
-                            "href": "/downloads"
-                        }
-                    },
-                    {
-                        "component": "link",
-                        "props": {
-                            "text": "About",
-                            "href": "/about"
-                        }
+                }
+            ],
+            [
+                {
+                    "component": "text",
+                    "props": {
+                        "text": "Consortium"
                     }
-                ]
+                },
+                {
+                    "component": "link",
+                    "props": {
+                        "text": "Information Portal",
+                        "href": "https://info.cfde.cloud/"
+                    }
+                },
+                {
+                    "component": "link",
+                    "props": {
+                        "text": "Data Portal",
+                        "href": "https://data.cfde.cloud/"
+                    }
+                }
+            ],
+            [
+                {
+                    "component": "text",
+                    "props": {
+                        "text": "Data Distillery"
+                    }
+                },
+                {
+                    "component": "link",
+                    "props": {
+                        "text": "Connection Explorer",
+                        "href": "/"
+                    }
+                },
+                {
+                    "component": "link",
+                    "props": {
+                        "text": "Apps",
+                        "href": "/dd_apps"
+                    }
+                },
+                {
+                    "component": "link",
+                    "props": {
+                        "text": "Use Cases",
+                        "href": "/use_cases"
+                    }
+                }
+            ],
+            [
+                {
+                    "component": "text",
+                    "props": {
+                        "text": "Data Access"
+                    }
+                },
+                {
+                    "component": "link",
+                    "props": {
+                        "text": "Data Dictionary",
+                        "href": "/dictionary"
+                    }
+                },
+                {
+                    "component": "link",
+                    "props": {
+                        "text": "Downloads",
+                        "href": "/downloads"
+                    }
+                },
+                {
+                    "component": "link",
+                    "props": {
+                        "text": "About",
+                        "href": "/about"
+                    }
+                }
             ]
-        }
-    ]
+        ]
+    }
 }
