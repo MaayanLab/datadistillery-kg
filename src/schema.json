@@ -247,11 +247,6 @@
             ],
             "display": [
                 {
-                    "label": "SNOMEDCT_US",
-                    "text": "${SNOMEDCT_US}",
-                    "type": "text"
-                },
-                {
                     "label": "OMIM",
                     "text": "${OMIM}",
                     "type": "text"
@@ -363,7 +358,6 @@
                 }
             ],
             "search": [
-                "SNOMEDCT_US",
                 "OMIM",
                 "CHV",
                 "MSH",
@@ -960,11 +954,6 @@
                     "type": "text"
                 },
                 {
-                    "label": "SNOMEDCT_US",
-                    "text": "${SNOMEDCT_US}",
-                    "type": "text"
-                },
-                {
                     "label": "EFO",
                     "text": "${EFO}",
                     "type": "text"
@@ -1043,7 +1032,6 @@
             "search": [
                 "OMIM",
                 "MEDGEN",
-                "SNOMEDCT_US",
                 "EFO",
                 "MSH",
                 "LNC",
@@ -1127,11 +1115,6 @@
             ],
             "display": [
                 {
-                    "label": "SNOMEDCT_US",
-                    "text": "${SNOMEDCT_US}",
-                    "type": "text"
-                },
-                {
                     "label": "MSH",
                     "text": "${MSH}",
                     "type": "text"
@@ -1193,7 +1176,6 @@
                 }
             ],
             "search": [
-                "SNOMEDCT_US",
                 "MSH",
                 "FMA",
                 "LNC",
@@ -1367,13 +1349,8 @@
             ],
             "display": [
                 {
-                    "label": "SNOMEDCT_US",
-                    "text": "${SNOMEDCT_US}",
-                    "type": "text"
-                },
-                {
-                    "label": "OBI",
-                    "text": "${OBI}",
+                    "label": "label",
+                    "text": "${label}",
                     "type": "text"
                 },
                 {
@@ -1387,17 +1364,16 @@
                     "type": "text"
                 },
                 {
-                    "label": "label",
-                    "text": "${label}",
+                    "label": "OBI",
+                    "text": "${OBI}",
                     "type": "text"
                 }
             ],
             "search": [
-                "SNOMEDCT_US",
-                "OBI",
+                "label",
                 "type",
                 "NCBI",
-                "label"
+                "OBI"
             ]
         },
         {
@@ -2361,7 +2337,7 @@
                                     "ORPHANET",
                                     "HP"
                                 ],
-                                "default_term": "glutathione synthetase deficiency"
+                                "default_term": "Hypertensive disease"
                             }
                         },
                         {
@@ -2381,7 +2357,7 @@
                                         "end": "Compound"
                                     },
                                     {
-                                        "name": "expressed_i"
+                                        "name": "expressed_in"
                                     }
                                 ],
                                 "title": "EnzymeMiner",
@@ -2514,15 +2490,16 @@
                                 "init_function": "initialize_kg",
                                 "relations": [
                                     {
-                                        "name": "positively regulates",
-                                        "end": "Drug"
+                                        "name": "positively_regulates",
+                                        "end": "Compound"
                                     },
                                     {
-                                        "name": "negatively regulates",
-                                        "end": "Drug"
+                                        "name": "negatively_regulates",
+                                        "end": "Compound"
                                     },
                                     {
-                                        "name": "expresses"
+                                        "name": "expressed_in",
+                                        "end": "Anatomy"
                                     }
                                 ],
                                 "title": "CES1 Use Case",

@@ -1,28 +1,20 @@
 version: '2'
 services:
-  neo4j:
-    image: neo4j
-    user: "${UID}:${GID}"
+  neo4j-v5:
+    image: neo4j:5.19
+    x-kubernetes:
+      imagePullPolicy: IfNotPresent
     environment:
-      NEO4J_PLUGINS: '["apoc", "n10s"]'
-      NEO4J_AUTH: ${NEO4J_USER}/${NEO4J_PASSWORD}
-      NEO4J_dbms_memory_heap_max__size: ${NEO4J_dbms_memory_heap_max__size}
-      NEO4J_dbms_memory_heap_initial__size: ${NEO4J_dbms_memory_heap_initial__size}
+      - NEO4J_PLUGINS= ["apoc", "n10s"]
+      - NEO4J_AUTH=${NEXT_PUBLIC_NEO4J_USER}/${NEXT_PUBLIC_NEO4J_PASSWORD}
+      - NEO4J_dbms_memory_heap_max__size=8G
+      - NEO4J_dbms_memory_heap_initial__size=2G
+      - NEO4J_server_config_strict__validation_enabled=false
     ports:
-      - 7474:7474
       - 7687:7687
+      - 7474:7474
     volumes:
-      - ./data/neo4j:/data
-    networks:
-      internal:
-        aliases:
-          - neo4j
-  kg:
-    build: .
-    image: maayanlab/knowledge_graph:1.1.57
-    env_file: .env
-    ports:
-      - 3000:3000
+      - distillery-neo4j-v5:/data  
 # Internal docker networks
 networks:
   internal:

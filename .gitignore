@@ -5,3 +5,5 @@ neo4j/
 .DS_Store
 venv
 dumps/
+output/
+dd_data/

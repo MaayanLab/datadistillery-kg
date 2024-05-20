@@ -1,0 +1,145 @@
+[
+    {
+        "source": "HuBMAP",
+        "description": "Tissue, cell-type and gene specific markers from single-cell data",
+        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/042624/HuBMAP.zip",
+        "size": "70.99KB",
+        "updated": "04-24-2024",
+        "terms": 843,
+        "edges": 1234
+    },
+    {
+        "source": "IDG",
+        "description": "Relationships between compounds, diseases, and proteins",
+        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/042624/IDG.zip",
+        "size": "29.40MB",
+        "updated": "04-24-2024",
+        "terms": 329031,
+        "edges": 435923
+    },
+    {
+        "source": "GlyGen",
+        "description": "Associations from multiple glycomics database",
+        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/042624/GlyGen.zip",
+        "size": "43.85MB",
+        "updated": "04-24-2024",
+        "terms": 430928,
+        "edges": 920128
+    },
+    {
+        "source": "HGNCENZ",
+        "description": "Enzyme Genes",
+        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/042624/HGNCENZ.zip",
+        "size": "85.59KB",
+        "updated": "04-24-2024",
+        "terms": 1891
+    },
+    {
+        "source": "GTEx",
+        "description": "Expression and eQTL data from GTEx",
+        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/042624/GTEx.zip",
+        "size": "410.16MB",
+        "updated": "04-24-2024",
+        "terms": 2861519,
+        "edges": 13641131
+    },
+    {
+        "source": "SPARC",
+        "description": "The SPARC Knowledge base of the Automatic Nervous System (SCKAN)",
+        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/042624/SPARC.zip",
+        "size": "198.70KB",
+        "updated": "04-24-2024",
+        "terms": 1913,
+        "edges": 3978
+    },
+    {
+        "source": "HGNCHPO",
+        "description": "HGNC gene node mapping to Human Phenotype Ontology",
+        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/042624/HGNCHPO.zip",
+        "size": "15.17MB",
+        "updated": "04-24-2024",
+        "terms": 14337,
+        "edges": 657199
+    },
+    {
+        "source": "CLINVAR",
+        "description": "Assertions between human genes and phenotypes",
+        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/042624/CLINVAR.zip",
+        "size": "2.49MB",
+        "updated": "04-24-2024",
+        "terms": 24544,
+        "edges": 61898
+    },
+    {
+        "source": "MoTrPAC",
+        "description": "Differential gene expression data from endurance training exercise of young adult rats",
+        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/042624/MoTrPAC.zip",
+        "size": "1.29MB",
+        "updated": "04-24-2024",
+        "terms": 14494,
+        "edges": 25712
+    },
+    {
+        "source": "HGNCUNIPROT",
+        "description": "Gene-Protein relationships",
+        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/042624/HGNCUNIPROT.zip",
+        "size": "944.53KB",
+        "updated": "04-24-2024",
+        "terms": 16666,
+        "edges": 8334
+    },
+    {
+        "source": "KF",
+        "description": "Genotypic and phenotypic data from the Pediatric Cardiac Genetics Consortium cohort in Kids First",
+        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/042624/KF.zip",
+        "size": "3.41MB",
+        "updated": "04-24-2024",
+        "terms": 32474,
+        "edges": 76690
+    },
+    {
+        "source": "LINCS",
+        "description": "Gene expression data from drug perturbation, as well as drug-drug similarity",
+        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/042624/LINCS.zip",
+        "size": "12.18MB",
+        "updated": "04-24-2024",
+        "terms": 8942,
+        "edges": 246294
+    },
+    {
+        "source": "MW",
+        "description": "Metabolite relationships with gene, disease, and cell",
+        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/042624/MW.zip",
+        "size": "1.79MB",
+        "updated": "04-24-2024",
+        "terms": 11071,
+        "edges": 60788
+    },
+    {
+        "source": "MSIGDB",
+        "description": "Five subsets of MSigDB v7.4 datasets",
+        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/042624/MSIGDB.zip",
+        "size": "34.11MB",
+        "updated": "04-24-2024",
+        "terms": 44692,
+        "edges": 1292349
+    },
+    {
+        "source": "ERCC",
+        "description": "eCLIP-seq and CHIP-seq associations from ERCC",
+        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/042624/ERCC.zip",
+        "size": "483.82MB",
+        "updated": "04-24-2024",
+        "terms": 4072788,
+        "edges": 17328474
+    },
+    {
+        "source": "4DN",
+        "description": "Chromatin loops called from Hi-C experiments performed in select cell lines",
+        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/042624/4DN.zip",
+        "size": "51.62MB",
+        "updated": "04-24-2024",
+        "terms": 459548,
+        "edges": 1294975
+    }
+]
