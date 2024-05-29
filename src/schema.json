@@ -2389,8 +2389,7 @@
                                     "id",
                                     "label"
                                 ],
-                                "default_term": "Subcutaneous Fat",
-                                "gene_link_button": true
+                                "default_term": "Subcutaneous Fat"
                             }
                         },
                         {
@@ -2450,8 +2449,7 @@
                                     "HGNC"
                                 ],
                                 "default_term": "MAOB",
-                                "filter_text": "Enzyme",
-                                "gene_link_button": true
+                                "filter_text": "Enzyme"
                             }
                         },
                         {
@@ -2475,8 +2473,7 @@
                                     "ORPHANET",
                                     "HP"
                                 ],
-                                "default_term": "leukodystrophy",
-                                "gene_link_button": true
+                                "default_term": "leukodystrophy"
                             }
                         },
                         {
@@ -2497,8 +2494,7 @@
                                     "id",
                                     "label"
                                 ],
-                                "default_term": "STK-674938",
-                                "gene_link_button": true
+                                "default_term": "STK-674938"
                             }
                         }
                     ]
@@ -2532,8 +2528,7 @@
                                     "id",
                                     "label"
                                 ],
-                                "default_term": "breast epithelium",
-                                "gene_link_button": true
+                                "default_term": "breast epithelium"
                             }
                         },
                         {
@@ -2595,8 +2590,7 @@
                                     "label",
                                     "HGNC"
                                 ],
-                                "default_term": "CES1",
-                                "gene_link_button": true
+                                "default_term": "CES1"
                             }
                         },
                         {
@@ -2620,8 +2614,7 @@
                                     "ORPHANET",
                                     "HP"
                                 ],
-                                "default_term": "Frontotemporal dementia",
-                                "gene_link_button": true
+                                "default_term": "Frontotemporal dementia"
                             }
                         },
                         {
@@ -2642,8 +2635,7 @@
                                     "id",
                                     "label"
                                 ],
-                                "default_term": "dexamethasone",
-                                "gene_link_button": true
+                                "default_term": "dexamethasone"
                             }
                         }
                     ]
