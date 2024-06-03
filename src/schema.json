@@ -2672,7 +2672,7 @@
                 "component": "Download",
                 "position": "bottom",
                 "props": {
-                    "src": "https://minio.dev.maayanlab.cloud/datadistillery-kg/download_detailed.json"
+                    "src": "https://minio.dev.maayanlab.cloud/datadistillery-kg/downloads.json"
                 }
             },
             {

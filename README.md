@@ -1,4 +1,4 @@
-# Data Distillery Knowloedge Graph
+# Data Distillery Knowledge Graph
 This documents how to process data provided by UBKG to the format used by the UI.
 
 ## Install Requirements
