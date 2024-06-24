@@ -42,20 +42,20 @@
                     "type": "text"
                 },
                 {
-                    "label": "type",
-                    "text": "${type}",
+                    "label": "GLYCOPROTEIN",
+                    "text": "${GLYCOPROTEIN}",
                     "type": "text"
                 },
                 {
-                    "label": "GLYCOPROTEIN",
-                    "text": "${GLYCOPROTEIN}",
+                    "label": "type",
+                    "text": "${type}",
                     "type": "text"
                 }
             ],
             "search": [
                 "label",
-                "type",
-                "GLYCOPROTEIN"
+                "GLYCOPROTEIN",
+                "type"
             ]
         },
         {
@@ -71,20 +71,20 @@
                     "type": "text"
                 },
                 {
-                    "label": "UNIPROTKB.ISOFORM",
-                    "text": "${UNIPROTKB.ISOFORM}",
+                    "label": "type",
+                    "text": "${type}",
                     "type": "text"
                 },
                 {
-                    "label": "type",
-                    "text": "${type}",
+                    "label": "UNIPROTKB.ISOFORM",
+                    "text": "${UNIPROTKB.ISOFORM}",
                     "type": "text"
                 }
             ],
             "search": [
                 "label",
-                "UNIPROTKB.ISOFORM",
-                "type"
+                "type",
+                "UNIPROTKB.ISOFORM"
             ]
         },
         {
@@ -100,13 +100,13 @@
                     "type": "text"
                 },
                 {
-                    "label": "type",
-                    "text": "${type}",
+                    "label": "UNIPROTKB",
+                    "text": "${UNIPROTKB}",
                     "type": "text"
                 },
                 {
-                    "label": "UNIPROTKB",
-                    "text": "${UNIPROTKB}",
+                    "label": "type",
+                    "text": "${type}",
                     "type": "text"
                 },
                 {
@@ -117,8 +117,8 @@
             ],
             "search": [
                 "label",
-                "type",
                 "UNIPROTKB",
+                "type",
                 "PR"
             ]
         },
@@ -135,20 +135,20 @@
                     "type": "text"
                 },
                 {
-                    "label": "type",
-                    "text": "${type}",
+                    "label": "4DNF",
+                    "text": "${4DNF}",
                     "type": "text"
                 },
                 {
-                    "label": "4DNF",
-                    "text": "${4DNF}",
+                    "label": "type",
+                    "text": "${type}",
                     "type": "text"
                 }
             ],
             "search": [
                 "label",
-                "type",
-                "4DNF"
+                "4DNF",
+                "type"
             ]
         },
         {
@@ -161,6 +161,26 @@
                 {
                     "label": "ORDO",
                     "text": "${ORDO}",
+                    "type": "text"
+                },
+                {
+                    "label": "type",
+                    "text": "${type}",
+                    "type": "text"
+                },
+                {
+                    "label": "NCI",
+                    "text": "${NCI}",
+                    "type": "text"
+                },
+                {
+                    "label": "label",
+                    "text": "${label}",
+                    "type": "text"
+                },
+                {
+                    "label": "ENTREZ",
+                    "text": "${ENTREZ}",
                     "type": "text"
                 },
                 {
@@ -177,37 +197,17 @@
                     "label": "OMIM",
                     "text": "${OMIM}",
                     "type": "text"
-                },
-                {
-                    "label": "type",
-                    "text": "${type}",
-                    "type": "text"
-                },
-                {
-                    "label": "ENTREZ",
-                    "text": "${ENTREZ}",
-                    "type": "text"
-                },
-                {
-                    "label": "NCI",
-                    "text": "${NCI}",
-                    "type": "text"
-                },
-                {
-                    "label": "label",
-                    "text": "${label}",
-                    "type": "text"
                 }
             ],
             "search": [
                 "ORDO",
+                "type",
+                "NCI",
+                "label",
+                "ENTREZ",
                 "ENSEMBL",
                 "HGNC",
-                "OMIM",
-                "type",
-                "ENTREZ",
-                "NCI",
-                "label"
+                "OMIM"
             ]
         },
         {
@@ -247,18 +247,8 @@
             ],
             "display": [
                 {
-                    "label": "FMA",
-                    "text": "${FMA}",
-                    "type": "text"
-                },
-                {
-                    "label": "AZ",
-                    "text": "${AZ}",
-                    "type": "text"
-                },
-                {
-                    "label": "UBERON",
-                    "text": "${UBERON}",
+                    "label": "PSY",
+                    "text": "${PSY}",
                     "type": "text"
                 },
                 {
@@ -267,38 +257,18 @@
                     "type": "text"
                 },
                 {
-                    "label": "OMIM",
-                    "text": "${OMIM}",
+                    "label": "NCI",
+                    "text": "${NCI}",
                     "type": "text"
                 },
                 {
-                    "label": "EFO",
-                    "text": "${EFO}",
+                    "label": "UBERON",
+                    "text": "${UBERON}",
                     "type": "text"
                 },
                 {
-                    "label": "CSP",
-                    "text": "${CSP}",
-                    "type": "text"
-                },
-                {
-                    "label": "label",
-                    "text": "${label}",
-                    "type": "text"
-                },
-                {
-                    "label": "ICF-CY",
-                    "text": "${ICF-CY}",
-                    "type": "text"
-                },
-                {
-                    "label": "PSY",
-                    "text": "${PSY}",
-                    "type": "text"
-                },
-                {
-                    "label": "MSH",
-                    "text": "${MSH}",
+                    "label": "FMA",
+                    "text": "${FMA}",
                     "type": "text"
                 },
                 {
@@ -307,28 +277,18 @@
                     "type": "text"
                 },
                 {
-                    "label": "UWDA",
-                    "text": "${UWDA}",
+                    "label": "ICF-CY",
+                    "text": "${ICF-CY}",
                     "type": "text"
                 },
                 {
-                    "label": "CARO",
-                    "text": "${CARO}",
+                    "label": "ICF",
+                    "text": "${ICF}",
                     "type": "text"
                 },
                 {
-                    "label": "PAX.PAXSPN",
-                    "text": "${PAX.PAXSPN}",
-                    "type": "text"
-                },
-                {
-                    "label": "CL",
-                    "text": "${CL}",
-                    "type": "text"
-                },
-                {
-                    "label": "PAX.PAXRAT",
-                    "text": "${PAX.PAXRAT}",
+                    "label": "CSP",
+                    "text": "${CSP}",
                     "type": "text"
                 },
                 {
@@ -337,8 +297,33 @@
                     "type": "text"
                 },
                 {
+                    "label": "EFO",
+                    "text": "${EFO}",
+                    "type": "text"
+                },
+                {
                     "label": "LNC",
                     "text": "${LNC}",
+                    "type": "text"
+                },
+                {
+                    "label": "CARO",
+                    "text": "${CARO}",
+                    "type": "text"
+                },
+                {
+                    "label": "PAX.PAXRAT",
+                    "text": "${PAX.PAXRAT}",
+                    "type": "text"
+                },
+                {
+                    "label": "PAX.PAXSPN",
+                    "text": "${PAX.PAXSPN}",
+                    "type": "text"
+                },
+                {
+                    "label": "label",
+                    "text": "${label}",
                     "type": "text"
                 },
                 {
@@ -347,39 +332,54 @@
                     "type": "text"
                 },
                 {
-                    "label": "NCI",
-                    "text": "${NCI}",
+                    "label": "UWDA",
+                    "text": "${UWDA}",
                     "type": "text"
                 },
                 {
-                    "label": "ICF",
-                    "text": "${ICF}",
+                    "label": "MSH",
+                    "text": "${MSH}",
+                    "type": "text"
+                },
+                {
+                    "label": "AZ",
+                    "text": "${AZ}",
+                    "type": "text"
+                },
+                {
+                    "label": "CL",
+                    "text": "${CL}",
+                    "type": "text"
+                },
+                {
+                    "label": "OMIM",
+                    "text": "${OMIM}",
                     "type": "text"
                 }
             ],
             "search": [
-                "FMA",
-                "AZ",
-                "UBERON",
-                "type",
-                "OMIM",
-                "EFO",
-                "CSP",
-                "label",
-                "ICF-CY",
                 "PSY",
-                "MSH",
-                "CHV",
-                "UWDA",
-                "CARO",
-                "PAX.PAXSPN",
-                "CL",
-                "PAX.PAXRAT",
-                "LCH_NW",
-                "LNC",
-                "HL7V2.5",
+                "type",
                 "NCI",
-                "ICF"
+                "UBERON",
+                "FMA",
+                "CHV",
+                "ICF-CY",
+                "ICF",
+                "CSP",
+                "LCH_NW",
+                "EFO",
+                "LNC",
+                "CARO",
+                "PAX.PAXRAT",
+                "PAX.PAXSPN",
+                "label",
+                "HL7V2.5",
+                "UWDA",
+                "MSH",
+                "AZ",
+                "CL",
+                "OMIM"
             ]
         },
         {
@@ -424,20 +424,20 @@
                     "type": "text"
                 },
                 {
-                    "label": "type",
-                    "text": "${type}",
+                    "label": "SO",
+                    "text": "${SO}",
                     "type": "text"
                 },
                 {
-                    "label": "SO",
-                    "text": "${SO}",
+                    "label": "type",
+                    "text": "${type}",
                     "type": "text"
                 }
             ],
             "search": [
                 "label",
-                "type",
-                "SO"
+                "SO",
+                "type"
             ]
         },
         {
@@ -453,13 +453,13 @@
                     "type": "text"
                 },
                 {
-                    "label": "type",
-                    "text": "${type}",
+                    "label": "ILX",
+                    "text": "${ILX}",
                     "type": "text"
                 },
                 {
-                    "label": "ILX",
-                    "text": "${ILX}",
+                    "label": "type",
+                    "text": "${type}",
                     "type": "text"
                 },
                 {
@@ -470,8 +470,8 @@
             ],
             "search": [
                 "label",
-                "type",
                 "ILX",
+                "type",
                 "ILX.TR"
             ]
         },
@@ -488,20 +488,20 @@
                     "type": "text"
                 },
                 {
-                    "label": "AMINO.ACID",
-                    "text": "${AMINO.ACID}",
+                    "label": "type",
+                    "text": "${type}",
                     "type": "text"
                 },
                 {
-                    "label": "type",
-                    "text": "${type}",
+                    "label": "AMINO.ACID",
+                    "text": "${AMINO.ACID}",
                     "type": "text"
                 }
             ],
             "search": [
                 "label",
-                "AMINO.ACID",
-                "type"
+                "type",
+                "AMINO.ACID"
             ]
         },
         {
@@ -552,6 +552,26 @@
                     "type": "text"
                 },
                 {
+                    "label": "type",
+                    "text": "${type}",
+                    "type": "text"
+                },
+                {
+                    "label": "NCI",
+                    "text": "${NCI}",
+                    "type": "text"
+                },
+                {
+                    "label": "label",
+                    "text": "${label}",
+                    "type": "text"
+                },
+                {
+                    "label": "ENTREZ",
+                    "text": "${ENTREZ}",
+                    "type": "text"
+                },
+                {
                     "label": "ENSEMBL",
                     "text": "${ENSEMBL}",
                     "type": "text"
@@ -565,37 +585,17 @@
                     "label": "OMIM",
                     "text": "${OMIM}",
                     "type": "text"
-                },
-                {
-                    "label": "type",
-                    "text": "${type}",
-                    "type": "text"
-                },
-                {
-                    "label": "ENTREZ",
-                    "text": "${ENTREZ}",
-                    "type": "text"
-                },
-                {
-                    "label": "NCI",
-                    "text": "${NCI}",
-                    "type": "text"
-                },
-                {
-                    "label": "label",
-                    "text": "${label}",
-                    "type": "text"
                 }
             ],
             "search": [
                 "ORDO",
+                "type",
+                "NCI",
+                "label",
+                "ENTREZ",
                 "ENSEMBL",
                 "HGNC",
-                "OMIM",
-                "type",
-                "ENTREZ",
-                "NCI",
-                "label"
+                "OMIM"
             ]
         },
         {
@@ -611,20 +611,20 @@
                     "type": "text"
                 },
                 {
-                    "label": "type",
-                    "text": "${type}",
+                    "label": "HSCLO",
+                    "text": "${HSCLO}",
                     "type": "text"
                 },
                 {
-                    "label": "HSCLO",
-                    "text": "${HSCLO}",
+                    "label": "type",
+                    "text": "${type}",
                     "type": "text"
                 }
             ],
             "search": [
                 "label",
-                "type",
-                "HSCLO"
+                "HSCLO",
+                "type"
             ]
         },
         {
@@ -635,23 +635,23 @@
             ],
             "display": [
                 {
-                    "label": "PUBMED",
-                    "text": "${PUBMED}",
-                    "type": "text"
-                },
-                {
                     "label": "type",
                     "text": "${type}",
                     "type": "text"
                 },
                 {
-                    "label": "PUBCHEM",
-                    "text": "${PUBCHEM}",
+                    "label": "label",
+                    "text": "${label}",
                     "type": "text"
                 },
                 {
-                    "label": "label",
-                    "text": "${label}",
+                    "label": "PUBMED",
+                    "text": "${PUBMED}",
+                    "type": "text"
+                },
+                {
+                    "label": "PUBCHEM",
+                    "text": "${PUBCHEM}",
                     "type": "text"
                 },
                 {
@@ -661,10 +661,10 @@
                 }
             ],
             "search": [
-                "PUBMED",
                 "type",
-                "PUBCHEM",
                 "label",
+                "PUBMED",
+                "PUBCHEM",
                 "HMDB"
             ]
         },
@@ -681,20 +681,20 @@
                     "type": "text"
                 },
                 {
-                    "label": "type",
-                    "text": "${type}",
+                    "label": "GLYGEN.CITATION",
+                    "text": "${GLYGEN.CITATION}",
                     "type": "text"
                 },
                 {
-                    "label": "GLYGEN.CITATION",
-                    "text": "${GLYGEN.CITATION}",
+                    "label": "type",
+                    "text": "${type}",
                     "type": "text"
                 }
             ],
             "search": [
                 "label",
-                "type",
-                "GLYGEN.CITATION"
+                "GLYGEN.CITATION",
+                "type"
             ]
         },
         {
@@ -710,20 +710,20 @@
                     "type": "text"
                 },
                 {
-                    "label": "type",
-                    "text": "${type}",
+                    "label": "PATO",
+                    "text": "${PATO}",
                     "type": "text"
                 },
                 {
-                    "label": "PATO",
-                    "text": "${PATO}",
+                    "label": "type",
+                    "text": "${type}",
                     "type": "text"
                 }
             ],
             "search": [
                 "label",
-                "type",
-                "PATO"
+                "PATO",
+                "type"
             ]
         },
         {
@@ -739,20 +739,20 @@
                     "type": "text"
                 },
                 {
-                    "label": "MSIGDB",
-                    "text": "${MSIGDB}",
+                    "label": "type",
+                    "text": "${type}",
                     "type": "text"
                 },
                 {
-                    "label": "type",
-                    "text": "${type}",
+                    "label": "MSIGDB",
+                    "text": "${MSIGDB}",
                     "type": "text"
                 }
             ],
             "search": [
                 "label",
-                "MSIGDB",
-                "type"
+                "type",
+                "MSIGDB"
             ]
         },
         {
@@ -797,32 +797,32 @@
                     "type": "text"
                 },
                 {
-                    "label": "ENCODE.RBS.HEPG2",
-                    "text": "${ENCODE.RBS.HEPG2}",
-                    "type": "text"
-                },
-                {
                     "label": "type",
                     "text": "${type}",
-                    "type": "text"
-                },
-                {
-                    "label": "ENCODE.RBS.HEPG2.K562",
-                    "text": "${ENCODE.RBS.HEPG2.K562}",
                     "type": "text"
                 },
                 {
                     "label": "label",
                     "text": "${label}",
                     "type": "text"
+                },
+                {
+                    "label": "ENCODE.RBS.HEPG2",
+                    "text": "${ENCODE.RBS.HEPG2}",
+                    "type": "text"
+                },
+                {
+                    "label": "ENCODE.RBS.HEPG2.K562",
+                    "text": "${ENCODE.RBS.HEPG2.K562}",
+                    "type": "text"
                 }
             ],
             "search": [
                 "ENCODE.RBS.K562",
-                "ENCODE.RBS.HEPG2",
                 "type",
-                "ENCODE.RBS.HEPG2.K562",
-                "label"
+                "label",
+                "ENCODE.RBS.HEPG2",
+                "ENCODE.RBS.HEPG2.K562"
             ]
         },
         {
@@ -843,8 +843,8 @@
                     "type": "text"
                 },
                 {
-                    "label": "NIFSTD.NLX.MOL",
-                    "text": "${NIFSTD.NLX.MOL}",
+                    "label": "NIFSTD.NLX",
+                    "text": "${NIFSTD.NLX}",
                     "type": "text"
                 },
                 {
@@ -863,19 +863,19 @@
                     "type": "text"
                 },
                 {
-                    "label": "NIFSTD.NLX",
-                    "text": "${NIFSTD.NLX}",
+                    "label": "NIFSTD.NLX.MOL",
+                    "text": "${NIFSTD.NLX.MOL}",
                     "type": "text"
                 }
             ],
             "search": [
                 "NIFSTD",
                 "NIFSTD.NLX.ORG",
-                "NIFSTD.NLX.MOL",
+                "NIFSTD.NLX",
                 "type",
                 "label",
                 "NIFSTD.NIFEXT",
-                "NIFSTD.NLX"
+                "NIFSTD.NLX.MOL"
             ]
         },
         {
@@ -891,20 +891,20 @@
                     "type": "text"
                 },
                 {
-                    "label": "PVALUEBINS",
-                    "text": "${PVALUEBINS}",
+                    "label": "type",
+                    "text": "${type}",
                     "type": "text"
                 },
                 {
-                    "label": "type",
-                    "text": "${type}",
+                    "label": "PVALUEBINS",
+                    "text": "${PVALUEBINS}",
                     "type": "text"
                 }
             ],
             "search": [
                 "label",
-                "PVALUEBINS",
-                "type"
+                "type",
+                "PVALUEBINS"
             ]
         },
         {
@@ -944,8 +944,23 @@
             ],
             "display": [
                 {
-                    "label": "HP",
-                    "text": "${HP}",
+                    "label": "DOID",
+                    "text": "${DOID}",
+                    "type": "text"
+                },
+                {
+                    "label": "ORDO",
+                    "text": "${ORDO}",
+                    "type": "text"
+                },
+                {
+                    "label": "type",
+                    "text": "${type}",
+                    "type": "text"
+                },
+                {
+                    "label": "ICPC2ICD10ENG",
+                    "text": "${ICPC2ICD10ENG}",
                     "type": "text"
                 },
                 {
@@ -954,18 +969,13 @@
                     "type": "text"
                 },
                 {
-                    "label": "DOID",
-                    "text": "${DOID}",
+                    "label": "NCI",
+                    "text": "${NCI}",
                     "type": "text"
                 },
                 {
-                    "label": "OMIM",
-                    "text": "${OMIM}",
-                    "type": "text"
-                },
-                {
-                    "label": "type",
-                    "text": "${type}",
+                    "label": "CHV",
+                    "text": "${CHV}",
                     "type": "text"
                 },
                 {
@@ -979,28 +989,8 @@
                     "type": "text"
                 },
                 {
-                    "label": "MEDCIN",
-                    "text": "${MEDCIN}",
-                    "type": "text"
-                },
-                {
-                    "label": "label",
-                    "text": "${label}",
-                    "type": "text"
-                },
-                {
-                    "label": "MSH",
-                    "text": "${MSH}",
-                    "type": "text"
-                },
-                {
-                    "label": "ORDO",
-                    "text": "${ORDO}",
-                    "type": "text"
-                },
-                {
-                    "label": "CHV",
-                    "text": "${CHV}",
+                    "label": "LNC",
+                    "text": "${LNC}",
                     "type": "text"
                 },
                 {
@@ -1014,39 +1004,49 @@
                     "type": "text"
                 },
                 {
-                    "label": "LNC",
-                    "text": "${LNC}",
+                    "label": "label",
+                    "text": "${label}",
                     "type": "text"
                 },
                 {
-                    "label": "NCI",
-                    "text": "${NCI}",
+                    "label": "MEDCIN",
+                    "text": "${MEDCIN}",
                     "type": "text"
                 },
                 {
-                    "label": "ICPC2ICD10ENG",
-                    "text": "${ICPC2ICD10ENG}",
+                    "label": "MSH",
+                    "text": "${MSH}",
+                    "type": "text"
+                },
+                {
+                    "label": "HP",
+                    "text": "${HP}",
+                    "type": "text"
+                },
+                {
+                    "label": "OMIM",
+                    "text": "${OMIM}",
                     "type": "text"
                 }
             ],
             "search": [
-                "HP",
-                "ICD10CM",
                 "DOID",
-                "OMIM",
+                "ORDO",
                 "type",
+                "ICPC2ICD10ENG",
+                "ICD10CM",
+                "NCI",
+                "CHV",
                 "MONDO",
                 "EFO",
-                "MEDCIN",
-                "label",
-                "MSH",
-                "ORDO",
-                "CHV",
+                "LNC",
                 "MEDGEN",
                 "MDR",
-                "LNC",
-                "NCI",
-                "ICPC2ICD10ENG"
+                "label",
+                "MEDCIN",
+                "MSH",
+                "HP",
+                "OMIM"
             ]
         },
         {
@@ -1115,33 +1115,18 @@
             ],
             "display": [
                 {
-                    "label": "CHV",
-                    "text": "${CHV}",
+                    "label": "PSY",
+                    "text": "${PSY}",
                     "type": "text"
                 },
                 {
-                    "label": "UWDA",
-                    "text": "${UWDA}",
+                    "label": "MSH",
+                    "text": "${MSH}",
                     "type": "text"
                 },
                 {
                     "label": "LCH_NW",
                     "text": "${LCH_NW}",
-                    "type": "text"
-                },
-                {
-                    "label": "FMA",
-                    "text": "${FMA}",
-                    "type": "text"
-                },
-                {
-                    "label": "LNC",
-                    "text": "${LNC}",
-                    "type": "text"
-                },
-                {
-                    "label": "UBERON",
-                    "text": "${UBERON}",
                     "type": "text"
                 },
                 {
@@ -1155,39 +1140,54 @@
                     "type": "text"
                 },
                 {
-                    "label": "CSP",
-                    "text": "${CSP}",
-                    "type": "text"
-                },
-                {
                     "label": "label",
                     "text": "${label}",
                     "type": "text"
                 },
                 {
-                    "label": "PSY",
-                    "text": "${PSY}",
+                    "label": "UBERON",
+                    "text": "${UBERON}",
                     "type": "text"
                 },
                 {
-                    "label": "MSH",
-                    "text": "${MSH}",
+                    "label": "FMA",
+                    "text": "${FMA}",
+                    "type": "text"
+                },
+                {
+                    "label": "CHV",
+                    "text": "${CHV}",
+                    "type": "text"
+                },
+                {
+                    "label": "UWDA",
+                    "text": "${UWDA}",
+                    "type": "text"
+                },
+                {
+                    "label": "CSP",
+                    "text": "${CSP}",
+                    "type": "text"
+                },
+                {
+                    "label": "LNC",
+                    "text": "${LNC}",
                     "type": "text"
                 }
             ],
             "search": [
-                "CHV",
-                "UWDA",
+                "PSY",
+                "MSH",
                 "LCH_NW",
-                "FMA",
-                "LNC",
-                "UBERON",
                 "type",
                 "NCI",
-                "CSP",
                 "label",
-                "PSY",
-                "MSH"
+                "UBERON",
+                "FMA",
+                "CHV",
+                "UWDA",
+                "CSP",
+                "LNC"
             ]
         },
         {
@@ -1203,20 +1203,20 @@
                     "type": "text"
                 },
                 {
-                    "label": "GO",
-                    "text": "${GO}",
+                    "label": "type",
+                    "text": "${type}",
                     "type": "text"
                 },
                 {
-                    "label": "type",
-                    "text": "${type}",
+                    "label": "GO",
+                    "text": "${GO}",
                     "type": "text"
                 }
             ],
             "search": [
                 "label",
-                "GO",
-                "type"
+                "type",
+                "GO"
             ]
         },
         {
@@ -1232,20 +1232,20 @@
                     "type": "text"
                 },
                 {
-                    "label": "type",
-                    "text": "${type}",
+                    "label": "GLYCAN.MOTIF",
+                    "text": "${GLYCAN.MOTIF}",
                     "type": "text"
                 },
                 {
-                    "label": "GLYCAN.MOTIF",
-                    "text": "${GLYCAN.MOTIF}",
+                    "label": "type",
+                    "text": "${type}",
                     "type": "text"
                 }
             ],
             "search": [
                 "label",
-                "type",
-                "GLYCAN.MOTIF"
+                "GLYCAN.MOTIF",
+                "type"
             ]
         },
         {
@@ -1325,20 +1325,20 @@
                     "type": "text"
                 },
                 {
-                    "label": "GLYCOPROTEIN.EVIDENCE",
-                    "text": "${GLYCOPROTEIN.EVIDENCE}",
+                    "label": "type",
+                    "text": "${type}",
                     "type": "text"
                 },
                 {
-                    "label": "type",
-                    "text": "${type}",
+                    "label": "GLYCOPROTEIN.EVIDENCE",
+                    "text": "${GLYCOPROTEIN.EVIDENCE}",
                     "type": "text"
                 }
             ],
             "search": [
                 "label",
-                "GLYCOPROTEIN.EVIDENCE",
-                "type"
+                "type",
+                "GLYCOPROTEIN.EVIDENCE"
             ]
         },
         {
@@ -1354,13 +1354,13 @@
                     "type": "text"
                 },
                 {
-                    "label": "type",
-                    "text": "${type}",
+                    "label": "OBI",
+                    "text": "${OBI}",
                     "type": "text"
                 },
                 {
-                    "label": "OBI",
-                    "text": "${OBI}",
+                    "label": "type",
+                    "text": "${type}",
                     "type": "text"
                 },
                 {
@@ -1371,8 +1371,8 @@
             ],
             "search": [
                 "label",
-                "type",
                 "OBI",
+                "type",
                 "NCBI"
             ]
         },
@@ -1383,11 +1383,6 @@
                 "ENCODE.CCRE.H3K27AC:HIGH.ZSCORE CUI"
             ],
             "display": [
-                {
-                    "label": "ENCODE.CCRE.H3K27AC",
-                    "text": "${ENCODE.CCRE.H3K27AC}",
-                    "type": "text"
-                },
                 {
                     "label": "ENCODE.CCRE.CTCF",
                     "text": "${ENCODE.CCRE.CTCF}",
@@ -1404,16 +1399,21 @@
                     "type": "text"
                 },
                 {
+                    "label": "ENCODE.CCRE.H3K27AC",
+                    "text": "${ENCODE.CCRE.H3K27AC}",
+                    "type": "text"
+                },
+                {
                     "label": "label",
                     "text": "${label}",
                     "type": "text"
                 }
             ],
             "search": [
-                "ENCODE.CCRE.H3K27AC",
                 "ENCODE.CCRE.CTCF",
                 "ENCODE.CCRE.H3K4ME3",
                 "type",
+                "ENCODE.CCRE.H3K27AC",
                 "label"
             ]
         },
@@ -1488,20 +1488,20 @@
                     "type": "text"
                 },
                 {
-                    "label": "type",
-                    "text": "${type}",
+                    "label": "KFPT",
+                    "text": "${KFPT}",
                     "type": "text"
                 },
                 {
-                    "label": "KFPT",
-                    "text": "${KFPT}",
+                    "label": "type",
+                    "text": "${type}",
                     "type": "text"
                 }
             ],
             "search": [
                 "label",
-                "type",
-                "KFPT"
+                "KFPT",
+                "type"
             ]
         },
         {
@@ -1546,20 +1546,20 @@
                     "type": "text"
                 },
                 {
-                    "label": "KFGENEBIN",
-                    "text": "${KFGENEBIN}",
+                    "label": "type",
+                    "text": "${type}",
                     "type": "text"
                 },
                 {
-                    "label": "type",
-                    "text": "${type}",
+                    "label": "KFGENEBIN",
+                    "text": "${KFGENEBIN}",
                     "type": "text"
                 }
             ],
             "search": [
                 "label",
-                "KFGENEBIN",
-                "type"
+                "type",
+                "KFGENEBIN"
             ]
         },
         {
@@ -1633,20 +1633,20 @@
                     "type": "text"
                 },
                 {
-                    "label": "GLYGEN.GLYCOSEQUENCE",
-                    "text": "${GLYGEN.GLYCOSEQUENCE}",
+                    "label": "type",
+                    "text": "${type}",
                     "type": "text"
                 },
                 {
-                    "label": "type",
-                    "text": "${type}",
+                    "label": "GLYGEN.GLYCOSEQUENCE",
+                    "text": "${GLYGEN.GLYCOSEQUENCE}",
                     "type": "text"
                 }
             ],
             "search": [
                 "label",
-                "GLYGEN.GLYCOSEQUENCE",
-                "type"
+                "type",
+                "GLYGEN.GLYCOSEQUENCE"
             ]
         },
         {
@@ -1662,20 +1662,20 @@
                     "type": "text"
                 },
                 {
-                    "label": "KFCOHORT",
-                    "text": "${KFCOHORT}",
+                    "label": "type",
+                    "text": "${type}",
                     "type": "text"
                 },
                 {
-                    "label": "type",
-                    "text": "${type}",
+                    "label": "KFCOHORT",
+                    "text": "${KFCOHORT}",
                     "type": "text"
                 }
             ],
             "search": [
                 "label",
-                "KFCOHORT",
-                "type"
+                "type",
+                "KFCOHORT"
             ]
         },
         {
@@ -1691,20 +1691,20 @@
                     "type": "text"
                 },
                 {
-                    "label": "type",
-                    "text": "${type}",
+                    "label": "PATO",
+                    "text": "${PATO}",
                     "type": "text"
                 },
                 {
-                    "label": "PATO",
-                    "text": "${PATO}",
+                    "label": "type",
+                    "text": "${type}",
                     "type": "text"
                 }
             ],
             "search": [
                 "label",
-                "type",
-                "PATO"
+                "PATO",
+                "type"
             ]
         },
         {
@@ -1749,20 +1749,20 @@
                     "type": "text"
                 },
                 {
-                    "label": "4DNL",
-                    "text": "${4DNL}",
+                    "label": "type",
+                    "text": "${type}",
                     "type": "text"
                 },
                 {
-                    "label": "type",
-                    "text": "${type}",
+                    "label": "4DNL",
+                    "text": "${4DNL}",
                     "type": "text"
                 }
             ],
             "search": [
                 "label",
-                "4DNL",
-                "type"
+                "type",
+                "4DNL"
             ]
         },
         {
@@ -1807,20 +1807,20 @@
                     "type": "text"
                 },
                 {
-                    "label": "GTEXEXP",
-                    "text": "${GTEXEXP}",
+                    "label": "type",
+                    "text": "${type}",
                     "type": "text"
                 },
                 {
-                    "label": "type",
-                    "text": "${type}",
+                    "label": "GTEXEXP",
+                    "text": "${GTEXEXP}",
                     "type": "text"
                 }
             ],
             "search": [
                 "label",
-                "GTEXEXP",
-                "type"
+                "type",
+                "GTEXEXP"
             ]
         },
         {
@@ -1865,20 +1865,20 @@
                     "type": "text"
                 },
                 {
-                    "label": "GLYCOSYLATION.SITE",
-                    "text": "${GLYCOSYLATION.SITE}",
+                    "label": "type",
+                    "text": "${type}",
                     "type": "text"
                 },
                 {
-                    "label": "type",
-                    "text": "${type}",
+                    "label": "GLYCOSYLATION.SITE",
+                    "text": "${GLYCOSYLATION.SITE}",
                     "type": "text"
                 }
             ],
             "search": [
                 "label",
-                "GLYCOSYLATION.SITE",
-                "type"
+                "type",
+                "GLYCOSYLATION.SITE"
             ]
         }
     ],
@@ -2195,7 +2195,60 @@
         },
         {
             "match": [
-                "predicted_ARCHS4_coexpression"
+                "ARCHS4_coexpressed_genes"
+            ],
+            "color": "#e0b321",
+            "display": [
+                {
+                    "label": "source",
+                    "text": "${source}",
+                    "type": "text"
+                },
+                {
+                    "label": "target",
+                    "text": "${target}",
+                    "type": "text"
+                },
+                {
+                    "label": "relation",
+                    "text": "${relation}",
+                    "type": "text"
+                },
+                {
+                    "label": "SAB",
+                    "text": "${SAB}",
+                    "type": "text"
+                },
+                {
+                    "label": "evidence_class",
+                    "text": "${evidence_class}",
+                    "type": "text"
+                },
+                {
+                    "label": "hidden",
+                    "text": "${hidden}",
+                    "type": "text"
+                },
+                {
+                    "label": "hidden_tag",
+                    "text": "${hidden_tag}",
+                    "type": "text"
+                }
+            ],
+            "hidden": true,
+            "order": [
+                "evidence",
+                "DESC"
+            ]
+        },
+        {
+            "match": [
+                "ARCHS4_coexpressed_genes_LINCS_Up",
+                "ARCHS4_coexpressed_genes_LINCS_Down",
+                "ARCHS4_coexpressed_genes_MW",
+                "ARCHS4_coexpressed_genes_IDG",
+                "ARCHS4_coexpressed_genes_HuBMAP",
+                "ARCHS4_coexpressed_genes_Glygen"
             ],
             "color": "#214ee0",
             "display": [
@@ -2225,12 +2278,17 @@
                     "type": "text"
                 },
                 {
-                    "label": "predicted",
-                    "text": "${predicted}",
+                    "label": "hidden",
+                    "text": "${hidden}",
+                    "type": "text"
+                },
+                {
+                    "label": "hidden_tag",
+                    "text": "${hidden_tag}",
                     "type": "text"
                 }
             ],
-            "gene_link": true,
+            "hidden": true,
             "order": [
                 "evidence",
                 "DESC"
@@ -2358,7 +2416,11 @@
                         "start_term": "MAOB",
                         "start_field": "label"
                     },
-                    "gene_link_button": true
+                    "additional_link_button": true,
+                    "additional_link_relation_tags": [
+                        "gene-gene coexpression",
+                        "predicted term-gene association via coexpression"
+                    ]
                 }
             },
             {
@@ -2672,7 +2734,7 @@
                 "component": "Download",
                 "position": "bottom",
                 "props": {
-                    "src": "https://minio.dev.maayanlab.cloud/datadistillery-kg/downloads.json"
+                    "src": "https://minio.dev.maayanlab.cloud/datadistillery-kg/download_detailed.json"
                 }
             },
             {
