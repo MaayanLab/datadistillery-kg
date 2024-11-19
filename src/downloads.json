@@ -2,152 +2,152 @@
     {
         "source": "HuBMAP",
         "description": "Tissue, cell-type and gene specific markers from single-cell data",
-        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/042624/assertions/HuBMAP.zip",
-        "size": "70.99KB",
-        "updated": "04-24-2024",
+        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/09202024/HuBMAP.zip",
+        "size": "70.53KB",
+        "updated": "09-20-2024",
         "terms": 843,
         "edges": 1234
     },
     {
         "source": "IDG",
         "description": "Relationships between compounds, diseases, and proteins",
-        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/042624/assertions/IDG.zip",
-        "size": "29.40MB",
-        "updated": "04-24-2024",
+        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/09202024/IDG.zip",
+        "size": "29.24MB",
+        "updated": "09-20-2024",
         "terms": 329031,
         "edges": 435923
     },
     {
         "source": "GlyGen",
         "description": "Associations from multiple glycomics database",
-        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/042624/assertions/GlyGen.zip",
-        "size": "43.85MB",
-        "updated": "04-24-2024",
+        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/09202024/GlyGen.zip",
+        "size": "43.80MB",
+        "updated": "09-20-2024",
         "terms": 430928,
         "edges": 920128
     },
     {
-        "source": "HGNCENZ",
-        "description": "Enzyme Genes",
-        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/042624/assertions/HGNCENZ.zip",
-        "size": "85.59KB",
-        "updated": "04-24-2024",
-        "terms": 1891
-    },
-    {
         "source": "GTEx",
         "description": "Expression and eQTL data from GTEx",
-        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/042624/assertions/GTEx.zip",
-        "size": "410.16MB",
-        "updated": "04-24-2024",
+        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/09202024/GTEx.zip",
+        "size": "410.14MB",
+        "updated": "09-20-2024",
         "terms": 2861519,
         "edges": 13641131
     },
     {
         "source": "SPARC",
         "description": "The SPARC Knowledge base of the Automatic Nervous System (SCKAN)",
-        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/042624/assertions/SPARC.zip",
-        "size": "198.70KB",
-        "updated": "04-24-2024",
-        "terms": 1913,
-        "edges": 3978
+        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/09202024/SPARC.zip",
+        "size": "198.29KB",
+        "updated": "09-20-2024",
+        "terms": 1912,
+        "edges": 3987
     },
     {
         "source": "HGNCHPO",
         "description": "HGNC gene node mapping to Human Phenotype Ontology",
-        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/042624/assertions/HGNCHPO.zip",
+        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/09202024/HGNCHPO.zip",
         "size": "15.17MB",
-        "updated": "04-24-2024",
+        "updated": "09-20-2024",
         "terms": 14337,
-        "edges": 657199
+        "edges": 657194
     },
     {
         "source": "CLINVAR",
         "description": "Assertions between human genes and phenotypes",
-        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/042624/assertions/CLINVAR.zip",
-        "size": "2.49MB",
-        "updated": "04-24-2024",
-        "terms": 24544,
-        "edges": 61898
+        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/09202024/CLINVAR.zip",
+        "size": "2.47MB",
+        "updated": "09-20-2024",
+        "terms": 24533,
+        "edges": 61762
     },
     {
         "source": "MoTrPAC",
         "description": "Differential gene expression data from endurance training exercise of young adult rats",
-        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/042624/assertions/MoTrPAC.zip",
+        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/09202024/MoTrPAC.zip",
         "size": "1.29MB",
-        "updated": "04-24-2024",
+        "updated": "09-20-2024",
         "terms": 14494,
         "edges": 25712
     },
     {
         "source": "HGNCUNIPROT",
         "description": "Gene-Protein relationships",
-        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/042624/assertions/HGNCUNIPROT.zip",
-        "size": "944.53KB",
-        "updated": "04-24-2024",
-        "terms": 16666,
-        "edges": 8334
+        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/09202024/HGNCUNIPROT.zip",
+        "size": "937.01KB",
+        "updated": "09-20-2024",
+        "terms": 16652,
+        "edges": 8327
     },
     {
         "source": "KF",
         "description": "Genotypic and phenotypic data from the Pediatric Cardiac Genetics Consortium cohort in Kids First",
-        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/042624/assertions/KF.zip",
+        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/09202024/KF.zip",
         "size": "3.41MB",
-        "updated": "04-24-2024",
+        "updated": "09-20-2024",
         "terms": 32474,
         "edges": 76690
     },
     {
         "source": "LINCS",
         "description": "Gene expression data from drug perturbation, as well as drug-drug similarity",
-        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/042624/assertions/LINCS.zip",
+        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/09202024/LINCS.zip",
         "size": "12.18MB",
-        "updated": "04-24-2024",
+        "updated": "09-20-2024",
         "terms": 8942,
         "edges": 246294
     },
     {
+        "source": "hgnc_enzyme",
+        "description": "Enzyme Genes",
+        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/09202024/hgnc_enzyme.zip",
+        "size": "84.47KB",
+        "updated": "09-20-2024",
+        "terms": 0
+    },
+    {
         "source": "ARCHS4",
         "description": "Coexpression Matrix based on Human RNA-seq studies from GEO",
-        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/042624/assertions/ARCHS4.zip",
-        "size": "8.61MB",
-        "updated": "04-24-2024",
-        "terms": 20997,
-        "edges": 209970
+        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/09202024/ARCHS4.zip",
+        "size": "11.36MB",
+        "updated": "09-20-2024",
+        "terms": 25088,
+        "edges": 287570
     },
     {
         "source": "MW",
         "description": "Metabolite relationships with gene, disease, and cell",
-        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/042624/assertions/MW.zip",
-        "size": "1.79MB",
-        "updated": "04-24-2024",
-        "terms": 11071,
-        "edges": 60788
+        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/09202024/MW.zip",
+        "size": "2.16MB",
+        "updated": "09-20-2024",
+        "terms": 11188,
+        "edges": 76297
     },
     {
         "source": "MSIGDB",
         "description": "Five subsets of MSigDB v7.4 datasets",
-        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/042624/assertions/MSIGDB.zip",
-        "size": "34.11MB",
-        "updated": "04-24-2024",
+        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/09202024/MSIGDB.zip",
+        "size": "34.09MB",
+        "updated": "09-20-2024",
         "terms": 44692,
         "edges": 1292349
     },
     {
         "source": "ERCC",
         "description": "eCLIP-seq and CHIP-seq associations from ERCC",
-        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/042624/assertions/ERCC.zip",
-        "size": "483.82MB",
-        "updated": "04-24-2024",
-        "terms": 4072788,
-        "edges": 17328474
+        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/09202024/ERCC.zip",
+        "size": "405.25MB",
+        "updated": "09-20-2024",
+        "terms": 3381760,
+        "edges": 15851556
     },
     {
         "source": "4DN",
         "description": "Chromatin loops called from Hi-C experiments performed in select cell lines",
-        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/042624/assertions/4DN.zip",
+        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/09202024/4DN.zip",
         "size": "51.62MB",
-        "updated": "04-24-2024",
+        "updated": "09-20-2024",
         "terms": 459548,
         "edges": 1294975
     }
