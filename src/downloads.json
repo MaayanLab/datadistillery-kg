@@ -2,7 +2,7 @@
     {
         "source": "HuBMAP",
         "description": "Tissue, cell-type and gene specific markers from single-cell data",
-        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/09202024/HuBMAP.zip",
+        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/09202024/assertions/HuBMAP.zip",
         "size": "70.53KB",
         "updated": "09-20-2024",
         "terms": 843,
@@ -11,7 +11,7 @@
     {
         "source": "IDG",
         "description": "Relationships between compounds, diseases, and proteins",
-        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/09202024/IDG.zip",
+        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/09202024/assertions/IDG.zip",
         "size": "29.24MB",
         "updated": "09-20-2024",
         "terms": 329031,
@@ -20,7 +20,7 @@
     {
         "source": "GlyGen",
         "description": "Associations from multiple glycomics database",
-        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/09202024/GlyGen.zip",
+        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/09202024/assertions/GlyGen.zip",
         "size": "43.80MB",
         "updated": "09-20-2024",
         "terms": 430928,
@@ -29,7 +29,7 @@
     {
         "source": "GTEx",
         "description": "Expression and eQTL data from GTEx",
-        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/09202024/GTEx.zip",
+        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/09202024/assertions/GTEx.zip",
         "size": "410.14MB",
         "updated": "09-20-2024",
         "terms": 2861519,
@@ -38,7 +38,7 @@
     {
         "source": "SPARC",
         "description": "The SPARC Knowledge base of the Automatic Nervous System (SCKAN)",
-        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/09202024/SPARC.zip",
+        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/09202024/assertions/SPARC.zip",
         "size": "198.29KB",
         "updated": "09-20-2024",
         "terms": 1912,
@@ -47,7 +47,7 @@
     {
         "source": "HGNCHPO",
         "description": "HGNC gene node mapping to Human Phenotype Ontology",
-        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/09202024/HGNCHPO.zip",
+        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/09202024/assertions/HGNCHPO.zip",
         "size": "15.17MB",
         "updated": "09-20-2024",
         "terms": 14337,
@@ -56,7 +56,7 @@
     {
         "source": "CLINVAR",
         "description": "Assertions between human genes and phenotypes",
-        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/09202024/CLINVAR.zip",
+        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/09202024/assertions/CLINVAR.zip",
         "size": "2.47MB",
         "updated": "09-20-2024",
         "terms": 24533,
@@ -65,7 +65,7 @@
     {
         "source": "MoTrPAC",
         "description": "Differential gene expression data from endurance training exercise of young adult rats",
-        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/09202024/MoTrPAC.zip",
+        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/09202024/assertions/MoTrPAC.zip",
         "size": "1.29MB",
         "updated": "09-20-2024",
         "terms": 14494,
@@ -74,7 +74,7 @@
     {
         "source": "HGNCUNIPROT",
         "description": "Gene-Protein relationships",
-        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/09202024/HGNCUNIPROT.zip",
+        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/09202024/assertions/HGNCUNIPROT.zip",
         "size": "937.01KB",
         "updated": "09-20-2024",
         "terms": 16652,
@@ -83,7 +83,7 @@
     {
         "source": "KF",
         "description": "Genotypic and phenotypic data from the Pediatric Cardiac Genetics Consortium cohort in Kids First",
-        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/09202024/KF.zip",
+        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/09202024/assertions/KF.zip",
         "size": "3.41MB",
         "updated": "09-20-2024",
         "terms": 32474,
@@ -92,7 +92,7 @@
     {
         "source": "LINCS",
         "description": "Gene expression data from drug perturbation, as well as drug-drug similarity",
-        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/09202024/LINCS.zip",
+        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/09202024/assertions/LINCS.zip",
         "size": "12.18MB",
         "updated": "09-20-2024",
         "terms": 8942,
@@ -101,7 +101,7 @@
     {
         "source": "hgnc_enzyme",
         "description": "Enzyme Genes",
-        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/09202024/hgnc_enzyme.zip",
+        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/09202024/assertions/hgnc_enzyme.zip",
         "size": "84.47KB",
         "updated": "09-20-2024",
         "terms": 0
@@ -109,7 +109,7 @@
     {
         "source": "ARCHS4",
         "description": "Coexpression Matrix based on Human RNA-seq studies from GEO",
-        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/09202024/ARCHS4.zip",
+        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/09202024/assertions/ARCHS4.zip",
         "size": "11.36MB",
         "updated": "09-20-2024",
         "terms": 25088,
@@ -118,7 +118,7 @@
     {
         "source": "MW",
         "description": "Metabolite relationships with gene, disease, and cell",
-        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/09202024/MW.zip",
+        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/09202024/assertions/MW.zip",
         "size": "2.16MB",
         "updated": "09-20-2024",
         "terms": 11188,
@@ -127,7 +127,7 @@
     {
         "source": "MSIGDB",
         "description": "Five subsets of MSigDB v7.4 datasets",
-        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/09202024/MSIGDB.zip",
+        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/09202024/assertions/MSIGDB.zip",
         "size": "34.09MB",
         "updated": "09-20-2024",
         "terms": 44692,
@@ -136,7 +136,7 @@
     {
         "source": "ERCC",
         "description": "eCLIP-seq and CHIP-seq associations from ERCC",
-        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/09202024/ERCC.zip",
+        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/09202024/assertions/ERCC.zip",
         "size": "405.25MB",
         "updated": "09-20-2024",
         "terms": 3381760,
@@ -145,7 +145,7 @@
     {
         "source": "4DN",
         "description": "Chromatin loops called from Hi-C experiments performed in select cell lines",
-        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/09202024/4DN.zip",
+        "url": "https://s3.amazonaws.com/maayan-kg/dd-kg/09202024/assertions/4DN.zip",
         "size": "51.62MB",
         "updated": "09-20-2024",
         "terms": 459548,
