@@ -1,0 +1,18 @@
+source	description	terms	edges
+HuBMAP	Tissue, cell-type and gene specific markers from single-cell data	843	1234.0
+IDG	Relationships between compounds, diseases, and proteins	329031	435923.0
+GlyGen	Associations from multiple glycomics database	430928	920128.0
+GTEx	Expression and eQTL data from GTEx	2861519	13641131.0
+SPARC	The SPARC Knowledge base of the Automatic Nervous System (SCKAN)	1912	3987.0
+HGNCHPO	HGNC gene node mapping to Human Phenotype Ontology	14337	657194.0
+CLINVAR	Assertions between human genes and phenotypes	24533	61762.0
+MoTrPAC	Differential gene expression data from endurance training exercise of young adult rats	14494	25712.0
+HGNCUNIPROT	Gene-Protein relationships	16652	8327.0
+KF	Genotypic and phenotypic data from the Pediatric Cardiac Genetics Consortium cohort in Kids First	32474	76690.0
+LINCS	Gene expression data from drug perturbation, as well as drug-drug similarity	8942	246294.0
+hgnc_enzyme	Enzyme Genes	0	
+ARCHS4	Coexpression Matrix based on Human RNA-seq studies from GEO	25088	287570.0
+MW	Metabolite relationships with gene, disease, and cell	11188	76297.0
+MSIGDB	Five subsets of MSigDB v7.4 datasets	44692	1292349.0
+ERCC	eCLIP-seq and CHIP-seq associations from ERCC	3381760	15851556.0
+4DN	Chromatin loops called from Hi-C experiments performed in select cell lines	459548	1294975.0
